@@ -1,0 +1,43 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "5595"
+decided: "1931-03-31"
+citations: ["42 P.R. Dec. 99"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Juan S. Marchán, demandante y apelante, v. José Pedro, Delfina Josefa Antonia y Manuel Eguen Otazabal, herederos de Adolfo Graciano Eguen Otazabal, demandados y apelados."]
+source_url: "https://static.case.law/pr-dec/42/cases/0099-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8789726
+---
+
+# Marchán v. Pedro
+
+## Majority (El Juez Asociado Señob Texidoe,)
+
+El Juez Asociado Señob Texidoe,
+emitió la opinión del tribunal.
+El demandante en este caso, Doctor Juan S. Marchan, apeló de la sentencia dictada por la corte de distrito de San. Juan en un pleito por él seguido contra la sucesión de Don Adolfo Graciano Eguen Otazabal en cobro de honorarios profesionales. La apelación se presentó en 13 de junio de 1930. El apelante pidió la transcripción de evidencia, la que se hizo y quedó aprobada en 29 de diciembre de 1930, y fué elevada a este tribunal en 28 de enero de 1931. La trans-cripción es un tomo de 683 páginas, y aun hay una adicional de 12 páginas.
+3STo se lia. presentado la transcripción del récord; y el apelante ha solicitado diversas prórrogas para hacerlo, fundándose en que el taquígrafo no la ha podido terminar; la última prórroga que aparece concedida por este tribunal expiró el 14 de marzo de 1931; y en marzo 9, 1931, pidió el apelante una prórroga de 30 días para la preparación y radi-cación de alegato, que le fué concedida; y en. 13 de los mismos mes y año, una de treinta días para la radicación de trans-cripción del récord, fundándose en que el abogado del ape-lante ha intentado preparar esa transcripción de acuerdo con los abogados de la parte apelada, que se negaron a ello; que los gastos de la transcripción montan a $50 aproximadamente, y que el apelante reside en Manatí; que el abogado del apelante tiene imperiotea necesidad de ir a los Estados Unidos continentales por un término de veinte días, y se embarca el 14 de marzo de 1931. Esta petición no ha sido provista.
+La parte apelada ha presentado moción para que desestimemos la apelación, fundándose en que no ha sido presentada la transcripción del récord, y han transcurrido más de treinta días de la aprobación de la de la evidencia; que la Ley 81 de 1919 dispone que se eleve a este tribunal, sin demora el récord completo dentro de ese término; que ilo se ban entregado al Secretario de la corte de distrito la certificación de los documentos que componen el legajo de sentencia, ni los derechos que importa la misma; y que la apelación no está perfeccionada,, y las prórrogas concedidas son nulas.
+El artículo 299 del Código de Enjuiciamiento Civil, tal como quedó enmendado por la Ley No. 81 de 1919, en la parte necesaria dice así:
+“Constituirá el récord de una apelación la certificación que libran el secretario del tribunal a quo, o los abogados de las partes, del le-gajo de la sentencia y de la notificación de la apelación, excepto en el caso de haberse aprobado una transcripción de la evidencia de acuerdo con la ley. En este caso el récord de apelación estará cons-tituido por dicha transcripción original y por certificación de los de-más documentos que constituyan el legajo de la sentencia autorizada en la forma prevista anteriormente. Será deber del apelante entre-gar al secretario dicha certificación autorizada por los abogados de las partes, o solicitar la misma de aquél, y dicho funcionario elevará a la Corte Suprema, sin demora alguna, el récord completo de la apelación. El récord de apelación deberá ser-archivado en la se-cretaría de la Corte Suprema dentro de los treinta días siguientes al en que se haya aprobado el pliego de excepciones, sin que la demora del Secretario perjudique a la apelación con la constancia de haberse notificado a los abogados de las partes apeladas, con copia literal de la misma, certificada por el abogado del apelante. En el caso de ha-berse aprobado una transcripción de la evidencia, el término se con-tará desde la aprobación de la misma, y la constancia mencionada se limitará a la entrega de la parte restante del legajo de la sentencia."
+Sin que pueda caber duda en cuanto al texto legal, la transcripción de autos se forma con la de la evidencia, o la exposición del caso, y el legajo de sentencia. No es dudoso que no es misión del taquígrafo de la corte la copia de los documentos que constituyen el legajo de sentencia, cuya autenticación indudablemente y por mandato de la ley toca al secretario de la corte, o a los abogados de las partes. Si cualquiera de éstas encarga o pide al taquíg'rafo tal copia, de su mayor o menor diligencia, y facilidades para despa-charla, responde la parte misma.
+La transcripción del récord según el articulado de la ley, es una y única. El presentarla fraccionada no puede tenerse como cumplimiento del precepto legal, y esto es lo que ocurre en este caso.
+lían transcurrido, con exceso, los noventa días desde que se presentó la apelación en este caso. • Dé acuerdo con la íegla 60 de este tribunal, cuando el apelante deje de cumplir los deberes o requisitos que se le imponen por la ley o el reglamento, puede el tribunal desestimar la apelación, de oficio, o a instancia de parte.
+El apelante no puede sostener que ha presentado la trans-cripción del récord, como la define la ley.
+Se desestima esta apelación.
+Los Jueces Presidente Señor del Toro y Asociado £>eñor Hutchison disintieron.
+EN RECONSIDERACION
+Abril 30, 1931
+A nuestra resolución del 31 de marzo de 1930, desesti-mando la apelación, se ha presentado solicitud para que reconsideremos.
+Es frecuente el caso de que los peticionarios en reconsi-deración, insistan en argumentar sobre extremos ya resueltos, sin presentar algo nuevo, que quizá hubiera escapado al es-tudio y consideración del tribunal al resolver. Sobre estos extremos basta lo que en la resolución de que se trata fue dicho a su tiempo.
+Nada hay en nuestra resolución que tienda a limitar las facultades y derechos de este tribunal; ni que justifique esa creencia. El tribunal conoce perfectamente sus facultades, y en la concesión de prórrogas va hasta donde le es posible en cuanto a tolerancia.
+Los hechos en este caso indican un olvido de algunas reglas elementales en cnanto a la tramitación de la apelación. Nada hay en la ley ni en el reglamento del tribunal qne per-mita presentar fraccionada la transcripción del récord; y nada qne indique qne es el taquígrafo de la corte el funcio-nario qne ha de preparar el legajo de sentencia; la parte qne encarga al taquígrafo de tal misión, lo hace a su riesgo.
+El reglamento de este tribunal, en su artículo 58, no dice lo qne la parte peticionaria pretende, citando el texto en parte:
+“Si la copia de los autos, no fuere presentada dentro del tér-mino prescrito, puede desestimarse la apelación al hacerse una mo-ción en tal sentido previa notificación de la misma. Si la copia de los autos ha sido presentada a la fecha en que se haga' tal noti-ficación, este hecho constituirá una conte'stación eficaz a la referida moción, aun en el caso de que dicha copia no se hubiere presen-tado dentro del término prescrito.”
+Hecha una moción para desestimar, el tribunal puede de-cretar la desestimación; si la copia de los autos se presenta antes de verse la moción, ello sería una contestación eficaz, lo que no priva al tribunal de resolver lo que estime más justo.
+Aquí la moción para desestimar se presentó el 27 de febrero de 1931; la parte apelante, lejos de presentar la transcripción, pidió en 14 de marzo siguiente, esto es, unos quince días después de notificada de tal moción, una nueva prórroga para tal presentación, cuando ya la tenía en su poder, y aun entonces necesitaba, segúín expresó, treinta días más, para que la certificara el secretario. Y se oyó la moción en 16 de marzo sin que se presentara la transcripción; si se hubiera presentado podría invocarse el artículo 58 del reglamento que ahora se nos recuerda.
+Esto no obstante, y prescindiendo de la tenacidad con que se nos alega un derecho que no existe, teniendo en cuenta que se ha presentado una transcripción de evidencia de cerca de. 700 páginas; que la parte apelada no ha querido, según lo que se alegó, subscribir la certificación del legajo del récord; y que la falta lia procedido de una errónea, aunque no con-fesada, interpretación de la ley, usaremos de nuestra discre-ción para abrir esta apelación, y conceder a la apelante un fínico término de diez días para presentar el legajo y que se nna a la transcripción de evidencia.
+Nota: Véase el prefacio.
