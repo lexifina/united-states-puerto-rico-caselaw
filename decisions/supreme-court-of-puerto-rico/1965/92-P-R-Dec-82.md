@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "Número: CE-63-14"
+decided: "1965-03-23"
+citations: ["92 P.R. Dec. 82"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sala integrada por el Juez Asociado Señor Belaval como Presi-dente de Sala y los Jueces Asociados Señores Hernández Matos y Santana Becerra."]
+parties: ["Roberto Acevedo García, peticionario, v. Tribunal Superior de Puerto Rico, Sala de San Juan, Hon. Ángel M. Umpierre, Juez, recurrido; Western Assurance Company, interventora."]
+source_url: "https://static.case.law/pr-dec/92/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8813696
+cites_cases: ["60 D.P.R. 830"]
+---
+
+# Acevedo García v. Tribunal Superior de Puerto Rico
+
+## Majority (El Juez Asociado Señor Belaval)
+
+El Juez Asociado Señor Belaval
+emitió la opinión del Tribunal.
+El Tribunal de Distrito de Puerto Rico, Sala de San Juan, dictó sentencia ordenándole a la aquí interventora, Western Assurance Company, pagar al peticionario la can-tidad de $1,800.00, más las costas, y $200 para honorarios de abogado, por ciertos daños sufridos en un accidente de au-tomóviles. La Western Assurance Company no estuvo con-forme con dicha sentencia y apeló de la misma ante el Tribunal Superior de Puerto Rico, Sala de San Juan, alegando como único error el siguiente: “Erró el Tribunal de Dis-trito al fijar el valor del automóvil en la suma de $1,800.00 sin tener base en la evidencia recibida para la [sic] evalua-ción del referido automóvil.” El Tribunal recurrido dictó sentencia revocando la dictada por el Tribunal de Distrito y declaró sin lugar la demanda. Todo lo que tenemos que resolver aquí, es, si existe en la evidencia recibida por el Tribunal de Distrito una descripción del daño sufrido suficiente para sostener la valoración del automóvil damnificado.
+De acuerdo con la breve relación de hechos, incluida en las Conclusiones de Hecho y de Derecho preparadas por el ilustrado Juez del Tribunal de Distrito, el aquí peticionario Roberto Acevedo García, “declaró que para la fecha del accidente poseía un De Soto, modelo 1955, de lujo, el cual había adquirido quince meses antes en la suma de $2,000.00; que lo había pintado tres meses antes; que para esa fecha era mayordomo de la Eastern Sugar, y apenas utilizaba el carro porque la compañía le proveía un ‘jeep’; que sólo lo usaba los sábados y domingos para pasear a su familia; que su carro estaba en perfectas condiciones y que lo había tenido que vender para piezas en $100.00 al garaje Colón en Caguas”. Jesús Maldonado “declaró que conocía a Roberto Acevedo, el demandante, a quien en varias ocasiones le reparó el vehículo de motor; que el día 9 de noviembre de 1959, conducía el vehículo de motor del demandante, y mientras se dirigía en dirección de Juncos a Gurabo y mientras ya era de noche, chocó con un truck mal estacionado; . . . que el carro que conducía, propiedad del demandante era un De Soto Belvedere en perfectas condiciones, el cual él mismo había pintado tres meses antes y un mes antes le había puesto las alfombras”. Jaime Félicier, declaró, en síntesis, que en el día y el sitio del accidente vio el vehículo del demandante destrozado. Se trata, pues, de un caso de destrucción total.
+La interventora nos advierte que la sentencia del Tribunal Superior revocando al Tribunal de Distrito debe sostenerse, aunque sea por un fundamento distinto, porque la parte reclamante dejó de proporcionar los datos necesarios para fijar la indemnización. Cita en su favor nuestra decisión en el caso de Boria, v. Maryland Casualty Co., 60 D.P.R. 830 (Del Toro) (1942) cita precisa a las págs. 834-837. En el caso de Boria la indemnización solicitada era por averías, depreciación y rendimiento diario (pág. 834) mientras que en el caso presente se reclama indemnización por “una pérdida total de vehículo”. En el propio texto de la opinión encontramos lo que diferencia el caso citado del caso bajo estudio: “Lo que discuten [los apelantes] es que no se presentó evidencia que permita fijar la cuantía de los perjuicios reclamados y que la corte dictó sentencia a base de la destrucción total del truck no pudiendo hacerlo porque dicha destrucción no fue alegada como la causa determinada de los daños.”
+Para determinar la pérdida total del vehículo tenemos los siguientes datos: Un precio de compra quince meses antes del accidente de $2,000.00, evidencia de un uso ordenado y de un cuidado laudable del vehículo durante dichos quince meses y un precio de remate de cien dólares por los escombros (trash) del carro después del accidente. La ilustrada Sala sentenciadora del Tribunal de. Distrito fijó la pérdida total del vehículo en $1,800.00. Indudablemente rebajó del precio de compra inicial los cien dólares del precio de deshecho y cal-culó la posible depreciación en cien dólares adicionales. La fecha de la compra en relación con la fecha del accidente no resulta tan remota que necesite de un peritaje para poder calcular la depreciación, y la cantidad de cien dólares fijada por un período de quince meses sobre el costo de $1,800.00 del vehículo no resulta tan irrazonable como para que haya que detener el curso ordinario de la justicia.
+Por las razones expuestas debe revocarse la sentencia de 28 de febrero de 1968 del Tribunal Superior de Puerto Rico, Sala de San Juan, y dejarse en todo su vigor y efecto la sentencia de 22 de agosto de 1962 del Tribunal de Distrito de Puerto Rico, Sala de San Juan.
