@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "Pleito No. 230"
+decided: "1902-12-04"
+citations: ["2 P.R. Sent. 675"]
+reporter: "pr-sent"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henares contra El Registrador."]
+source_url: "https://static.case.law/pr-sent/2/cases/0675-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11994530
+---
+
+# Henares v. Registrador
+
+## Majority (José S. Quiñones. — José C. Hernández. — José M? Figue-ras. — Louis Sulzbacher.— J. H. MacLeary.— Antonio F. Castro, Secretario.)
+
+RESOLUCIÓN.
+Puerto Rico, Diciembre cuatro, de mil novecientos dos.— Visto el presente recurso gubernativo interpuesto por el Abogado Don Juan Quintero y González de Quijano, en re-presentación de Don José Henares, contra negativa del Registrador de la Propiedad sustituto de Mayagüez á inscri-bir un mandamiento de embargo. — Resultando: Que se-guido juicio ejecutivo por Don José Henares, como cesionario de Don Agustín Hernández, contra Don Miguel Casanova, en cobro de pesos, se decretó por el Tribunal de Distrito de Mayagüez el embargo de novecientos ochenta y siete dollars, veinte centavos, que era en deber al deudor su hermana Doña Ursula Casanova, y requerida ésta de pago, como no lo verificara, se le embargó una estancia de su propiedad, de ciento diez y ocho cuerdas de terreno, radicadas en el barrio de “Rio Cañas Abajodel término Municipal de aquella ciudad, y librado mandamiento para su anotación en el Re-gistro de la Propiedad, la denegó el Registrador por apare-cer la finca embargada inscrita á favor de persona distinta de aquélla contra la que se había decretado el embargo; negativa que reprodujo después por los mismos fundamen-tos al presentársele un mandamiento adicional para la ano-tación del embargo, bajo el supuesto de haber sido subsa-nado el defecto que impidiera la anotación del primero.— Resultando: Que contra la nota denegatoria del Registra-dor ha interpuesto en tiempo ante este Tribunal Supremo el Abogado Don Juan Quintero y González de Quijano, á nombre del interesado Don José Henares, el presente recurso gubernativo, pidiendo se revoque la negativa del Registrador y se disponga que por el mismo se tome la anotación pre-ventiva del embargo; alegando en apoyo de su solicitud algunas consideraciones relativas á la fecha de la presenta-ción en el Registro de la Propiedad de los documentos res-pectivos. — Siendo Ponente el Presidente del Tribunal Don José Severo Quiñones. — Considerando : Que conforme á la regla primera del artículo 92 del Reglamento dictado para la ejecución de la Ley Hipotecaria vigente en esta Isla, sobre la manera de llevar á efecto la anotación preventiva de embargo si la propiedad de las fincas embargadas apare-ciere inscrita en los libros antiguos ó modernos, á favor de una persona que no sea aquélla contra quien se hubiere decretado el embargo, se denegará la anotación, practicán-dose cuanto por la ley y el mismo Reglamento se dispone para las inscripciones, que se denieguen por defectos no sub-sanables ; y que encontrándose en tales condiciones la finca embargada á Doña Ursula Casanova, por aparecer inscrita á nombre de distinta persona, según lo consigna en su nota el Registrador de la Propiedad, es de rigurosa necesidad la aplicación al caso presente de aquel precepto legal. — Consi-derando : En cuanto á las consideraciones alegadas respecto á la fecha de la presentación de los documentos en el Registro de la Propiedad, que nada puede declarar este Tribunal por no haberlas justificado en forma la parte recurrente. — Se declara sin lugar el presente recurso guber-nativo y se confirma la nota denegatoria puesta por el Registrador de la Propiedad sustituto de Mayagüez al pie del mandamiento de que se trata. — Y con devolución de los documentos presentados, líbrese copia de la presente resolución al Registrador de la Propiedad para la notifica-ción de ‘los interesados y demás efectos procedentes. — Lo acordaron y firman los señores del Tribunal, de que certifico.
+José S. Quiñones. — José C. Hernández. — José M? Figue-ras. — Louis Sulzbacher.— J. H. MacLeary.— Antonio F. Castro, Secretario.
