@@ -1,0 +1,51 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "Núm. 7777"
+decided: "1939-06-08"
+citations: ["55 P.R. Dec. 59"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Arturo Rodríguez Pou, demandante y apelante, v. Enrique Martínez, Jr., y Enrique Martínez, demandados y apelados."]
+source_url: "https://static.case.law/pr-dec/55/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8783171
+cites_cases: ["121 So. 345", "35 P. (2d) 164", "54 P. (2d) 519"]
+---
+
+# Rodríguez Pou v. Martínez
+
+## Majority (El Juez Asociado Señoh De Jesús)
+
+El Juez Asociado Señoh De Jesús
+emitió la opinión del tribunal.
+En reclamación de los daños y perjuicios que alega el de-mandante haber sufrido con motivo de un accidente de auto-móvil, instó este pleito contra Enrique Martínez y su hijo menor de edad del mismo nombre. La demanda contiene tres causas de acción.
+En la primera se alega que el 25 de julio de 1937 el de-mandante era dueño de un automóvil Ford licencia número 728. Que en la noche de ese día, el demandante viajaba en su indicado automóvil entre las paradas 6 y 7 de la Avenida Ponce de León, por su derecha, a una velocidad no mayor de doce millas por hora, con las precauciones necesarias, cuando súbitamente y sin poderlo evitar el demandante, su carro fue chocado por detrás por un automóvil Packard, licencia nú-mero 2667, que a la sazón era manejado por el demandado Enrique Martínez, Jr. a una velocidad exagerada, de más de 35 millas por hora, sin tocar klaxon ni ningún otro aparato de alarma. Que con motivo del choque, el automóvil del de-mandante quedó totalmente destruido e inservible. Que el demandado Enrique Martínez, a los fines de que se expidiera a su hijo licencia de chófer y siendo dicho hijo menor de veintiún años, suscribió ante el Comisionado del Interior de Puerto Rico una obligación en la cual se comprometió a pa-gar y resarcir todos los daños. que el demandado Enrique Martínez, Jr. pudiera causar en el manejo de un vehículo de motor. En la segunda causa de acción reclama el demandante los daños personales que recibió con motivo del accidente y la tercera se contrae a los daños y perjuicios que alega ha-ber sufrido por la privación del uso del automóvil destruido.
+En las tres causas de acción se reclaman $1,000, $1,500 y $1,000 respectivamente.
+Después de celebrado un juicio oral en que el demandante sometió la prueba que estimó procedente y los demandados se abstuvieron de ofrecer la suya, sometiendo el caso por las alegaciones y la evidencia del demandante, la Corte, como parte del documento que tituló “Relación de Hechos y Opi-nión”, dictó sentencia con los siguientes pronunciamientos:
+1. Declaró sin lugar la demanda en sus tres causas de acción en cuanto al demandado Enrique Martínez.
+2. La declaró con lugar en cuanto al demandado Enrique Martínez, Jr. en lo que respecta a la pri-mera y segunda causas de acción y lo condenó a pagar al demandante $1,000 y $500 respectiva-mente.
+3. Desestimó la demanda en cuanto a la tercera causa de acción.
+4. Condenó al demandado Enrique Martínez, Jr. a pa-gar las costas y $250 en que fijó los honorarios de abogado del demandante; y
+5. Condenó al demandante a’ pagar las costas del de-mandado Enrique Martínez (padre).
+Contra la parte de dicha sentencia que desestimó la de-manda én sus tres causas de acción en cuanto al demandado Enrique Martínez (padre) y que también la desestimó en cuanto a la tercera causa de acción contra ambos demanda-dos, y fijó en $500 los daños reclamados en la segunda causa de acción, estableció el demandante el presente recurso de apelación.
+Dos son los errores que el apelante imputa a la corte sen-tenciadora. Los formula así:
+“1. La Corte erró al declarar que la responsabilidad del deman-dado estaba limitada y terminada cuando su hijo menor adquirió la edad de diez y ocho años.
+“2. La Corte cometió error al declarar sin lugar la demanda en cuanto a las tres causas de acción.”
+La responsabilidad que el demandante exige al demandado Enrique Martínez (padre) en las tres causas de acción expuestas en la demanda no está basada en el artículo 1803 del Código Civil (edición 1930) que baee al padre, y por muerte o incapacidad de éste a la madre, responsables de los perjuicios causados por los hijos menores de edad que viven en su compañía. La demanda no alega ni resulta de la prueba que al tiempo de ocurrir el accidente que motiva este pleito el menor Enrique Martínez viviera con su padre. Por el contrario, al iniciarse el juicio oral expresamente se declaró que la acción no estaba basada en dicho precepto legal, descansando el demandante, en lo que a Enrique Martínez (padre) concierne, única y exclusivamente en la fianza que de conformidad con el artículo 5 (c) de la Ley núm. 75, aprobada el 13 de abril de 1916 (Leyes de ese año, pág. 144), suscribió y archivó el demandado en las oficinas del Comisionado del Interior, documento que se acompaña a la demanda como exhibit de la misma, y que literalmente dice así:
+“El Pueblo de Puerto Rico.— (Departamento del Interior).
+‘ ‘ CONSENTIMIENTO DE LA PERSONA QUE TlENE A OTRA BAJO PATRIA Potestad y para la Cual Desea una LioenCia de Conductor.
+Santurce, P. R., Abril 20, 1935.
+Comisionado del Interior,
+San Juan, P. R.
+Señor:
+Habiéndome enterado de la Ley Núm. 75, aprobada por la Asam-blea Legislativa en abril 13, 1916, y estando bien impuesto de sus disposiciones, por la presente certifico que Enrique Martínez, Jr. es mi bijo y que deseo se le expida a él una licencia para manejar Chrysler núm. 7825 del cual certifico que soy el dueño.
+Por la presente doy mi consentimiento para que se expida la dicha licencia haciéndome responsable de todas las multas que puedan im-ponerse a él por cualquier infracción de la ley arriba mencionada, y de todos los daños que él pueda ocasionar.
+Respetuosamente,
+(Fdo.) Enrique Martínez.”
+El artículo 5 (c) que sirvió de base al documento trans-crito dice así:
+“ (c) No se expedirá licencia a persona menor de diez y seis años de edad. Se podrá expedir licencia a una persona cuya edad fluctúe entre los' diez y seis y diez y ocho años, para manejar su propio automóvil o el de la persona bajo cuya patria potestad se encuentre, siempre que ésta consintiere, mediante escrito presentado al Comisio-nado del Interior, en hacerse responsable de todas las multas que se impusieren al conductor por cualquier infracción de esta Ley, y por todos los daños que pueda causar. Fuera de este caso no se expedirá ninguna licencia a personas menores de diez y ocho años.”
+El escrito por el cual Enrique Martínez se hizo respon-sable de todos los daños que pudiera ocasionar su bijo en el manejo de vehículos de motor está fechado el 20 de abril de 1935. Como de acuerdo con el artículo 5 (c) supra en ningún caso puede expedirse licencia para manejar vehículos de motor a personas menores de diez y seis años, al archivarse en el Departamento el indicado escrito el 20 de abril de 1935, surge la presunción que el menor había llegado para esa fe-cha a la edad mínima de diez y seis años, pues de otro modo el Comisionado no hubiera aceptado el documento ni expe-dido al menor la correspondiente licencia. Artículo 464, in-cisos 15 y 32, del Código de Enjuiciamiento Civil (edición de 1933).
+Alegándose en la demanda que el accidente tuvo lugar el 25 de julio de 1937, preciso es concluir que en esta última fecha hacía varios meses que el menor había alcanzado la edad de diez y ocho años. Considerando que la Ley núm. 75 de 13 de abril de 1916 no exige a los menores qne hayan al-canzado dicha edad de diez y ocho años la prestación de la fianza a qne se refiere el artícnlo 5 (c) anteriormente trans-crito, equiparándolos a los mayores de edad en lo qne a ob-tención de licencia para guiar vehículos de motor se refiere (artícnlo 5 (e) de la citada ley), es evidente que el referido escrito de fianza, sólo subsiste mientras dure el período de indiscreción, como lo llama la jurisprudencia, y por consi-guiente cuando el demandado Enrique Martínez, Jr. alcanzó la edad de diez y ocho años, el documento en cuestión quedó ipso facto cancelado por ministerio de la ley. Si esta obli-gación cesó al cumplir el menor los diez y ocho años de edad y cuando ocurrió el accidente ya los había cumplido, claro es qne ninguna obligación podía entonces producir el indicado documento, ya caduco por haber expirado el lapso de tiempo durante el cual había de surtir efecto. Éste fue, en síntesis, el razonamiento que sirvió de base al juez inferior para de-sestimar la demanda en cuanto al demandado Enrique Mar-tínez (padre). A nuestro juicio, no cabe dar otra interpre-tación al artículo 5 (c) supra, pues pudiendo los menores de diez y ocho años obtener licencia de chófer sin necesidad de la aludida fianza, no hemos de presumir que fuera la inten-ción del legislador discriminar entre aquellos menores que habían empezado a manejar vehículos de motor a los diez y seis años, exigiéndoles tal fianza hasta los veintiún años, y no requiriendo igual garantía de los mayores de diez y ocho años por el mismo período comprendido entre los diez y ocho y veintiún años de edad. Tal interpretación es absurda y discriminatoria, y por lo tanto debe rechazarse. Véanse por vía de ilustración, por no creerlos enteramente aplicables, los casos de Sleeper v. Woodmansee, 54 P. (2d) 519, y Easterly v. Cook, 35 P. (2d) 164, 167, citados en la opinión del juez inferior.
+Es evidente la improcedencia de la tercera causa de acción, o sea la que reclama daños y perjuicios por la privación del uso del automóvil, toda vez que existe otra causa de acción, que lia sido declarada con lngar, por la destrucción total del mismo vehículo. La sentencia que concede daños y perjuicios reclamados por la destrucción total de un objeto excluye cualquier otro pronunciamiento de daños y perjui-cios por la privación del uso del mismo. Adams v. Bell Motors, 121 So. 345; Blashfield’s Cyclopedia of Automobile Law, tomo 2, pág. 2004; Huddy, Automobile Law, tomo 17-18, 9a. edición, sección 254, pág. 533, y casos citados.
+No existiendo nmytmo de los dos errores señalados por el apelmtte, procede, desestimar el recurso y confirmar la sen-tencia apelada.
