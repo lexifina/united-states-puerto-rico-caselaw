@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "9"
+decided: "1903-12-17"
+citations: ["5 P.R. Dec. 26", "5 P.R. 52"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jueces concurrentes: Sres. Hernández, Higueras y Mac-Leary.", "El Juez Asociado Sr. Sulzbacher no intervino en la resolu-ción de este caso."]
+parties: ["Blanco v. El Registrador de la Propiedad."]
+source_url: "https://static.case.law/pr-dec/5/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8847937
+---
+
+# Blanco v. Registrador de la Propiedad
+
+## Majority (El Juez Presidente Se. Quiñones,)
+
+El Juez Presidente Se. Quiñones,
+después de exponer los hechos anteriores, emitió la siguiente opinión del tribunal.
+Considerando: en cuanto al primer extremo de la nega-tiva del registrador, que careciendo Don Julián Blanco y Sosa de título de dominio inscrito de las participaciones que corresponden en la casa de que se trata a Don Julio y Don 'Guillermo Pérez y Acosta y Don Lucas Blanco y Pérez, y constando inscritas a nombre de éstos en el registro de la propiedad, es de rigurosa aplicación al caso el artículo 20 de la Ley Hipotecaria, según el que, si los bienes enajenados o gravados aparecen inscritos a nombre de persona distinta •de la que los transfiere o grava, debe el registrador denegar la inscripción del documento.
+Considerando: en cnanto al segundo extremo de la nota ■del registrador, que importando una verdadera adquisición del derecho de dominio, a título oneroso, la adjudicación que se hizo a Don Julián Blanco y Sosa en la divisoria de la testamentaría de su suegro Don' Lucas Pérez y Pérez, en el valor de la casa número 91 de la calle de San Francisco de •esta capital, de una participación por la suma de dos mil novecientos sesenta y siete pesos ochenta y siete centavos mejicanos, para pagar una deuda hipotecaria por la misma cantidad que pesaba sobre la casa citada, y habiendo tenido lugar dicha adjudicación en época en que estaba todavía vi-gente el matrimonio del Sr. Blanco con su primera esposa, Doña Antonia Pérez, es indudable que la participación en •el valor de la casa, así adquirida, pertenecía a la sociedad conyugal, con arreglo a la legislación vigente cuando tuvo lugar dicha adjudicación, o sea en el año de mil ochocientos ochenta y uno en que se hizo y fué aprobada la divisoria de los bienes de Don Lucas Pérez y según la cual, los bienes adquiridos por cualquiera de los esposos a título oneroso, durante el matrimonio, debían considerarse de la sociedad conyugal, a menos que se probase que hubiesen sido adqui-ridos con bienes propios del marido o de la mujer, (*) en lo que era conforme el antiguo Código Civil y lo es el vigente; y no constando por otra parte que se hubiese liquidado la "testamentaría de Doña Antonia Pérez, no ha podido vender Don Julián Blanco válidamente el condominio de que se trata, .al menos por lo que respecta a Don Lucas y Don Juan Blanco y Pérez y Don Julián Blanco Steel que no han renunciado .al derecho que pudieran tener sobre el expresado condominio^ •como herederos de la difunta Doña Antonia Pérez.
+Considerando: que en nada se oponen a las anteriores •conclusiones las circunstancias de haberse adjudicado a Don Julián Blanco y Sosa la participación de que se trata en la casa de la calle de San Francisco, como albacea qne era de la testamentaría de su difunto suegro Don Lucas Pérez y Pérez, ni la de haber pagado la hipoteca que pesaba sobre la citada casa con posterioridad a la muerte de su primera esposa, Doña Antonia Pérez, y con dinero de su propio pe-culio, como lo consigna en la escritura; lo primero, porque a virtud de la adjudicación hecha al albacea Don Julián Blanco, el dominio de la participación que le transferían los herederos en el valor de la casa, lo adquiría Don Julián Blanco y Sosa en su nombre particular, sin más responsabili-dad que la de pagar la hipoteca que pesaba sobre la casa; y lo segundo, porque aun cuando el pago lo hubiera verifi-cado después de disuelto su matrimonio con Doña Antonia Pérez y con dinero de su propio peculio, lo que no se ha probado en ninguna forma, esta circunstancia no alteraría en lo más mínimo el verdadero concepto de la adquisición del dominio, en su origen, y sólo daría lugar en su caso a un arreglo o liquidación de cuentas entre el viudo Don Julián Blanco y los herederos de su primera mujer.
+Considerando: por lo que se refiere al tercero y último extremo de la nota del registrador, que no habiendo com-parecido en la escritura la segunda esposa del vendedor Don Julián Blanco a prestar su consentimiento para la venta de (*) las diferentes participaciones que según resulta de aquel do-cumento ha adquirido el vendedor después de haber pasado a segundas nupcias, con arreglo al artículo 159 del nuevo Código Civil, adolece la venta de un defecto que produce la nulidad de la obligación, y que según el artículo 110 del Reglamento de la Ley Hipotecaria constituye una falta in-subsanable, que impide su inscripción en el registro de la propiedad.
+Considerando: por tanto, que no quedando inscrito a favor del comprador Don Antonio Blanco y Pérez el dominio de las participaciones a que se refieren los considerandos ante-riores, carece de título hábil para hipotecarlas válidamente.
+Vistas las disposiciones legales- citadas. Se aprueba en. todas sus partes la nota puesta por el registrador de la pro-piedad de esta capital al pie de la escritura de compraventa de que se trata, y devuélvase ésta con copia' de la presente resolución al registrador de la propiedad para su conoci-miento y demás efectos procedentes.
+Jueces concurrentes: Sres. Hernández, Higueras y Mac-Leary.
+El Juez Asociado Sr. Sulzbacher no intervino en la resolu-ción de este caso.
