@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "96"
+decided: "1904-02-19"
+citations: ["5 P.R. Dec. 161"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jueces concurrentes: Sres. Presidente Quiñones y Aso-ciados Hernández, Figueras y MacLeary."]
+parties: ["Argüeso et al. v. Müllenhoff y Körber."]
+source_url: "https://static.case.law/pr-dec/5/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8848183
+---
+
+# Argüeso v. Müllenhoff y Körber
+
+## Majority (El Juez Asociado Se. Sulzbachee,)
+
+El Juez Asociado Se. Sulzbachee,
+después de exponer los hechos anteriores, emitió la opinión del tribunal.
+Considerando: que en el apartado primero del artículo 62 de la Ley de Enjuiciamiento Civil, se dispone que fuera de los casos de sumisión expresa o tácita, en los juicios en que se ejerciten acciones personales, es Juez competente el del lugar en que debe cumplirse la obligación, y a falta de éste, a elec-ción del demandante, el del domicilio del demandado, o el del lugar del contrato si hallándose en él, aunque accidentalmente, pudiera hacerse el emplazamiento.
+Considerando: que la acción ejercitada en la demanda es personal y que no consta cuál sea el lugar en que deba cum-plirse la obligación, sin que tampoco haya sumisión expresa o tácita de las partes a tribunal alguno, por,todo lo cual, con arreglo al precepto legal anteriormente citado, el Tribunal de San Juan es el competente para conocer del juicio de que se trata, por ser el del domicilio del demandado, que no fué em-plazado en Humaeao, siendo en su virtud procedente y con-forme a la Ley el auto dictado en veinte de julio último por el Tribunal de Distrito de ILumacao.
+Fallamos: que debemos confirmar el mencionado auto ape-lado con las costas a cargo de los recurrentes, y líbrese al Tribunal de Distrito de Humacao la certificación correspondiente con devolución de los autos que lia remitido.
+Jueces concurrentes: Sres. Presidente Quiñones y Aso-ciados Hernández, Figueras y MacLeary.
