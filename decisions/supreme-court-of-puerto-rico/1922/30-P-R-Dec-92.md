@@ -1,0 +1,41 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "507"
+decided: "1922-02-09"
+citations: ["30 P.R. Dec. 92"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jueces concurrentes: Sres. Asociados Wolf, • Aldrey y Hutcbison."]
+parties: ["Masa, Recurrente, v. El Registrador de Caguas, Recurrido."]
+source_url: "https://static.case.law/pr-dec/30/cases/0092-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8752333
+cites_cases: ["56 Ia. 386"]
+---
+
+# Masa v. Registrador de Caguas
+
+## Majority (El Juez Presidente Sr. del Toro,)
+
+El Juez Presidente Sr. del Toro,
+emitió la opinión del tribunal.
+El 5 de julio de 1921 Juana Masa Torres, mayor de edad, soltera, propietaria y vecina de Aguas Buenas, Puerto Eico, compareció ante notario público y otorgó una escritura en la que expuso que era dueña de una finca rústica de nueve cuerdas radicada en el barrio de Jagüeyes del Municipio de Aguas Buenas, y, copiando textualmente del documento, ‘‘ que sobre la expresada finca no pesan gravámenes de ninguna clase; que la misma tiene un precio de quinientos dólares; y que la citada compareciente doña Juana Masa Torres, se halla ocupando esa finca, como su residencia y la de sus fa-miliares; por lo cual, ha acordado constituir y por la pre-sente escritura constituye derecho legal de homestead (ho-gar seguro) dentro y de acuerdo con el derecho concedido por una ley titulada £Ley para definir el homestead (hogar seguro) y para exentuarlo de una venta forzosa,’ aprobada en nueve (sic) de marzo de mil novecientos tres; ajustán-dose dicho derecho de homestead a las disposiciones conte-nidas en dicha ley, y deseando se inscriba en el registro de la propiedad.”
+Presentada la escritura en el registro, el registrador se negó a inscribirla “por lo que respecta al carácter de homestead que se trata de imprimir a la finca comprendida en este título, por observar que de acuerdo con la ley para definir el homestead de marzo 12 de 1903, interpretada a la luz del derecho americano # * * debiera probarse el grado de parentesco de las personas que viven en compañía de doña Juana Masa Torres, que es soltera, para establecer la dife-rencia entre una familia ideal o ficticia y una familia de exis-tencia real, según se ha resuelto en el caso de Linton v. Crosby, 56 Ia. 386 y en el caso de Bosquett v. Hall, 90 Kentucky 566, reportados en R. C. L. 13, 544 y 552.”
+No conforme Juana Masa Torres, interpuso contra la ne-gativa del registrador el presente recurso gubernativo.
+Sostiene la recurrente en primer término que el registra-dor actuó sin jurisdicción porque de acuerdo con la ley él sólo puede calificar la legalidad de las escrituras y la capa-cidad de los otorgantes por lo que resulte de las mismas es-crituras y por lo tanto no puede exigir “la comprobación me-diante evidencia de los hechos relatados en la escritura.”
+Si las palabras “ debiera probarse el grado de parentesco * '* * ” usadas por el registrador en su nota significaran que el registrador aspiraba a que se le presentara evidencia independiente sobre tal extremo, estaríamos conformes con la recurrente; pero a nuestro juicio no es ese el alcance de la nota. Puede deducirse que el registrador sostiene que del mismo documento o de los mismos documentos que se le pre-senten debe resultar el grado de parentesco para poder resolver si debe o no inscribir el derecho de que se trata. T para esto está facultado el registrador de acuerdo con la propia ley invocada por la recurrente. Artículo 18 de la Ley Hipotecaria.
+Veamos, pues, si por los términos del documento presen-tado en el registro resulta o no constituido legalmente el bogar seguro de que se trata en este caso.
+Dice R. C. L.:
+“La palabra ‘homestead’ (bogar seguro) tiene una significación tanto popular como legal. En su sentido popular significa el lugar del bogar — la residencia de la familia; representa la morada en la cual reside la familia, con las usuales y corrientes dependencias in-cluyendo toda clase de accesorios necesarios o convenientes al uso de la familia y los terrenos usados con tal fin. Aún cuando esta palabra es casi tan antigua como el idioma inglés, su empleo en el sentido legal es bastante moderno y peculiarmente americano. Se-gún ba sido empleada en los varios Estados la palabra ‘homestead’ puede definirse en el sentido de significar no solamente la propiedad —inmueble—ocupada como bogar, sino también el derecho a estar exenta de ejecución y venta obligatoria. En este sentido el ‘homestead’ es el terreno que no excede de la cantidad prescrita en el cual está situada la morada, residencia, habitación o domicilio del dueño de la misma y de su familia, e incluye la casa de vivienda como parte indispensable.” 13 R. C. L. 540.
+En Puerto Eico existe una ley vigente sobre la materia desde 1903. La sección 1 de la misma expresa en lo perti-nente, lo que sigue:
+“Que todo jefe de familia, que tenga familia, tendrá derecho a una finca de ‘homestead’, hasta el valor de quinientos dollars ($500) en una estancia, plantación o predio de terreno y en los edificios con-tenidos en el mismo, que le pertenezca o que posea legalmente, en virtud de arrendamiento o en otra forma, y estuviere ocupado por él o ella como residencia; * '* * ”.
+¿Qué se entiende por familia y qué por jefe de familia dentro del espíritu de la ley sobre bogar seguro ? La propia obra que acabamos de citar, resume la jurisprudencia así:
+“Aunque en su sentido más lato la palabra ‘familia’ comprende todos los moradores de una casa que se encuentran bajo el gobierno común de una persona y en este sentido dicha palabra es sinónima de ‘casa,’ tiene una significación más restringida y limitada y se emplea para indicar el linaje de los antepasados, o dependientes en un sentido legal o moral, y frecuentemente se ha declarado que para constituir una familia dentro del significado de las leyes de ‘homestead’ la mera totalidad de individuos en la misma casa no es sufi-ciente. Debe existir un estado de dependencia dentro de la ley, si no en realidad, por parte de algunos de aquellos que constituyen la familia o algún otro miembro de la familia a quien la ley designa por su jefe y esta dependencia debe resultar como cuestión legal de la relación existente entre las partes, ya sean padre y menor de edad, marido y mujer, tutor y pupilo, principal y sirviente, u otra rela-ción. El deber de suministrar protección es también el punto a dilucidar.” 13 R. C. L. 552.
+“Cuando una persona dirige, administra y gobierna los asuntos concernientes a una casa, tal persona es, en el sentido más amplio, el jefe de la familia y todos los que residen en la casa son miembros de la familia, pero para que una persona se constituya en jefe de familia, dentro del significado de la Ley de ‘Homestead’, deberá exis-tir un estado de dependencia legal o real respecto a tal persona por parte de algunos de aquellos que constituyen la familia.” 13 R. C. L. 556.
+“La palabra ‘jefe de familia’ (householder) se ha definido que es el jefe, amo o persona que está a cargo de y suministra lo nece-sario a una familia y no tiene aplicación a los miembros subordi-nados o moradores de la casa.” 13 R. C. L. 559.
+“Cualquier persona de uno y otro sexo puede ser el jefe de una familia y no es necesario que el jefe de familia sea casado con tal que exista dependencia respecto a tal persona por parte de alguno de los que constituyen la familia.” 13 R. C. L. 562.
+Si volvemos ahora a la escritura, veremos que si bien en ella se expresa que la finca está ocupada por la recurrente “como su residencia y la de sus familiares” no se fija el grado de parentesco ni se dice que exista relación de depen-dencia alguna entre esos familiares y la recurrente y esto era tanto más necesario en este caso cuanto que la recu-rrente es una mujer soltera.
+No resultando, pues, que se trate de una verdadera fami-lia, dentro del significado de la ley sobre bogar seguro, ni que la recurrente sea el jefe de ella, estuvo justificado el registrador al negarse a inscribir el documento y su nota debe ser confirmada.
+Confirmada la nota recurrida.
+Jueces concurrentes: Sres. Asociados Wolf, • Aldrey y Hutcbison.
