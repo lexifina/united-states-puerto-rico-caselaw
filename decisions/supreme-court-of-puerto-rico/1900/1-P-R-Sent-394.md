@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "Pleito No. 90"
+decided: "1900-09-27"
+citations: ["1 P.R. Sent. 394"]
+reporter: "pr-sent"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["José S. Quiñones. — José C. Hernández. — José M? Figueras. — Rafael Nieto Abeillé. — Louis Sulzbacher."]
+parties: ["Janer contra Pesquera."]
+source_url: "https://static.case.law/pr-sent/1/cases/0394-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 344257
+---
+
+# Janer v. Pesquera
+
+## Majority
+
+SENTENCIA.
+En la Ciudad de San Juan de Puerto Rico, á veinte y siete de Septiembre de mil novecientos, en la competencia pendiente ante nos, entre los Juzgados municipales de Río Piedras y Fajardo, por requerimiento de inhibición del segundo al primero, en el conocimiento de una demanda en juicio verbal, formulada por Don José Janer y Soler, Licenciado en Ciencias, vecino de Río Piedras, contra Don Francisco Pesquera y Fernández, Industrial, vecino de Fajardo, sobre cumplimiento de un contrato de permuta, representando á Don José Janer en este Tribunal el Licenciado Don Rafael López Landrón, sin que haya comparecido el demandado Don Francisco Pesquera. — Resultando: Que, con fecha doce de Julio último, Don José Janer y Soler formuló demanda de juicio verbal en el Juzgado de Río Piedras, contra Don Francisco Pesquera Fernández, para que cumpla los términos de un contrato de permuta, ó que de otro modo le indemnice del valor del caballo ofrecido y no entregado, agregando que el contrato se celebró en Río Piedras y en este lugar debía cumplirse. — Resultando: Que librado el oportuno exhorto al Juzgado de Fajardo, compareció en él Don Francisco Pesquera, solicitando requiriese de inhibición al de Río Piedras, como de conformidad con el Fiscal Municipal lo acordó aquél, por entender radicaba en él la competencia para conocer del asunto, por ser el del domicilio del demandado. — Resultando : Que impugnada dicha inhibición por Don José Janer y el Fiscal Municipal, ante el Juzgado de Río Piedras, se negó éste á inhibirse, por considerar que, guardando silencio el demandado en cuanto á la obligación contraída y sobre el lugar del contrato, debe estarse á lo prevenido en el caso 1? del artículo 62 de la Ley de Enjuiciamiento Civil. — Resultando : Que, insistiendo los Jueces en su competencia, cada uno ha remitido las respectivas actuaciones á este Supremo Tribunal, en el que el Fiscal estima en su dictamen competente al de Fajardo.— Visto. Siendo Ponente el Juez Asociado Don Luis Sulzba•cher. — Considerando: Que á tenor de lo dispuesto en la regla R del artículo 62 de la Ley de Enjuiciamiento Civil, es Juez competente para conocer de los juicios en que se ejerciten acciones personales, fuera de los casos de sumisión, el del lugar donde la obligación deba cumplirse, y según el artículo 1,171 del Código Civil, la obligación, en general, debe cumplirse en el lugar que se exprese en ella y en ausencia de pacto especial acerca de tal extremo, en el punto donde el deudor estuviese domiciliado, si la obligación no tuviese por objeto la entrega de cosa determinada. — Considerando : Que en el juicio promovido en el Juzgado Municipal de Río Piedras por Don José Janer y Soler contra Don Francisco Pesquera, se ejercita una acción personal, y desconociéndose el lugar donde debe cumplirse la obligación, y no bastando la simple manifestación del actor, no corroborada por ningún principio de prueba escrita acerca del lugar convenido para el pago, puesto que de otro modo dependería de su solo arbitrio sustraer al deudor de su fuero propio, la presente contienda debe resolverse en pro del Juez requirente, que es el del domicilio del demandado. — Fallamos: Que debemos declarar y declaramos corresponder el conocimiento de la mencionada demanda formulada por Don José Janer y Soler, al Juzgado de Fajardo, al que con la oportuna certificación se remitan, á los efectos procedentes, todas las actuaciones elevadas á este Tribunal Supremo, con motivo de la presente competencia, comunicándose esta resolución al de igual clase de Río Piedras, y siendo las costas de cuenta respectiva de las partes. — Así por esta nuestra sentencia que se publicará en la Gaceta, lo pronunciamos, mandamos y firmamos.
+Publicación. — Leída y publicada fué la anterior sentencia por el Sr. Juez Asociado del Tribunal Supremo Don Louis Sulzbacher, celebrando audiencia pública dicho Tribunal en el día de hoy, de que como Secretario certifico, en Puerto Rico á veinte y siete de Septiembre de mil novecientos. — E. de J. Gaztambide, Secretario.
+José S. Quiñones. — José C. Hernández. — José M? Figueras. — Rafael Nieto Abeillé. — Louis Sulzbacher.
