@@ -1,0 +1,35 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "Núm. 8381"
+decided: "1942-03-06"
+citations: ["60 P.R. Dec. 84"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rosendo Figueroa, demandante y apelado, v. Asociación Fondo de Ahorro y Préstamo de los Empleados del Gobierno Insular de Puerto Rico, demandada y apelante."]
+source_url: "https://static.case.law/pr-dec/60/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8781912
+cites_cases: ["47 D.P.R. 502", "55 D.P.R. 65"]
+---
+
+# Figueroa v. Asociación Fondo de Ahorro y Préstamo de los Empleados del Gobierno Insular
+
+## Majority (El Juez Presidente Señor Del Toro)
+
+El Juez Presidente Señor Del Toro
+emitió la opinión del tribunal.
+El 14 de octubre de 1940 Rosendo Figueroa presentó-una demanda de injunction en la Corte de Distrito de San Juan contra la Asociación Fondo de Aborro y Préstamo de los Empleados del Gobierno Insular, en solicitud de un auto mandatorio ordenando a la demandada que por conducto de su Junta de Directores ordenara a su vez el pago al deman-dante de la suma que le corresponde ,por seguro, como asociado de y asegurado por la demandada.
+Para ello alegó en resumen que entre los fines que per-sigue la asociación demandada está el' de estimular el ahorro entre sus asociados y asegurados contra inutilidad física o muerte; que el demandante es y ha sido por unos quince años empleado del gobierno insular y asociado de la deman-dada desde su ingreso como empleado, por virtud de lo cual se le ha venido descontando el tres por ciento del total de su sueldo para engrosar el fondo de ahorro y préstamo de acuerdo con la ley; que allá por abril de 1940 fue notificado por el jefe de la oficina gubernamental en que trabajaba que quedaría separado de su cargo con fecha octubre 26, 1940, por razón de inutilidad física, concediéndosele entretanto una licencia hasta la fecha del cese; que inmediatamente so-licitó de los directores de la demandada el abono del seguro a que tenía derecho, primera clase, por haber pagado un peso mensual por cada defunción e inutilidad durante más de cinco años; que su inutilidad física es total y permanente y procede de enfermedad crónica no contraída por vida li-cenciosa; que la junta de directores se negó a pagarle el seguro dejando de cumplir un deber ministerial, y que al cesar en su empleo se encontrará sin fuente alguna de ingreso para el sustento de su familia y suyo, sin que exista en ley otro remedio adecuado y eficaz para obligar a la demandada a que cumpla su deber, que el que ejercita.
+La corte ordenó a la demandada que compareciera ante ella el 28 de octubre de 1940 a mostrar razones por las cua-les no debería expedirse el auto solicitado. El acto se fué posponiendo primero por estipulación de las partes y luego por incomparecencia de la demandada hasta enero 10, 1941, en que se celebró estando ésta ausente. El demandante pre-sentó prueba de documentos y testigos, “quedando el caso pendiente de la declaración del Dr. García Cabrera el día 13 de enero de 1941, a las 9:00 A. M. ”
+Dejó de comparecer el doctor el trece y “la continuación de la vista” se suspendió “hasta nuevo señalamiento.” El 28 de enero, 1941, pidió el demandante que se fijara fecha para la continuación de la vista. No consta de los autos la resolución que tomara la corte. Lo que sigue a la moción de señalamiento es la relación del caso y opinión y la sen-tencia de abril 25, 1941. En la opinión expresa la corte que vista la actitud asumida por la parte demandada dejando de comparecer en enero 10, 1941, debía declararse con lugar la demanda, como lo hizo, sin especial condenación de costas.
+Notificada la demandada, interpuso el presente recurso de apelación. En su alegato señala cuatro errores como cometidos por la corte de distrito al basar su sentencia en una demanda prematura, al aceptar como adecuado el pro-cedimiento seguido, al no darle oportunidad de comparecer el trece de enero de 1941 y al dictar sentencia sin oírla.
+Para revocar la sentencia bastaría considerar los dos últimos señalamientos de error por virtud de los cuales se levanta la cuestión de haberse la misma dictado sin dar oportunidad a la demandada de presentar evidencia.
+Faltaba en efecto la declaración del doctor García Cabrera y si bien se advierte del examen de los autos que la deman-dada no actuó con la actividad debida, es lo cierto que la corte suspendió el acto de. la continuación de la vista hasta nuevo señalamiento y que la parte demandante y apelada pidió que la fecha de ese nuevo señalamiento se fijara, y eso no obstante desatendiendo su propia orden y la petición del demandante falló definitivamente el caso sin oír la decla-ración que faltaba.
+Empero, como resolver el recurso de tal modo dejaría el caso pendiente en la corte de distrito, deben considerarse los otros señalamientos de error que están de igual modo bien fundados, a nuestro juicio.
+La acción era prematura porque cuando fue iniciada, el demandante no había cesado como empleado del gobierno in-sillar y no tenía por tanto derecho al seguro, derecho qne pudo reconocerle la demandada por sn propio acnerdo, y el re-curso de injunction no era el adecuado, de acuerdo con la ley y la jurisprudencia de esta propia corte.
+El recurso apropiado para casos de esta naturaleza es el mandamus, habiéndose resuelto que puede además recurxirse a la acción ordinaria. Escartín v. Comisión Policía Insular, 47 D.P.R. 502; Betancourt v. Asociación Fondo de Ahorro, etc., 55 D.P.R. 65.
+Como se decidió en el último de esos casos, citando el pri-mero :
+“Cuando un miembro de ]a Asociación Fondo de Ahorro y Prés-tamo de los Empleados del Gobierno Insular se ve obligado a recurrir para ante las cortes de justicia contra la Asociación en reclamación de seguro, puede hacerlo bien mediante el auto extraordinario de mandamus ya por el procedimiento oi'dinario, debiendo la sentencia que se dicte en uno u otro caso limitarse a ordenar aquello que puede ser cumplido por la Asociación de acuerdo con los hechos y la ley.”
+La propia ley de marzo 8, 1906, pág. 81, incorporada al Código de Enjuiciamiento Civil, ed. 1933, arts. 675 a 689, define el auto así: “El injunction es un mandamiento judicial expedido por escrito, bajo el sello de un tribunal, por el que se requiere a una persona para que se abstenga de hacer o de permitir que se haga por otros bajo su intervención, determinada cosa que infrinja o perjudique el derecho de otro.” Art. 675 del Código de Enjuiciamiento Civil, ed. 1933. Y dentro de esa definición no cabe comprender lo que pide el demandante en este pleito, que tampoco puede con-siderarse comprendido en ninguno de los casos específicos en que por disposición expresa del legislador, puede librarse un injunction. Art. 677 del Código de Enjuiciamiento Civil, ed. 1933.
+Por virtud de todo lo expuesto debe declararse el recurso con lugar, revocándose la sentencia apelada y dictándose otra desestimando la demanda con costas pero sin comprender en ellas honorarios de abogado.
