@@ -1,0 +1,44 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "Número: CR-66-323"
+decided: "1967-02-10"
+citations: ["94 P.R. Dec. 33"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["El Juez Asociado Señor Santana Becerra emitió opinión disidente en la cual concurren el Juez Presidente Señor Ne-grón Fernández y los Jueces Asociados Señores Belaval y Hernández Matos."]
+parties: ["El Pueblo de Puerto Rico, demandante y apelado, v. Sixto Avilés Ralat, acusado y apelante."]
+source_url: "https://static.case.law/pr-dec/94/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8812896
+cites_cases: ["82 D.P.R. 719", "85 D.P.R. 446", "85 D.P.R. 684", "86 D.P.R. 700", "92 D.P.R. 812"]
+---
+
+# Pueblo v. Avilés Ralat
+
+## Majority (per curiam:)
+
+per curiam:
+Sixto Avilés Ralat fue acusado de una in-fracción al Art. 29 de la Ley de Narcóticos consistente en tener en su posesión y dominio la droga narcótica conocida como heroína. Hallado culpable por tribunal de derecho, luego de haber renunciado a juicio por jurado, fue senten-ciado a la pena de cinco a ocho años de presidio.
+En apelación apunta seis errores. A nuestro juicio el tribunal de instancia no incurrió en los mismos. A continua-ción fundamentamos esta conclusión.
+Los hechos que dieron lugar a esta causa fueron los siguientes:
+Los policías Carlos M. Camacho y Carlos García Méndez se encontraban prestando servicio de vigilancia especial por el sector de la Parada 22, calle República, de Santurce, cuando, como a eso de las dos de la tarde observaron, a unos cinco pies de distancia, a un tal Timoteo Lugo Nelson sacar de un monedero que tenía en la mano izquierda unos sobre-citos blancos de xh pulgada de largo y entregarlos al apelante, quién los tomó con la mano izquierda. Al percatarse de la presencia de los agentes — éstos eran ya conocidos como tales en ese vecindario — el apelante cerró la mano en que tenía los sobres y ambos se dieron a la fuga. Lugo Nelson tiró el monedero al suelo al escapar. El agente García Méndez lo persiguió, lo capturó y pudo traerlo, pero el apelante logró escapar y fue luego arrestado sin que entonces aparecieran los sobrecitos en cuestión. Ocupado el monedero por el agente Camacho con once sobrecitos y examinado el contenido de los mismos resultó ser heroína. A pesar de la objeción de la representación legal del apelante, el tribunal de instancia permitió que el policía Camacho declarase que al comenzar a interrogar a Lugo Nelson, luego de arrestarlo, éste le mani-festó que le había cambiado al apelante los sobres blancos por varias cajas de cerveza procedentes de un escalamiento; que le entregó al apelante los sobrecitos que contenían heroína. La cerveza la recuperaron de la casa de Lugo Nelson junto a la cual ocurrieron los hechos. En contrainterrogatorio dijo Camacho que desde que él presenció la transacción de los sobres por la cerveza hasta que Lugo Nelson le hizo las refe-ridas manifestaciones “fue cuestión de uno a dos minutos.” El apelante admitió que era un adicto y que usaba de cuatro a seis “decks” diarios. En el directo había estimado este tiempo en cinco minutos. Al declarar al apelante culpable, el tribunal de instancia hizo constar lo siguiente en el récord:
+“. . . El tribunal quiere hacer constar de que no se ha to-mado en consideración en forma alguna las manifestaciones supuestamente vertidas por el testigo de Defensa, Timoteo Lugo Nelson, sino exclusivamente a base de la declaración del señor Carlos M. Camacho en aquella parte a que se refiere de la observación personal que realizó dicho Agente en relación con el señor acusado en este caso que expresáramos al argumentar la moción de absolución perentoria. Estimamos que el señor Carlos M. Camacho estuvo en condiciones de poder apreciar la transferencia de varias envolturas de papel blanco en la forma que él la describió del señor Timoteo Lugo Nelson al señor acusado, luego la actuación posterior del señor acusado, las inferencias naturales que el Tribunal ha hecho en relación con la evidencia material ofrecida y la estipulación del señor quí-mico. Ante estas consideraciones, el Tribunal estima que no hay duda alguna en la mente del Tribunal de la culpabilidad del acusado en cuanto a la posesión de las drogas.”
+Apunta el apelante que el tribunal sentenciador incidió al no ordenar la eliminación del testimonio del policía Camacho sobre las admisiones de Lugo Nelson y al dictaminar que no tomaría en consideración dicho testimonio hasta que se cumpliera con la regla de corroboración o se demostrara que dichas admisiones eran parte del “res gestae”. No tiene mérito este apuntamiento ya que de hecho el juez senten-ciador no tomó en consideración las referidas admisiones y basó su dictamen exclusivamente (a) en el traspaso de los sobres de Lugo Nelson al apelante, hecho observado por el policía Camacho; (b) en la actuación posterior del apelante de eludir a los dos policías y escaparse del lugar y (c) en el hecho también observado por el policía Camacho de que Lugo Nelson extrajo los sobres que entregó al apelante de entre otros muchos que tenía en un monedero, el resto de los cuales aparecieron conteniendo heroína. Esta prueba, en adición al hecho de que el apelante admitió ser un adicto que usaba de cuatro a seis “decks” al día, a nuestro juicio era sufi-ciente para condenar.
+Arguye el apelante que el tribunal de instancia incidió al admitir en evidencia los sobres restantes en el monedero de Lugo Nelson y al declarar sin lugar la moción de absolu-ción perentoria presentada por la defensa. Se fundamenta este apuntamiento en que el contenido de heroína de los sobres transferidos por Lugo Nelson al apelante no se podía inferir del hecho de que los sobres restantes en el monedero conte-nían una cantidad de dicha droga pues la identidad de la evidencia supuestamente en manos del apelante no era susceptible de ser determinada y establecida por una simple inspección ocular sino que requería un análisis pericial quí-mico para establecer la naturaleza e identidad del contenido de los sobres transferidos y el de los sobres que se encon-traron en el monedero.
+Los hechos y circunstancias del caso previamente ex-puestos justificaban inferir, fuera de toda duda razonable, que el material que Lugo Nelson entregó al apelante y con el cual éste huyó y escapó del lugar donde lo recibió, luego de darse cuenta de la proximidad de los policías, contenía heroína.
+El quinto error imputado es al efecto de que no debió aplicarse a este caso la doctrina de los casos de bolita al efecto de que cuando el fiscal demuestra que no le es posible presentar la prueba material por permanecer la misma en poder del acusado, el ministerio público queda relevado de esta responsabilidad y que, en tales circunstancias, el testi-monio del agente al efecto de que observó que el acusado tenía en su poder el material de bolita es suficiente a los fines de probar el delito. Pueblo v. Jaimán Torres, 86 D.P.R. 700 (1962); Pueblo v. Serrano Pagán, 85 D.P.R. 684, 688 (1962); Pueblo v. Ramírez Rodríguez, 85 D.P.R. 446 (1962); Pueblo v. Seda, 82 D.P.R. 719 (1961).
+Independientemente de si debemos o no extender la doc-trina en cuestión a los casos de posesión y venta de drogas narcóticas, repetimos que la existencia de la droga en este caso se podía inferir razonablemente de los hechos y circuns-tancias del mismo.
+En vista de lo expuesto, no tiene mérito el último apunta-miento del apelante al efecto de que procedía la absolución <del apelante a base de duda razonable.
+Por lo tanto, se confirmará la sentencia dictada en este caso por el Tribunal Superior, Sala de San Juan, en 22 de diciembre de 1965.
+El Juez Asociado Señor Santana Becerra emitió opinión disidente en la cual concurren el Juez Presidente Señor Ne-grón Fernández y los Jueces Asociados Señores Belaval y Hernández Matos.
+—O—
+
+## Dissent (Juez Asociado Señor Santana Becerra)
+
+Opinión disidente del
+Juez Asociado Señor Santana Becerra
+en la cual concurren el Juez Presidente y los Jueces Aso-ciados Señores Belaval y Hernández Matos.
+San Juan, Puerto Rico, 10 de febrero de 1967
+Por las razones que expuse en mi opinión disidente en el caso de Pueblo v. Pellot Pérez, 92 D.P.R. 812 (1965), en-tiendo igualmente en este caso que la prueba, tal como la produce la opinión del Tribunal, no sostiene una convicción bajo la imputación de que el apelante tenía en su posesión y dominio la droga narcótica, independientemente de que al apelante se le hubiera podido procesar por alguna otra moda-lidad de la ley. En este caso la situación es aun más débil que la envuelta en el de Pellot, ya que no existe prueba química sobre el contenido del alegado sobre que el testigo Nelson pasó al apelante en los momentos en que fueron sorprendidos por los agentes.
+Por lo expuesto, disiento de la sentencia que confirma la convicción.
