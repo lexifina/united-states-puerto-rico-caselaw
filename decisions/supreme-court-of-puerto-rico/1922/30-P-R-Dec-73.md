@@ -1,0 +1,33 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "2516"
+decided: "1922-01-16"
+citations: ["30 P.R. Dec. 73"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jueces concurrentes: Sres. Asociados Wolf, del Toro y Hutchison."]
+parties: ["Toro, Demandante y Apelado, v. Pizá Hermanos, S. en C., Demandada y Apelante."]
+source_url: "https://static.case.law/pr-dec/30/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8752169
+---
+
+# Toro v. Hermanos
+
+## Majority (El Juez Asociado Sb. Aldeey,)
+
+El Juez Asociado Sb. Aldeey,
+emitió la opinión del tribunal.
+Fernando del Toro Saldaña dueño de una casa en esta ciudad la cedió en arrendamiento a la sociedad mercantil Pizá Hermanos, S. en C., sin tiempo de duración convenido y pagándose el canon del arrendamiento por mensualidades vencidas. El canon correspondiente al mes de abril de 1921 fué pagado; el 13 de mayo siguiente el dueño comunicó al arrendatario que daba por terminado el contrato de arren-damiento desde el 30 de abril anterior y el 16 de mayo lo demandó en desahucio para que desocupara la finca. La sen-tencia recaída en el pleito declara con lugar la demanda y condena a la demandada a desalojar y dejar a la libre dis-posición del demandante la casa en cuestión en el término de quince días, apercibido de que si no lo hiciera dentro del término fijado se procedería a su lanzamiento, imponiendo’ las costas a la demandada.
+En el recurso de apelación interpuesto por ésta contra esa sentencia no se discuten los hechos antes relatados pero1 se sostiene en primer término que la sentencia es errónea porque la demanda interpuesta en este caso es prematura por haber sido presentada sin que antes se requiriese al. arrendatario para que entregara la finca en una fecha de-terminada.
+Por el contrato de arrendamiento de cosas una de las partes se obliga a dar a la otra el goce o uso de una cosa por tiempo determinado y por precio cierto, disponiendo el artículo 1484 del Código Civil para los arrendamientos de fincas urbanas que si no se hubiese fijado plazo al arrenda-miento, se entiende hecho por años cuando se ha fijado un alquiler anual, por meses cuando es mensual, por días cuando es diario y que en todo caso cesa el arrendamiento, sin nece-sidad de requerimiento especial, cumplido el término. Por su parte establece el artículo 1469 del mismo código que si al terminar el contrato permanece el arrendatario disfru-tando quince días de la cosa arrendada con aquiescencia del arrendador, se entiende que hay tácita reconducción por el tiempo que establecen los artículos 1480 y 1484, a menos que haya precedido requerimiento; y el artículo 1472 concede acción al arrendador para desahuciar judicialmente al arren-datario cuando hubiese espirado el término convencional o el que se haya fijado para la duración de los arrendamientos en los artículos 1480 y 1484. El primero de éstos se refiere a fincas rústicas y el segundo a las urbanas, y lo hemos men-cionado antes.
+De acuerdo con las anteriores citas leg'ales el contrato de arrendamiento durará con obligaciones mutuas el tiempo que hayan -convenido las partes, pero cuando no convienen en un tiempo determinado entonces si el canon de .arrenda-miento de fincas nrbanas se paga por meses el contrato ter-mina cada mes, a menos que exista tácita reconducción, o sea, la aquiescencia del dueño para que de acnerdo con la ley continúe el contrato por otro mes, deducida del hecho de dejar transcurrir los quince primeros días sin requerir al arrendatario para la cesación del contrato. Así pues, los que como arrendatarios quieran verse protegidos en el dis-frute de la cosa ajena por un período mayor de un mes, cuando el canon de arrendamiento se paga por meses, de-berán convenir en un plazo mayor, el que estimen conveniente a sus intereses, para que durante ese tiempo no puedan ser privados de dicho disfrute por vencimiento del término del contrato, pues el arrendamiento crea derechos y obligaciones recíprocas entre las partes contratantes, y así, cuando el arrendatario tiene derecho a gozar de la cosa por un pe-ríodo mayor de un mes surge el derecho en el dueño de que le responda del pago por todo ese tiempo, aunque no quiera el arrendatario disfrutar la finca.
+Examinados los anteriores preceptos no podemos decla-rar que la demanda en este caso sea prematura pues el día 30 de abril venció legalmente el término del contrato entre las partes sin necesidad de requerimiento especial, según el artículo 1848, y nació el derecho del dueño a desahuciar judicialmente a su inquilino, lo que podía hacer interpo-niendo la demanda dentro de los primeros quince días del mes siguiente o haciendo saber a su arrendatario dentro de dicho término que daba por terminado el contrato, evi-tando así la tácita reconducción, y demandando judicialmente después la entrega de la finca, como se hizo en este caso. El 30 de abril, como todos los días últimos de cada mes, terminaba el contrato entre las partes por disposición de la ley y el arrendatario sabía que no tenía derecho a ocu-par más tiempo la finca y que debía desalojarla si el dueño por tácita reconducción no le concedía otro plazo igual, por lo que no era necesario qne el dueño le fijara m plazo para desocuparla, como alega la parte apelante.
+El segundo motivo de error se funda en que hubo tácita reconducción por todo el mes de mayo por haber sido pre-sentada la demanda después de haber transcurrido los pri-meros quince días de dicho mes.
+Como el día 13 de mayo hizo'saber el dueño al arren-datario su voluntad de no continuar el arrendamiento la tá-cita reconducción no existió desde ese momento y quedó ter-minado el contrato desde el 30 de abril en que venció, sin que el hecho de haber sido presentada la demanda después del día 15 de mayo para que judicialmente se ordenara el desalojo de la finca en nada altere el derecho que tenía el dueño a recobrar su finca ni haga surgir en el arrendatario la tácita reconducción de un contrato que había terminado. No hay nada en la ley que sostenga la proposición del ape-lante.
+Se sostiene por último que la sentencia es errónea porque sólo concede a la demandada un plazo de quince días para desalojar la casa en vez de veinte días que la sección 16 de la Ley de Desahucio concede cuando está ocupada por un establecimiento mercantil.
+Si bien la demandada es una sociedad mercantil no hay constancia alguna en los autos de que ella ocupe dicha casa con sus negocios por lo que no podemos declarar que existe el error alegado.
+La sentencia apelada debe ser confirmada.
+Confirmada la sentencia apelada.
+Jueces concurrentes: Sres. Asociados Wolf, del Toro y Hutchison.
