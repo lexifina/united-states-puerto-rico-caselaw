@@ -1,0 +1,39 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "533"
+decided: "1911-01-23"
+citations: ["17 P.R. Dec. 83", "17 P.R. 77"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jueces concurrentes: Sres. Asociados,-MacLeary y Wolf. Los Jueces, Sres. Presidente Hernández y Asociado Al-drey, no tomaron parte en la resolución de este caso."]
+parties: ["La Sociedad Española de Auxilio Mutuo y Beneficencia et al. v. Rossy."]
+source_url: "https://static.case.law/pr-dec/17/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8755520
+---
+
+# Sociedad Española de Auxilio Mutuo y Beneficencia v. Rossy
+
+## Majority (El Juez Asociado, Sr. del Toro,)
+
+El Juez Asociado, Sr. del Toro,
+emitió/l,a¡ opinión del;itri-btmal.:
+.Esta Porte Suprema de, Justicia,.de, Huerto Rico,.por sen-tencia fie 20 de marzo, de,1906 dictada :eg clcaso.de M-oUfulled.a v. Ramos, declaró <pi£, la, .propiedad, fie pieria, finca. rústica,¡de doscientos cuerfias radicada en Hato Ley, Río Hiedras,-corres-pondía ,a las hijgs. de. Ramón.¡Mollfulleda,,.llamadas,.Carmen María, Margarita, Teresa, María, Ramona María, Paula Ma-ría y Alejandrina Mollfnlleda y Osorio, y, por escritura pú-blica otorgada ante el Notario Monser-rat el 16 de abril de 1906, las dichas Mollfnlleda y Osorio vendieron la expresada finca a la demandante y apelada Jnana Bamos Latonrt.
+El demandado y apelante Manuel F. Bossy fné el abogado que defendió a las Mollfnlleda y Osorio en el pleito de Mollfulleda v. Ramos a que fiemos fiecfios referencia, y, para co-brar sus honorarios, siguió contra ellas un pleito en el cual solicitó y obtuvo una orden de aseguramiento de sentencia consistente en el embargo y prohibición de enajenar la repe-tida finca que, para esa fecha, había sido ya vendida a la de-mandante Bamos, pero no .inscrita a su nombre en el registro de la propiedad.
+Para cumplimentar la orden de aseguramiento, se inscri-bió previamente en el registro la sentencia de ésta Corte Su-prema ya citada y se anotó entonces el embargo y prohibición de enajenar, allá por el mes de abril de 1907.
+Anotado el embargo, la demandante y apelada Juana Ba-mos Latourt inscribió su escritura en el registro y luego ven-dió una porción de 34, 551 metros, 29 centímetros cuadrados, a la también demandante y apelada Sociedad Española de Auxilio Mutuo y Beneficencia, y otra porción de ochenta cuer-das a los otros demandantes y apelantes nombrados en la de-manda. Estas dos ventas se inscribieron también en el regis-tro de la propiedad.
+Así las cosas, el demandado Bossy obtuvo sentencia a su favor en el pleito sobre cobro de honorarios seguido contra las Mollfulleda y Osorio y, para ejecutarla, se anunció en pública subasta la venta de la finca embargada y entonces los demandantes instituyeron el presente pleito que fué fallado a- su favor por la Corte de Distrito de San Juan, por senten-cia dictada el 3 de febrero de 1910, en la cual se declaró qué el dominio de la finca en cuestión pertenece a los demandantes sin limitación alguna derivada de la- prohibición de enajenar que anotó el demandado sobre ella, dirigida contra los anterio-res dueños. Contra esa sentencia, se interpuso el presente - recurso de apelación.
+Establecidos los anteriores hechos, que hemos expuesto basándonos en las alegaciones y en la estipulación presenta-da por escrito al juez de la corte inferior, firmada por los abogados de ambas partes, se concluye sin esfuerzo alguno, que la ley sostiene la sentencia apelada.
+Si la finca de que se trata hubiera-pertenecido realmente a las Mollfulleda en el momento o después de verificarse la anotación obtenida por el apelante,' dicha anotación hubiera surtido todos sus efectos legales; pero cuando tal anotación se llevó a efecto, ya la finca no pertenecía a las Mollfulleda, y en su virtud era completamente ineficaz. '
+No puede considerarse al apelante como un tercero, ni cabe regular su caso por los principios que rigen la doble venta de bienes inmuebles. El sólo tenía y tiene una acción personal contra las Mollfulleda y no una acción real sobre la finca que fué de ellas. El hecho de la anotación no puede convertir por sí solo la acción personal en acción real.
+El haberse inscrito en el registro la finca a favor de las Mollfulleda y haberse anotado acto seguido la demanda en cobro de pesos por honorarios, interpuesta contra ellas por el apelante, no puede destruir, ni afectar siquiera, los derechos de los demandantes y apelados con respecto a dicha finca, derechos que fueron adquiridos en virtud de una compra-venta realizada con anterioridad y hecha constar en docu-mento público, aun cuando dicha compra-venta no estuviera inscrita en el registro al tiempo de verificarse la anotación.
+La anotación en este caso se obtuvo de acuerdo con las prescripciones de la ley en vigor sobre efectividad de senten-cias, cuyos preceptos guardan estrecha- relación con los artí-culos 42-y siguientes de la Ley Hipotecaria.
+Comentando dichos -artículos y al tratar sobre los efectos de las anotaciones preventivas en general, los comentaristas Galindo y' Escosura en su obra sobre Legislación Hipote-caria, vol. 2, pág. 482, se refieren a la Exposición de Motivos de la ley y luego dicen: “A ellos, por tanto, remitimos al lector, no sin'llamar sn atención ácerca de las S. de 9 de mayo y 23 septiembre 1873, según las que, las anotaciones 'judiciales no pueden calificarse dé “sentencias 'definitivas, porque no de-claran derechos, siendo esencialmente revocables y transito-rias; y la de 17 junio 1875,''en que se resuelve que'las anota-ciones preventivas que se hacen para asegurar las consecuen-cias de un juicio, tienen limitados sus efectos a este solo fin; pero no alteran la índole y naturaleza de la obligación cuyo cumplimiento se quiere' asegnrar, ni de simple la convierten en hipotecaria, ni lastiman los derechos qué sobre la finca puedan tener terceras personas, 'doctrina que se repite en las S. de 5 abril, 1878,10 octubre 1882' f 19 febrero 1886.”
+“Por esto es opinión! general, confirmada por la'Sent.' de 10 julio 1889, que quien, en‘ juicio éjecutivo para el' cobro de una deuda nó hipotecaria, logra el embargo de una finca que resulta vendida anteriormente,' aunque el comprador no la hubiese inscrito a su nombre, tiene mejor derecho que él em-bargante cuyo crédito carece del carácter de derecho real que no le da el embargo. ” ’ ■ ' •
+Y esta misma Corte Suprema dé Justicia de Puerto Rico, en el caso de Vidal & Ca., et al. v. Banco Territorial y Agrícola, I Castro, 204, estableció la sigtiiente doctrina: “Al acreedor que obtuviere anotación' preventiva de un embargo prac-ticado en bienes inmuebles o créditos hipotecarios del deudor, no se le puede estimar como tercero,-toda vez que los artículos 44 de la Ley Hipotecaria y 1923'del Código Civil le conceden Unicamente el derecho dé preferen'cia respecto a los bienes anotados y sólo en cuanto a créditos posteriores.
+“Las anotáciones de' embargo practicadas en bienes in-muebles o créditos hipotecarios del deudor, no pueden per-judicar el derecho de dominio que sobre los mismos bienes o créditos hubiere adquirido un. tercero con anterioridad a dicha anotación.” ■ ' ' ’ ' ■ ' ■ '
+■ “Las disposiciones del artículo'71 dé la Ley Hipotecaria se refieren' á enajenaciones o gravámenes realizados o' cóhsti-tuíclos, respectivamente, con posterioridad a la anotación, como se deduce de' un examen comparativa de diclió artículo y del 44 de la misma Ley.” ■
+Por las razones expuestas, el recurso debe declararse sin lugar f confirmarse la' sentencia apelada.
+Confirmada. •
+Jueces concurrentes: Sres. Asociados,-MacLeary y Wolf. Los Jueces, Sres. Presidente Hernández y Asociado Al-drey, no tomaron parte en la resolución de este caso.
