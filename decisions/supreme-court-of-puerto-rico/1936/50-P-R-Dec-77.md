@@ -1,0 +1,42 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "Núm. 6053"
+decided: "1936-05-29"
+citations: ["50 P.R. Dec. 77"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["El Juez Asociado Señor Córdova Dávila no intervino."]
+parties: ["El Pueblo de Puerto Rico, demandante y apelado, v. Domingo Ramos Tellado, acusado y apelante."]
+source_url: "https://static.case.law/pr-dec/50/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8800334
+cites_cases: ["31 D.P.R. 646", "32 D.P.R. 18"]
+---
+
+# Pueblo v. Ramos Tellado
+
+## Majority (El Juez Presidente Señor Del Toro,)
+
+El Juez Presidente Señor Del Toro,
+emitió la opinión del tribunal.
+El Fiscal del Distrito de Mayagiiez, en septiembre 1, 1935, formuló acusación contra Domingo Ramos Tellado por infracción a la sección 4 de la Ley núm. 63 de abril 28, 1931 (pág. 415), como sigue:
+“El referido acusado Domingo Ramos Tellado, allá por el día 16 de agosto de 1935, en Mayagüez, P. R., que forma parte del Dis-trito Judicial del mismo nombre, ilegal, voluntaria y maliciosamente, fabricaba, almacenaba y tenía para la venta, cierto alimento, a saber, vinagre de mesa, con el ñn de dedicarlo al consumo Rumano, y el que allí y entonces estaba adulterado con agua, conteniendo menos de 4 gramos de acidez por cada cien gramos de vinagre.”
+El 7 de octubre siguiente se leyó la acusación al acusado, alegando éste que no era culpable y el 28 del propio mes se celebró el juicio. Terminada la prueba de cargo, solicitó el acusado su absolución. La corte negó su solicitud y prac-ticada la prueba de descargo dictó sentencia declarándolo culpable del delito que se le imputara. El 1 de noviembre siguiente dictó sentencia imponiéndole veinte y cinco dólares de multa y en caso de falta de pago un día de cárcel por cada dólar dejado de satisfacer.
+No conforme, apeló el acusado para ante este tribunal. Señaló tres errores cometidos a su juicio por la Corte sen-tenciadora al tomar conocimiento judicial del artículo 10 del reglamento núm. 2 del Departamento de Sanidad aprobado en abril 28, 1931; al admitir la declaración del perito quí-mico Gradea para probar el resultado del análisis químico del vinagre, y al apreciar la prueba.
+Argumentando su primer señalamiento sostiene el apelante que habiéndosele informado por la acusación que se le imputaba solamente una infracción a la sección 4 de la Ley núm. 63 de 1931, no fué preparado para defenderse del reglamento de sanidad núm. 2 de abril 28,1931, y no pudo condenársele de acuerdo con el mismo.
+En efecto el apelante fué acusado en la forma que cono-cemos de la infracción que especifica- o sea do la sección 4 de la Ley núm. 63 de 1931, decretada a los efectos de prohibir “la venta, almacenaje o transporte de alimentos y drogas o medicinas adulterados o falsamente rotulados o que sean venenosos o perjudiciales a la salud, y para otros fines” que hace reo de misdemeanor a toda persona que fabrique, venda, ofrezca o tenga en venta, o qne transporte o almacene ali-mentos adulterados, siendo ello suficiente para informarle que la corte no sólo podría si que debería acudir a los re-glamentos de sanidad como la mejor fuente para determinar si el vinagre de mesa de que se trataba estaba o no adulte-rado, ya que la sección 5 de la propia ley ordena al Comi-sionado de Sanidad que promulgue reglamentos adecuados para poner en vigor las disposiciones de la misma fijando entre otras cosas las normas o standards de los alimentos, requiriendo de las cortes de justicia una ley anterior de sa-nidad, la núm. 81 de 1912 — que en ese extremo continúa vi-gente — -que tomen conocimiento judicial de los reglamentos sanitarios.
+Véanse a este respecto las decisiones de esta Corte en los casos de El Pueblo v. Massari, 32 D.P.R. 18 y El Pueblo v. Rivera, 31 D.P.R. 646.
+Argumentando su segundo señalamiento, dice el apelante :
+“Cuando fué ofrecida por el fiscal la declaración del químico Carlos R. Gadea la defensa se opuso a que él declarara sobre el re-sultado del examen del vinagre toda vez que las botellas fueron lle-vadas por el acosado voluntariamente para que fueran examinadas en cuanto a su rotulación (T. B. página 5). Entendemos que el De-partamento de Sanidad estaba impedido de proceder al examen del contenido de las botellas ya que para determinar si un alimento está o no adulterado, el oficial de Sanidad debe tomar las muestras ha-ciendo constar el fin para que las toma, dando de esta manera opor-tunidad a la persona a quien se le tomen dichas muestras, para que a su vez examine o pueda examinar por medio de peritos competentes la muestra en su poder y estar preparado para en el juicio corres-pondiente oponer el testimonio de su perito al testimonio del pe-rito del Departamento de Sanidad.”
+Cuando el perito fué llamado a declarar muestran los autos que había ya declarado el inspector de alimentos y drogas del distrito de Mayagüez, Pelayo de Lúea, como si-gue: “El 16 de agosto de 1935 el acusado llegó a mi oficina con tres botellas de vinagre para ver si yo quería enviarle esas muestras al Laboratorio Químico Insular a ver si esta-ban rotuladas de acuerdo. . . . Las cogí, las lacré y las ro-tulé y le entregué una muestra al acusado y envié las otras al Laboratorio.”
+Para contestar si las botellas estaban bien rotuladas, el químico del laboratorio tenía que examinar su contenido. ¿Y cómo puede quejarse de indefensión el acusado cuando él mismo llevó las tres botellas que fueron lacradas y rotu-ladas devolviéndosele una que pudo hacer examinar por su propio perito una vez que fué acusado?
+Por el tercero y último de los errores señalados se sostiene que la evidencia aportada por el Pueblo fué insuficiente para declarar culpable al acusado.
+El primer testigo que declaró fué de Lucca que dijo ade-más que el acusado era un comerciante que tenía una fábrica de vinagre con licencia para vender dicho artículo.
+Luego fué llamado el químico del Laboratorio Químico Insular, Carlos lí. Gradea. Dijo en resumen que recibió las muestras de que se trata, las analizó y resultó que el vinagre tenía 3.29 por ciento de acidez; que por vinagre se entiende el producto de la fermentación natural especial de la man-zana, de la cidra, del vino, de la piña . . . .; que el de ácido acético no es vinagre, es un sustituto; que el natural después de la fermentación tiene 4 por ciento o más, pudiendo reba-jarse hasta el 4 por ciento, y que si baja de cuatro se consi-dera adulterado.
+El fiscal ofreció en evidencia el Beglamento de Sanidad núm. 2, aprobado en abril 28, 1931; se opuso el acusado por tratarse de una copia simple y la corte resolvió que teniendo conocimiento judicial era suficiente. En lo pertinente, el ar-tículo 10 de dicho reglamento, dice :
+‘ ‘ Artículo 10. — Adición de agua. — Cuando un vinagre natural he-cho de cidra, vino o de jugo de otras frutas haya sido diluido con agua, el rótulo deberá indicar claramente este hecho, por ejemplo: ‘diluido hasta-por ciento de acidez’; Disponiéndose, sin embargo, que esta dilución minea rebasará un mínimum de 4 por ciento de acidez. .
+Ésa fue substancialmente la evidencia del Pueblo. Mues-tra que el acusado, fabricante y vendedor de vinagre, llevó tres botellas de dicho producto al inspector de sanidad para que le dijera si estaban bien rotuladas. Examinado el con-tenido de una de ellas, resultó adulterado. Que el acusado fabricó el vinagre, parece claro. Que tenía más en su alma-cén, puede fácilmente deducirse. Lógico es que lo fabricó y lo tenía para venderlo. Una clara infracción de la ley puede entreverse. Lo que nos hace vacilar es la actuación del acu-sado cerca del inspector de sanidad, que tiende más bien a indicar una conducta prospectiva, dependiente del resultado de la consulta, con respecto a la disposición del producto, que una determinación actual. Sin embargo, la duda se re-suelve en contra del acusado cuando se considera la insisten-cia con que sostiene que su consulta se refería únicamente a„ la forma del rótulo, no debiendo haberse examinado el pro-ducto en sí mismo. Y como fue el producto que fabricara y envasara y preparara para la venta el que resultó adulte-rado, parece que no puedé eludir la responsabilidad de la, adulteración.
+Así lo estimó la corte sentenciadora y actuó fundadamente» a nuestro juicio.
+Debe declararse el recurso sin lugar y confirmarse la sen-tencia apelada.
+El Juez Asociado Señor Córdova Dávila no intervino.
