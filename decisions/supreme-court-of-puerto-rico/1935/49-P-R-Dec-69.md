@@ -1,0 +1,34 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "6455"
+decided: "1935-11-15"
+citations: ["49 P.R. Dec. 69", "49 P.R. 67"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marta Vega, demandante y apelada, v. Pedro Salom, de mandado y apelante."]
+source_url: "https://static.case.law/pr-dec/49/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8800998
+---
+
+# Vega v. Salom
+
+## Majority (El Juez Asociado Señoe Wole,)
+
+El Juez Asociado Señoe Wole,
+.emitió la opinión del tribunal.
+Pedro Salom era el arrendatario del Hotel Central al tiempo en que ocurrió el accidente en este caso. Según se desprende de los autos, el ascensor del hotel era usado libre-mente por huéspedes y empleados. En la tarde del 9 de marzo, 1931, la hija de la demandante fué al hotel en busca de su madre y ambas, en unión de otro pasajero, tomaron el as-censor. La madre estaba empleada en el hotel. Cuando el ascensor llegó al primer piso no se detuvo a su nivel. Al-gunos de los testigos, peritos y de otra índole, dicen que el ascensor se detiene o tiene la tendencia a detenerse, más abajo del nivel del primer piso. Otros dicen que se paró sobre el nivel. En nuestra opinión, la prueba tiende a de-mostrar que el ascensor se para en algunas ocasiones como a un pie sobre el nivel del piso. Cuando el ascensor dejaba de llegar al nivel el operador tenía por costumbre, quizá por necesidad, llevarlo hasta el segundo piso para ponerlo al nivel del primero. Por el examen que hemos hecho de la prueba estamos bastante convencidos de que el ascensor se detuvo momentáneamente en o cerca del primer piso, y que casi instantáneamente el conductor lo llevó hasta el se-gundo piso. La jaula en sí del ascensor no tiene puerta, y aparentemente no la había tenido por algún tiempo. Al de-jar el primer piso para subir al segundo, la puerta exterior estaba abierta o lo fué por alguien dentro del ascensor. La probabilidad es, según las declaraciones de los peritos y do otros testigos, que la puerta fué abierta mientras el ascensor estaba quieto y no después de haber iniciado su marcha. La hija de la demandante trató de salir del ascensor, y mientras éste ascendía fué estropeada y muerta al chocar con una de las vigas de los alrededores del ascensor (shaft) o por el cielo raso del primer piso.
+Algunos de los testigos oculares de la demandante dicen que el operador abrió la puerta. Varios testigos del deman-dado manifiestan que la hija de la demandante fué quien la abrió. La corte resolvió directamente y más tarde dió énfa-sis en su opinión, al hecho de que la puerta fué abierta por el conductor del ascensor. Es claro que si el conductor fué ne-gligente el demandado es responsable.
+Podemos resolver rápidamente varios de los señalamien-tos de error. El primero era totalmente insuficiente. Otro de éstos era al efecto de que la hija de la demandante no tenía derecho a usar el ascensor. No solamente se demos-tró la costumbre general de usar el ascensor, sino que el día del accidente el empleado del demandado permitió a la in-terfecta que lo tomara cual si fuera un pasajero.
+La demanda aduce una causa de acción al alegar en los párrafos 4 y 5 lo siguiente:
+o “4. — T sigue alegando la demandante que el día nueve de marzo de 1931, la menor Irene Agosto utilizó como pasajera los servicios del ascensor antes mencionado, tomándolo en el prmier piso y llegando basta el quinto piso, adonde fué en busca de su madre la demandante que trabajaba con el demandado en calidad de empleada; que momentos después, a las cinco y cuarto de la tarde del expresado día nueve de marzo de 1931, ambas, la menor Irene Agosto y la deman-dante, de regreso a su domicilio, tomaron en el quinto piso el ascensor para bajar al “’primero que es el que da acceso a la calle; que ya dentro del ascensor y funcionando éste, por una maniobra de §u conductor Luciano Agosto, aquél paró como a un pie más abajo del nivel del primer piso; que en ese mismo instante, allí y entonces, el conductor Luciano Agosto dió contramarcha acelerada al aparato en sentido ascendente, motivando con su maniobra que la menor Irene Agosto fuese elevada a una altura de dos o tres pies, yendo a chocar con un listón de madera que hay por la parte afuera, cayendo al sótano con la cabeza destrozada y muriendo inmediata-mente en la fecha y hora indicadas; que el ascensor en ese momento tenía los cables flojos, la valla en mal estado y la puerta desajustada, acusando falta de inspección y reparación.
+“5. — Y sigue alegando la demandante que lo antes referido se debió únicamente a descuido, negligencia y falta de circunspección del conductor Luciano Agosto al maniobrar con la manigueta del ascensor referido y al estado de los cables, valla en mal estado y la puerta desajustada de dicho aparato, como la falta de reparación o inspección que se alega en el hecho cuarto de esta demanda.”
+Esto desde luego estaba sujeto a incongruencias o en-miendas inmateriales, realmente hechas o que pudieran con-siderarse como hechas durante el juicio.
+La presencia de un testigo durante el juicio y antes de que ocupara la silla testifical estaba dentro de la discre-ción de la córte, y toda vez que su testimonio se limitó a la cuantía de los daños y perjuicios, el dejar de excluirlo no fué perjudicial.
+Abrigamos alguna duda respecto a si la corte no debió haber admitido prueba tendente a demostrar que un testigo había hecho manifestaciones inconsistentes en un examen pre-liminar practicado por el fiscal de distrito. Por los autos y la opinión tenemos la idea de que la corte tuvo lo suficiente ante sí para- dudar de la veracidad del testigo y que ella en realidad de verdad no se fundó en el testimonio así impug-nado.
+Los principales errores señalados son que la corte cometió error al apreciar la prueba y al no declarar que la hija de la demandante fué culpable de negligencia contribuyente.
+La cuestión de negligencia contribuyente "se dirige en verdad a la controversia principal del caso, a si la joven abrió o no la puerta exterior. Toda vez que la conclusión es que ella no lo hizo, no se necesita consideración adicional alguna sobre la cuestión de negligencia contribuyente.
+■ • La declaración del empleado contenía algunas inconsisten-cias, especialmente con respecto a las personas a quienes se permitía montar en el ascensor. Empero, podría admitirse en resumen que él no creyó que había abierto la puerta. Pudo haberlo becbo automáticamente. Sea ello como fuere, no ba-ilamos lo suficiente en los autos, ni el apelante nos convence de que la corte cometiera error en la apreciación de la prueba.
+Hubo alguna disensión sobre la doctrina de res ipsa lo-quitur, mas bajo los becbos de este caso es innecesario consi-derarla.
+No hallando ningún error que dé lugar a la revocación, la ■sentencia apelada debe ser confirmada.
