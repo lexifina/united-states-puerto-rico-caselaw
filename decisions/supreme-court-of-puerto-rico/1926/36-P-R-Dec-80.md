@@ -1,0 +1,38 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "3824"
+decided: "1926-12-15"
+citations: ["36 P.R. Dec. 80"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["El Juez Asociado Sr. Hutchison no tomó parte en la resolución de este caso."]
+parties: ["Félix Tórres Sosa, demandante y apelado, v. J. Lema & Co., demandada y apelante."]
+source_url: "https://static.case.law/pr-dec/36/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8786433
+cites_cases: ["15 D.P.R. 773", "24 D.P.R. 293", "29 Am. Rep., 636", "45 Conn., 44"]
+---
+
+# Tórres Sosa v. J. Lema & Co.
+
+## Majority (El Juez Asociado Señor Audrey,)
+
+El Juez Asociado Señor Audrey,
+emitió la opinión del tribunal.
+La sociedad mercantil establecida en San .Tuan, “JL. Lema & Co.,” tiene una tienda en el pueblo de Río Piedras para la venta de calzado y en ella tres dependientes encar-gados de la venta. En la noche de un sábado, diez o veinte minutos después de las nueve, desde cuya hora deben cesar por- mandato de la ley las transacciones comerciales, se pre-sentó en esa tienda el guardia de la Policía Insular Félix Torres Sosa requiriendo a los dependientes para que ce-rraran la tienda, surgiendo con ese motivo una discusión entre el guardia y dos 'de los dependientes sobre si se es-taba vendiendo o nó y en ese momento se acercó el otro de-pendiente y con un hierro dió un golpe al guardia en la cabeza, hiriéndolo. Por ese hecho el guardia Félix Torres Sosa demandó a J. Lema & Co. solicitando indemnización y habiéndose dictado sentencia contra la demandada inter-puso esta apelación para que la revoquemos y dictemos otra absolviéndola de la demanda, siendo uno de sus moti-vos para el recurso que la corte inferior erró al estimar a la demandada responsable del acto de su dependiente Ernesto Martínez al herir al demandante, y estimar que Mar-tínez realizó el acto dentro del ejercicio de sus funciones, errando también al aplicar el artículo 1804 del Código Civil. Este motivo del recurso envuelve la cuestión fundamental en este pleito.
+El artículo 1803 del Código Civil declara la responsabi-lidad de la persona que por acción u omisión causa daño a otra, interviniendo culpa o negligencia, y el 1804 determina los casos de excepción en que una persona ha de responder civilmente por otra, encontrándose entre ellos el que hace responsable a los dueños o directores de un establecimiento o empresa respecto de los perjuicios causados por sus de-pendientes en el servicio de los ramos en que estuvieren empleados, o con ocasión de sus funciones.
+Nos .parece que importa poco en este caso determinar si se estaba infringiendo o nó la ley que dispone el cierre de establecimientos a determinadas horas cuando el guardia fué acometido y herido por uno de los dependientes de la tienda, pues la cuestión a determinar es si el acto culpable de ese dependiente fué realizado por él en el ejercicio del ramo en que estaba empleado o con ocasión de sus fun-ciones, pues sólo así sería responsable la demandada por el acto de su dependiente.
+'El caso de Marrero v. Lopez, 15 D.P.R. 773, es similar al presente, pues el hecho ocurrido fué que un mayordomo encargado de cuidar una finca de su principal, mientras es-taba vigilándola pidió agua a unos niños que en dicha finca «custodiaban un tabaco de su padre y al contestarle uno de ellos que no tenían agua le pegó y al huir el niño le disparó con un revólver y lo mató; caso en el que fué confirmada la sentencia que absolvió al principal porque el mayordomo se salió de la esfera de sus atribuciones, separándose del desempeño de los negocios de su principal y excediéndose en sus obligaciones y de las instrucciones explícitas o im-plícitas del principal, habiéndose citado en ese caso reglas muy importantes para poder determinar cuándo los actos realizados por dependientes o empleados están comprendi-dos dentro de la regia de la ley que hace responsable al principal por sus dependientes por actuar en el ramo en que estuvieren empleados o con ocasión de sus funciones. En ese caso se citó con aprobación lo siguiente del caso de Stone v. Hills, 45 Conn., 44; 29 Am. Rep., 636:
+“La regla es de que por todo aeto ejecutado por un empleado, obedeciendo las órdenes o intrueciones formales del principal, o des-empeñando los negocios del principal, dentro de la esfera de su co-metido, y por actos en cualquier sentido autorizados explícita o im-plícitamente por el poder que se le liaya conferido, teniendo en con-sideración la naturaleza de los servicios que se le exigen, las ins-trucciones recibidas y las circunstancias en las cuales se cometió el acto, el principal es responsable; por actos que se separan de es-tas condiciones, el empleado sólo es responsable."
+También en otro caso resuelto por nosotros, Martines v. Trujillo & Mercado, 24 D.P.R. 293, se volvió a citar la re-
+gia del caso de Stone v. Hills, supra, se Mcieron otras ci-tas y se confirmó la sentencia absolutoria para un principal que babía encargado de la vigilancia de su hacienda a otra persona la que como guardián vigilante tenía el deber de usar y portar una escopeta suministrada por su principal, y mientras ese empleado vigilaba la hacienda encontró al-gunos trabajadores y al preguntarle uno de ellos si era ca-paz de matar a un hombre por un pedazo de caña, se puso a cargar la escopeta para demostrar a dichos trabajadores cómo haría si encontraba a una persona substrayendo caña, y al ir a cerrarla, no pudiendo cerrar la escopeta por estar inservible, dióle con tanta fuerza a la escopeta que se dis-paró matando a una persona. En ese caso se dijo que aunque podría suponerse que el empleado actuó en interés de su principal, ejecutó, sin embargo, ese servicio de un modo tan extraordinario que su acto no estaba dentro de la previsión de ninguna persona prudente.
+De acuerdo con los fundamentos de las opiniones en ios dos casos resueltos anteriormente por este tribunal, con las reglas en ellos citadas y con los hechos del presente caso, llegamos a la conclusión de que siendo las funciones de los dependientes que J. Lema & Co. tenía en su tienda de Río Piedras las de vender los efectos que en ella hubiera, al acometer el dependiente Martínez al demandante y herirle cuando el guardia hablaba con los otros dependientes sobre el cierre de la tienda, no estaba en el servicio del ramo en que había sido empleado ni con ocasión de él; no obedecía instrucciones en ese sentido de su principal ni tal acto es-taba comprendido dentro de la esfera de su cometido, ni estaba autorizado para él explícita o implícitamente por su principal, ni tenía relación alguna con su empleo, de tal modo que no pudo prever J. Lema & Co. que su dependiente para vender calzado pudiera realizar un acto de tal natu-raleza.
+Por las razones expuestas la, sentencia apelada debe ser revocada y absolverse a la demandada.
+El Juez Asociado Sr. Hutchison no tomó parte en la resolución de este caso.
+
+## Dissent (JUEZ PRESIDENTE SE. DEL TORO.)
+
+OPINIÓN DISIDENTE DEL
+JUEZ PRESIDENTE SE. DEL TORO.
+Disiento de la opinión de la mayoría porque habiendo examinado las alegaciones y las pruebas, estoy conforme con la siguiente conclusión del juez de distrito .contenida en la opinión que emitiera para fundar su sentencia: “Que los actos realizados por los empleados de la demandada y que culminaron con la agresión del demandante por Ernesto Martínez, fueron llevados a cabo en el curso de los negocios de aquella a quien representaban.” Siendo ello así, es natural que concluya también con el juez sentencia-dor de acuerdo con la ley y la jurisprudencia que cita, que la demandada es responsable.
