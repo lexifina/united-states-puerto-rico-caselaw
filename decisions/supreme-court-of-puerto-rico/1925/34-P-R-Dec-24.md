@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "3250"
+decided: "1925-03-09"
+citations: ["34 P.R. Dec. 24"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pedro Angel Rodríguez, asistido de su madre con patria potestad sobre el mismo Isabel Rodríguez Miranda, demandante y apelante, v. Emilio Isaac García, como albacea testamentario y presunto heredero del finado Constantino Damiani y Dominicci, demandado y apelado."]
+source_url: "https://static.case.law/pr-dec/34/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8798977
+cites_cases: ["19 D. P. R. 828", "24 D. P. R. 114"]
+---
+
+# Rodríguez v. García
+
+## Majority (El Juez Asociado Señor Aldbey,)
+
+El Juez Asociado Señor Aldbey,
+emitió la opinión del tribunal.
+Este pleito ha sido establecido por un menor de edad representado por sn madre, está dirigido contra el único heredero testamentario y albacea de Constantino Damiani Dominicci y tiene por objeto que el demandante sea declarado judicialmente hijo natural reconocido de Constantino Damiani Dominicci, aleg’ándose para ello que siendo la madre del demandante y Damiani solteros y sin impedimento legal para contraer matrimonio sostuvieron relaciones amorosas durante los años 1904 a 1907 de manera pública, viviendo en concubinato bajo un mismo techo como marido y mujer; que durante esas relaciones fue procreado y nació el demandante el 7 de mayo, 1906 en San Germán, de donde era vecina su madre, habiendo atendido Damiani hasta su muerte al cuidado de la madre y del hijo, a quien trató en todo tiempo como hijo suyo y quien gozó de la posesión del estado de hijo natural. Estos hechos son suficientes para la acción de filiación que se ejercita, pues están comprendidos en el artículo 189 del Código Civil tal como regía en el año 1906, fecha del nacimiento del demandante. Sobre este ex-tremo no hay discusión entre las partes.
+La controversia surge por otras alegaciones de la demanda que sirvieron de fundamento al demandado para alegar como excepción previa que la corte inferior no tiene iúrisdieción sobre este asunto y que la demanda no aduce hechos determinantes de causa de acción, excepción que por el último motivo fue sostenida por la corte inferior y que sirvió de fundamento para dictar sentencia declarando sin lugar la demanda, cuya apelación motiva este recurso. Esas alegaciones son: que Constantino Damiani y Dominicci fue un súbdito francés' con más de treinta años de domicilio en esta Isla, donde otorgó su testamento y donde murió el año 1923.
+Al formular la parte apelada en la corte inferior su ex-cepción se funda en varios artículos! del Código Civil francés y en una sentencia también francesa que insertó en su ale-gación, pero prescindiremos de esas citas, porque los tribu-nales de justicia en Puerto Rico no pueden tomar conoci-miento de leyes y sentencias extranjeras, las que en cada caso deberán ser probadas, ni tampoco podemos tomar cono-cimiento de ellos aunque esos artículos y sentencia hubieran sido considerados por nosotros en otro pleito, como pretende el apelado, pues en cada caso hay que probar no sólo la ley extranjera sino también su vigencia cuando ocurrieron los hechos a que se pretende sea aplicada. Pero también citó la apelada en su excepción nuestra opinión en el caso de Casiano v. Luchetti, 24 D. P. R. 114, alegando ahora el apelante como un error de la corte sentenciadora haber hecho apli-cación de la doctrina que contiene ese caso al presente; y nos parece que tratando esta cuestión en primer término ha-bremos adelantado mucho en la resolución de este asunto.
+En el caso de Casiano citado la acción de filiación se fundó en un reconocimiento del hijo hecho por el padre, súbdito francés, en un testamento ológrafo que otorgó en Francia» donde murió, y cuyo testamento fué protocolizado en una no-taría de esta Isla; y aplicando la ley francesa sobre reco-nocimiento de hijos naturales declaramos que el Código Civil francés no considera el testamento ológrafo como un acto solemne y auténtico por el cual el padre expresa su inten-ción de dar al hijo ún estado (status), sino que exige la com-parecencia del padre ante algún funcionario público y la eje-cución del acto cuando el hijo no es reconocido al tiempo de su nacimiento; y también que la protocolización de ese tes-tamento en esta Isla no produce efecto alguno de autentici-dad, por todo lo cual fué declarada sin lugar la demanda.
+Por lo expuesto se ve que ese caso no es de aplicación al presente, pues en aquel el reconocimiento se fundaba en un documento lieclio en Francia por un francés, y por tanto ha-bía que decidir si de acuerdo con las leyes de aquel país el reconocimiento de un lujo natural liecbo en tal clase de do-cumento era un reconocimiento auténtico de la paternidad, mientras que en el caso presente todos los actos que se ale-gan como reconocimiento han tenido lugar en esta Isla donde nació el hijo y Damiani era domiciliado.
+La teoría aplicable es la del caso de Orama v. Oyanguren, 19 D. P. R. 828, donde declaramos que “La acción que' al hijo corresponde para hacer declarar en virtud de prue-bas quién sea su padre natural es sin duda alguna un de-recho personal suyo y por consiguiente, cuando el hijo está en posesión de tal derecho debe ser regulado conforme a la ley bajo la cual fué adquirido, por lo que las cuestiones que conciernen al estado de la persona deben regirse por la ley del Estado de quien lo reclama. El estado civil de los ciu-dadanos debe regirse en todo por la ley de su país y sólo puede determinarse con arreglo a ella.”
+El domicilio del hijo natural no reconocido legalmente por su padre es el de la madre natural. 12 C. J. 460, párrafo 48.
+Por lo expuesto, la sentencia apelada debe ser revocada y devolverse el caso para ulteriores procedimientos no incon-sistentes con esta opinión.
