@@ -1,0 +1,32 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "5318"
+decided: "1933-05-10"
+citations: ["45 P.R. Dec. 66"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Felipe Sánchez Osorio, demandante, contrademandado y apelado, v. Sofía de Vizcarrondo Mongrand, Lorenzo F. Vizcarrondo, Elisa Vizcarrondo de González y Dolores Vizcarrondo de Urrutia, demandados, contrademandantes y apelantes."]
+source_url: "https://static.case.law/pr-dec/45/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8803761
+---
+
+# Sánchez Osorio v. Vizcarrondo Mongrand
+
+## Majority (El Juez Asociado Señor Wole,)
+
+El Juez Asociado Señor Wole,
+emitió la opinión del tribunal.
+En este caso se radicaron una demanda y tres contrade-mandas. La Corte de Distrito de San Juan, luego de cele-brado el juicio, dictó sentencia en favor del demandante, de-claró sin lugar dos de las contrademandas en lo atinente a una importante suma de dinero, mas a virtud de las admisiones del demandante, declaró con lugar parte de la tercera y de la primera contrademandas.
+Después de archivado el escrito de apelación se ordenó a dos taquígrafos de la Corte de Distrito de San Juan que trans-cribieran sus notas. Uno de ellos pudo hacerlo, pero el otro no. Todas sus notas habían desaparecido y ellas contenían toda la prueba del demandante. El Juez Sepulveda, que pre-siclió el juicio del presente caso, certificó que Arsenio R. Ca-maclio había perdido sus libretas de notas taquigráficas, y que por consiguiente no podía obligársele a transcribirlas; que mientras el aludido Camacho actuaba como taquígrafo se pre-sentó toda la prueba del demandante y el resto de la prueba fué tomado por Oscar A. Candía y el juez procedió a certi-ficar como correcto el testimonio transcrito por Candía.
+En apelación, después de narrar los hechos del caso, los apelantes en su alegato plantearon lo que ellos lla-man una cuestión previa. Sostenían que en tanto en cuanto la prueba perdida tenía importancia, debía dárseles otra opor-tunidad en un nuevo juicio. No se hizo tentativa alguna en la corte inferior para solicitar un nuevo juicio y fuera de la mención en el alegato de los apelantes, en esta Corte no se ha hecho solicitud de nuevo juicio.
+Aa apelada cita jurisprudencia al efecto de que una mo-ción de nuevo juicio debe hacerse siempre en la corte inferior. Convenimos en que dicha corte está en mejor posición para apreciar la importancia de la prueba y la moción de ordina-rio debe ser presentada allí.
+Parece ser un caso excepcional para el cual la corte de distrito retuvo jurisdicción, y la jurisprudencia tiende a de-mostrar que cuando procede tal moción, ella generalmente debe ser invocada en la corte inferior. En este caso no se trató de invocar la jurisdicción de tal corte.
+Tampoco se presentó directamente moción alguna a este respecto ante este tribunal. Suponiendo, y no estamos' dispuestos a negarlo, que esta corte tenga poder inmanente para ordenar un nuevo juicio por haberse perdido las notas del taquígrafo, sin embargo, debe presentarse una moción formal.
+Resolvemos que tal moción debe ser acompañada de un affidavit de méritos o de algo similar, de tal suerte que esta corte pueda discrecionalmente considerar si en realidad sería en verdadero interés de la justicia conceder tal juicio.
+Deberá tenerse siempre presente que la parte apelada tiene ima sentencia inscrita a su favor con las presunciones inhe-rentes. Debe hacerse alguna tentativa para destruir estas presunciones, distinto a una petición en un alegato o una mera moción a ese efecto. El alegato no nos convence de que un nuevo juicio probablemente alteraría el resultado en tanto sea importante o necesaria la prueba que falta. La apelada sostiene con considerable razón que el caso no puede ser re-vocado sobre los hechos, toda vez que no tenemos ninguna de su prueba.
+Quizá tendríamos alguna duda respecto a si las con-clusiones relativas a las contrademandas podrían ser revisa-das, mas los apelantes no nos convencen de que podríamos hacer esto sin ver toda la prueba del demandante, especial-mente en vista de que el caso depende totalmente del arren-damiento y de las condiciones en él expresadas, según ve-remos.
+Los apelantes también señalan como error la insuficiencia de la demanda. Se trataba de un pleito basado en una cuenta o contracuenta, y la demanda en la forma en que ha sido copiada no es en verdad tan satisfactoria como podría serlo. No obstante, en la demanda se hace la alegación de que existían contracuentas entre las partes y también se hizo referencia a un contrato de arrendamiento que se acompa-ñaba. El apelado sostiene que de este contrato de arrenda-miento surgieron los derechos p supuestos derechos en que se basaron las contracuentas originales. El legajo de la sen-tencia en sí en este caso no incluye dicho arrendamiento como parte de la demanda. La parte apelada admite que fué co-piado en los exhibits que los demandados han archivado en este caso, pero que debió haber formado parte del legajo de la sentencia, y creemos que el apelado tiene razón. A fin de investigar la suficiencia de la demanda bajo las circunstan-cias, debemos considerarla conjuntamente con la prueba pre-sentada durante el juicio y una vez más tendríamos que afron-tar la misma dificultad de no tener ante nos toda la prueba.
+Los apelantes también alegan que se cometió error, toda vez que la corte concedió intereses desde la fecha de la radi-cación de la demanda más bien que desde la fecha en que se dictó la sentencia. La contención de los apelantes es que las sumas que el demandante trataba de recobrar no eran líqui-das. Nos parece que cada una de las distintas cantidades era más o menos cierta y fué cuestión para el perito que com-pareció en el caso determinar qué podía cargarse propiamente y qué no. El caso no demuestra que hubiera determinación alguna de la naturaleza de daños y perjuicios. Toda la cues-tión parecía ser qué cantidades debían distribuirse entre las partes que intervinieron en el contrato. Bajo estas circuns-tancias, no estamos convencidos de que la corte cometiera error al conceder intereses desde la fecha de la radicación de la demanda. Aún aquí la cuestión de si las cuentas eran o no líquidas hubiera podido depender de la prueba que falta del demandante.
+La sentencia apelada debe ser confirmada.
