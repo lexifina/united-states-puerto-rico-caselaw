@@ -2,7 +2,7 @@
 court: "Supreme Court of Puerto Rico"
 docket: "24"
 decided: "1905-03-21"
-citations: ["8 P.R. Dec. 608", "9 P.R. 531"]
+citations: ["8 P.R. Dec. 608"]
 reporter: "pr-dec"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
