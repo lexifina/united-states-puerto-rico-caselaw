@@ -1,0 +1,33 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "41"
+decided: "1905-12-16"
+citations: ["9 P.R. Dec. 546"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jueces concurrentes: Sres. Presidente Quiñones y Asociados, Pignoras, MacLeary y Wolf."]
+parties: ["El Pueblo v. Bocanegra."]
+source_url: "https://static.case.law/pr-dec/9/cases/0546-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8848619
+---
+
+# Pueblo v. Bocanegra
+
+## Majority (El Jukz Asooiado Su. Hernández,)
+
+El Jukz Asooiado Su. Hernández,
+emitió la opinión del tribunal.
+El presente es un recurso de apelación interpuesto por Juan JBocanegra Núñez, contra sentencia de la'Corte de Distrito de Aguadilla.
+La acusación que dió origen al juicio aparece redactada en los términos siguientes:
+“En el nombre y por la autoridad de “El Pueblo de Puerto Rico.” Tinted States of América S. S. . — Tbe President of the U. S. El Pueblo de Puerto Rico contra Juan Bocanegra Núñez. — En la Corte de Distrito de Mayagüez á once de mayo de 1904. — El Fiscal formula acusación contra Juan Boeanegra Núñez, por un delito de asesinato en ler. grado (felony) cometido como sigue: “El citado finan Boeanegra Núñez, siendo Policía Insular del puesto de Mo-ca, sostenía relaciones ilícitas con la mujer casada Onofre Cha-cón é Hidalgo, y se liabía empeñado en que dicha mujer abandonase la casa en que vivía, que era la de su padre Alejandro Chacón, para que se marchara con él, y como la Onofre se negaba á ello, deli-beró y premeditó matarla ilegal y maliciosamente, y al efecto, en la noche del 2 de abril del corriente año de 1904, se dirigió al pueblo de Águadilla, que forma parte de este Distrito Judicial, donde era que vivía la referida Onofre Chacón, se escondió debajo de ia casa ele ésta en acecho de que dicha mujer saliera afuera, y cuando vió que la (dicha Onofre se encontraba en el balcón, salió del sitio en que se había escondido, y agarrándola por el traje que vestía, le hizo un disparo con el revólver ¿le reglamento que portaba, con cuyo disparo le produjo la muerte instantánea. — Este hecho es contrario á la ley para tal caso prevista, y á la paz y dignidad de “El Pueblo ele Puerto Rico”. — Liber lad Torres Oran, Fiscal del Distrito. — La acusación que. antecede está basada en el testimonio de testigos exa-minados por mí bajo juramento, creyendo solemnemente que existe justa causa para presentarla al Tribunal.- — Libertad Torres Gran.- - Fiscal del Distrito. — Jurado y firmado ante mí hoy día once de mayo de 1904. — Juan Arroyo dlestre. — Secretario del Tribunal del Dis-trito ¡de ülayagüez. — Ilay un sello.”
+El reo alegó 110 ser.culpable del delito de que se le acu-saba, y señalado día para la celebración del .juicio por ju-rados que tuvo lugar en la Corte de Distrito de Águadilla, el jurado pronunció un veredicto declarando culpable al acusado de asesinato en segundo grado, y la corte por sen-tencia de 31 de octubre del año próximo pasado, le conde-nó á la pena de prisión perpetua en presidio con. trabajos forzados, y pago de las costas procesales.
+Contra esa sentencia interpuso la representación del acusado recurso de apelación que su abogado lia sostenido ante esta Corte Suprema, alegando por escrito y oralmen-te que siendo la pena impuesta la señalada por el Código 'Penal al delito de asesinato en primen* grado con circuns-tancias atenuantes, no lia debido aplicarse en el presento caso, porcino la prueba no fué suficientemente clara para deducir de ellas la existencia de circunstancias ag*ravantos, y porque habiendo declarado el jurado que el apelante sólo era culpable de asesinato en segundo grado, claro es, que no tuvo la intención de que se le impusiera pena cual si fuera culpable de asesinato en primer grado con circuns-tancias atenuantes, habiéndose; infligido además la en-lnienda 8a. ele Ja constitución do los Estados Unidos que prohíbe imponer castigos crueles é inusitados.
+No podemos entrar á examinar si las pruebas practica-das en el juicio demostraron ó no la existencia de circuns-tancias agravantes ó atenuantes, porque si bien han veni-do con el récord notas taquigráficas detallando esas prue-bas, tales notas no pueden servir de base para discutir la apreciación de las pruebas hechas por el jurado, sino que á ese fin debe presentarse un pliego de excepciones ó una exposición de hechos que revelen en forma fehaciente el resultado de las pruebas practicadas en el.juicio, según doctrina ya, establecida por esta Corte Suprema y am-pliamente razonada en los casos No. 62 de El Pueblo de Puerto Rico contra Juan de Mata Eligier y Juan del Carmen Groló, y No. 61 de El Pueblo de Puerto Rico contra Eusebio Torres Candelaria.
+Aceptado el veredicto del jurado tal como fue pronun-ciado y que debe presumirse ajustado á derecho y á las pruebas mientras no se demuestre, lo contrario, el juez de Aguadilla procedió dentro de sus facultades imponiendo al apelante la pena de reclusión perpetua, pues el artículo 202 del Código Penal estatuye que toda persona culpable de asesinato en segundo grado incurrirá en pena de pre-sidio por un término mínimo de diez años, y el 33 del mis-mo código ordena que “cuando á un reo se le declara in-curso en pena de presidio por un término que no baje de determinado número de años, sin fijar un límite á la dura-ción de. dicha pena, podrá el tribunal sentenciador, á su arbitrio, condenar al reo á prisión perpetua ó por cual-quier número de años que no baje del prescrito.”
+Ciertamente que al jurado corresponde en casos como el presente declarar al acusado convicto ó absuelto del delito imputádole en la acusación y determinar cuándo procede ('1 grado del delito cometido, según los artículos 283 y 284 del Código de Enjuiciamiento Criminal; pero al tribunal autorizado para pronunciar la sentencia, incumbe fijar la pena que hubiere de imponerse en cada caso especial den-tro de los límites prescritos por el Código Penal, según éste preceptúa en su artículo 28 y el juez del Distrito de Aguadilla obró dentro de esos límites, sin apartarse del veredicto del jurado y sin que se haya demostrado que abusara del poder discrecional que la ley le confiere.
+Negamos que sea cruel ó inusitada la pena de prisión perpetua impuesta al acusado. Dicha pena es ele las es-tablecidas por el Código Penal vigente en esta Isla y no le es aplicable la enmienda 8a. de la Constitución de los Estados Unidos.
+Por las razones expuestas, procede en nuestro sentir la confirmación de la sentencia apelada con las costas del re-curso-á la parte apelante.
+Confirmada.
+Jueces concurrentes: Sres. Presidente Quiñones y Asociados, Pignoras, MacLeary y Wolf.
