@@ -2,7 +2,7 @@
 court: "Supreme Court of Puerto Rico"
 docket: "2249"
 decided: "1925-03-24"
-citations: ["34 P.R. Dec. 42", "34 P.R. Dec. 907"]
+citations: ["34 P.R. Dec. 42"]
 reporter: "pr-dec"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
