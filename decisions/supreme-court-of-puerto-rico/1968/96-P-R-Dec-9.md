@@ -1,0 +1,39 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "Número: R-65-276"
+decided: "1968-05-10"
+citations: ["96 P.R. Dec. 9"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["José Almodóvar y Otros, querellantes y recurrentes, v. Sucesión J. Serrallés, querellada y recurrida."]
+source_url: "https://static.case.law/pr-dec/96/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8811758
+cites_cases: ["123 F.2d 387", "127 F.2d 934", "131 F.2d 283", "145 F.2d 552", "158 F.2d 882", "214 F.2d 360", "230 F.2d 398", "242 F.2d 714", "263 F.2d 913", "267 F.2d 286", "337 U.S. 755", "45 F.Supp. 769", "86 D.P.R. 447", "88 D.P.R. 572", "90 D.P.R. 141", "94 D.P.R. 74"]
+---
+
+# Almodóvar v. Sucesión Serrallés
+
+## Majority (per curiam :)
+
+per curiam :
+Considerada la prueba aportada por las par-tes el tribunal de instancia formuló las determinaciones de hechos siguientes que debemos considerar para la adjudica-ción de las cuestiones que se plantean en el presente recurso:
+“1. . ..
+2. La demandada Sucesión J. Serrallés era durante el pe-ríodo a que se refiere la querella y lo es en la actualidad, una sociedad civil con fines agrícolas. Se ha dedicado y se dedica a la siembra y cultivo de caña de azúcar y a la crianza de ganado. Posee terrenos y administra terrenos de otras personas. Es dueña de las colonias conocidas por Mercedita, Laurel, Cin-trona I, Cintrona II, Ponceña, Ana María Mercado, Ursula, San José, Boca Chica, Esperanza, Perseverancia, Delicias, Jauca, Los Llanos y Río Cañas. Es condueña de las colonias Unión y Barrancas.
+Félix J. Serrallés Nevárez, Juan A. Wirshing y Juan E. Serrallés forman parte de la Sucesión J. Serrallés. Son arrenda-tarios de las colonias Unión, Barrancas y Restaurada, respec-tivamente.
+La sucesión demandada no es ni lo fue durante el período comprendido en la querella dueña o explotadora de molino azu-carero alguno. El molino azucarero conocido como Central Mer-cedita durante ese período era y es actualmente propiedad de la corporación industrial Central Mercedita, Inc., personalidad jurídica distinta de la Sucesión demandada.
+8. .
+4. La labor de los querellantes durante el período compren-dido en la querella consistía en la reparación de bombas de riego, mantenimiento de pozos profundos y reparación y man-tenimiento de grúas y romanas, utilizadas por la demandada.
+Hasta el 1958 los pozos profundos eran construidos por ter-ceras personas bajo contrato con la demandada, señores Anton-santi y Chardón pero después de hacerse cargo de la sección de pozos y grúas el ingeniero Vivas, la demandada adquirió equipo y los construye bajo la dirección de Vivas.
+5. Los querellantes nunca trabajaron en el taller donde se realizaban las reparaciones de piezas o implementos y equipo agrícola de la demandada. Estas reparaciones se efectuaban bien en el taller de Mercedita o en el taller de Capó, ambos con organización propia y dirigidos y supervisados por otras per-sonas que no eran Hernández, Rivera, Clemente o Vivas.
+6. El trabajo realizado por los querellantes siempre se rea-lizó en las distintas colonias de la demandada o en las fincas de colonos independientes a quienes ocasionalmente le prestaron servicios. Siempre tuvieron a su disposición y servicio tres ve-hículos distintos para trasladarse a las fincas. El trabajo reali-zado por los querellantes es de naturaleza agrícola.
+En aquellas ocasiones en que los querellantes trabajaron para colonos particulares, los colonos pagaban directamente a los que-rellantes sin la intervención de la querellada. (Véase declaración de Ramón Berrios.) Desde el 1958 los querellantes no han pres-tado servicios a colonos particulares.
+Los materiales de reparación utilizados por los querellantes se almacenaban o depositaban en un ranchón en la colonia Boca Chica. Ese ranchón no es un taller ya que allí no hay tornos, cepillos, prensa hidráulica o maquinaria.”
+A base de esas determinaciones concluyó, como cuestión de derecho, que la labor realizada por los querellantes no está cubierta por la Ley de Normas Razonables del Trabajo por estar comprendida dentro de la exención para el trabajo agrí-cola a que se refiere la Sec. 13 (a) 6, 29 U.S.C. 213(6). Con vista de ello dictó sentencia desestimando la querella en su totalidad.
+Los recurrentes señalan que el tribunal de instancia incidió al resolver sobre la inaplicabilidad de la mencionada ley federal, planteamiento que está íntimamente ligado con el que se refiere a que las determinaciones de hechos no representan el balance más racional, justiciero y razonable de la prueba. Aunque en la consideración de toda la prueba probablemente hubiésemos llegado a determinaciones distin-tas a las del juez a quo, no puede negarse que las transcritas precedentemente tienen base suficiente, especialmente la que se relaciona con la naturaleza y el pago de la labor realizada por los querellantes para otros colonos.
+Ahora bien, surge igualmente claro que si bien la querellada es una empresa dedicada principalmente a la agricultura de caña, el trabajo realizado por los reclamantes— reparación y mantenimiento de bombas de riego, pozos profundos, romanas, y otros menesteres — está cubierto por el Decreto Mandatorio Núm. 45 de la Junta de Salario Mínimo aplicable a la industria de metales, maquinaria, equipo de transportación, instrumentos y productos relacionados, 29 R.&R.P.R. secs. 245n-661 a 664. Conforme resolvimos en Campos de Encarnación v. Sepúlveda, 94 D.P.R. 74 (1967), la base para fijar salarios mínimos es la naturaleza de la actividad que se lleva a cabo por el empleado que la ejercita, irrespectivamente de la clase de ocupación a que se dedique la empresa o patrono que lo emplea. En el mismo sentido, Sierra Núñez v. Const. Equipment Corp., 90 D.P.R. 141 (1964); Sierra Berdecía v. Pedro A. Pizá, Inc., 86 D.P.R. 447 (1962). Por tanto cualquier labor realizada por los que-rellantes para la querellada a partir del 6 de julio de 1958, fecha en que comenzó a regir el decreto Núm. 45, deberá ser compensada de acuerdo con lo que allí se establece; y cualquier labor realizada a partir de la vigencia de la Ley de Salario Mínimo, conforme a lo dispuesto en su Sec. 6 (d) I, 29 L.P.R.A. sec. 245e.
+Se deja sin efecto la sentencia dictada por el Tribunal Superior, Sala de Ponce, en 2U de noviembre de 1965, y se devuelve el caso para ulteriores procedimientos.
+En general, véanse, en relación con actividades comprendidas den-tro de la exención, National Labor Relations Bd. v. Olaa Sugar Company, 242 F.2d 714 (9th Cir. 1957); Holtville Alfalfa Mills v. Wyatt, 230 F.2d 398 (9th Cir. 1955); Damutz v. Pinchbeck, 158 F.2d 882 (2d Cir. 1946); Vives v. Serralles, 145 F.2d 552 (1st Cir. 1944); Miller Hatcheries v. Boyer, 131 F.2d 283 (8th Cir. 1942); y en relación con actividades no cubiertas por la exención, Farmers Reservoir and Irrig. Co. v. McComb, 337 U.S. 755 (1949); Mitchell v. Huntsville Wholesale Nurseries, Inc., 267 F.2d 286 (5th Cir. 1959); Mitchell v. Hunt, 263 F.2d 913 (5th Cir. 1959); Chapman v. Durkin, 214 F.2d 360 (5th Cir. 1954); Calaf v. Gonzalez, 127 F.2d 934 (1st Cir. 1942); Gonzalez v. Bowie, 123 F.2d 387 (1st Cir. 1941); Jordan v. Stark Bros. Nurseries & Orchards Co., 45 F.Supp. 769 (D.C. Arkansas 1942); Goldberg v. Asso. Azucarera Co-op, 15 W.H. Cases 166 (1961); Tobin v. Wenatchee Air Service, Inc., 10 W.H. Cases 681 (1952); cf. Ocasio Calo v. Fajardo Sugar Co., 88 D.P.R. 572 (1963).
+Este decreto fue reemplazado por el Núm. 71, 29 R.&R.P.R. secs. 245n-921 a 924, efectivo en 3 de febrero de 1965.
+La aplicabilidad de la legislación sobre salario mínimo y del De-creto 45 fue planteada ante el tribunal de instancia en el memorando-de los querellantes como un “fundamento adicional” para la procedencia, de la reclamación.
