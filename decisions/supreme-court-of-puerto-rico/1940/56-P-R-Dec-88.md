@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "Núm. 7865"
+decided: "1940-02-07"
+citations: ["56 P.R. Dec. 88"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Maximino Souffront y Maximino, Rosa Angélica y Rafael Elías Souffront Muñoz, demandantes y apelantes, v. Carmen Georgina Franco Valdés, demandada y apelada."]
+source_url: "https://static.case.law/pr-dec/56/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8783417
+---
+
+# Souffront v. Franco Valdés
+
+## Majority (El Juez Asociado Señor De Jesús)
+
+El Juez Asociado Señor De Jesús
+emitió la opinión del tribunal.
+La demanda del pleito qne motiva este recurso va diri-gida a obtener una declaración de nulidad del procedimiento ejecutivo hipotecario seguido por la aquí demandada contra el demandante Maximino Souffront y su esposa Benigna Muñoz. Varias son las causas de nulidad que alegan los de-mandantes, entre ellas la de que el procedimiento ejecutivo fue dirigido contra Souffront y su citada esposa, cuando ésta había ya fallecido, no siendo requeridos de pago sus here-deros menores de edad, que en unión de su padre instituyen este pleito. Se alegó también que en el escrito inicial la eje-cutante no se obligó a indemnizar y resarcir los daños y perjuicios que pudieran irrogarse a los demandados por ma-licia o negligencia en la fiel exposición de los hechos, y final-mente, que se incluyó entre las sumas reclamadas por la de-mandante la cantidad de $98 por concepto de intereses de mora, criando su pago no había sido estipulado.
+Contestó la demandada negando qne en la fecha en qne se instituyó y tramitó el procedimiento no viviera la deman-dada Benigna Muñoz, alegando en contrario qne según apa-rece del certificado del márshal en los autos de dicho proce-dimiento, fue ella requerida de pago juntamente con su esposo; alegó que en el párrafo séptimo del escrito inicial se obligó la ejecutante a indemnizar los daños y perjuicios que pudieran irrogarse a los demandados o a terceros inte-resados si hubiera existido malicia o negligencia en la fiel exposición de los hechos, y en cuanto a los intereses de mora, alegó que habían sido expresamente convenidos y fijados y que eran debidos al tiempo de la ejecución de la hipoteca por el período comprendido entre agosto de 1932 y octubre de 1933. Contrademandó además la demandada para el caso de que pudiera prosperar la demanda de nulidad, reclamando en dicha eontrademanda el montante de la hipoteca y demás deudas accesorias garantizadas por la misma.
+A pesar de que la contestación fue radicada el 20 de no-viembre de 1937, no se celebró el juicio oral hasta el 31 de marzo de 1938 con la sola asistencia de la demandada y sus testigos, no obstante haberse incluido el señalamiento del juicio en calendario general y constarle al abogado de los demandantes tal señalamiento, según resulta del alegato que ha presentado en este tribunal.
+La rebeldía de los contrademandados había sido anotada el 16 de febrero de 1938 y al no asistir los demandantes al juicio, la demandada solicitó se les diese por desisitidos de su acción y se procediese, como se procedió, a la prueba de la contrademanda, dictándose sentencia el 29 de abril de 1938 con los siguientes pronunciamientos: teniendo por desisti-dos a los demandantes, por abandono, de la prosecución de su acción; declarando sin lugar la eontrademanda, y conde-nando a los demandantes a pagar a la demandada la cantidad de $200 por concepto de honorarios de abogado.
+A pesar de qne el juicio se celebró el 31 de marzo y la sentencia no se dictó hasta el 29 de abril siguiente, los demandantes, teniendo como tenían conocimiento de la celebración del juicio, en ningún momento trataron siquiera de invocar la discreción de la corte antes de que se dictara sentencia para que les diese una oportunidad de ser oídos. Por el contrario, dictada la sentencia los demandantes esperaron hasta el último día del término para radicar su escrito de apelación, y a pesar de que el récord fué radicado en este tribunal el 23 de octubre de 1938, después de siete u ocho prórrogas, radicaron su alegato el 23 de marzo de 1939.
+La práctica dilatoria demostrada por los demandantes desde la iniciación de este pleito hasta la fecha sólo se ex-plica por lo que resulta de la prueba de la demandada al efecto de que dos días después de entregada posesión de la finca ejecutada a la demandante en el procedimiento hipotecario, el demandado volvió a apoderarse de ella y desde entonces viene disfrutándola sin pagar canon o merced al-guna ni tampoco las contribuciones territoriales sobre la re-ferida finca.
+Si los demandantes no asistieron a juicio y por consi-' guiente no sometieron evidencia alguna, ¿qué otra sentencia podría dictar la corte inferior que no fuese la de darles por desistidos por abandono de su acción, conforme prescribe el inciso 3 del artículo 192 del Código de Enjuiciamiento Civil?
+Aún más, de la prueba que en apoyo de la contrademanda presentó la demandada, aparece que en el escrito inicial del procedimiento ejecutivo la demandante de manera expresa consignó que se obligaba a indemnizar a los demandados o a terceros interesados de eualesquier daños que pudieran irro-gárseles por malicia o negligencia en la fiel exposición de los hechos, no surgiendo afirmativamente que la Sra. Benigna Muñoz hubiese fallecido en la fecha en que se instituyó y tramitó dicho procedimiento ni qne no se hubieren convenido intereses de mora.
+Por lo expuesto, 'procede desestimar el recurso y confir-mar la sentencia apelada, pero resultando de los antos la frivolidad de este recurso, procede que hagamos uso de nues-tra discreción condenando a los apelantes al pago adicional de $100 por concepto de los servicios del abogado de la de-mandada en este tribunal.
