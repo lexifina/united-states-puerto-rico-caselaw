@@ -1,0 +1,33 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "Núm. 10617"
+decided: "1952-01-08"
+citations: ["73 P.R. Dec. 2"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["María Luisa Blanes, demandante y apelada, v. Alberto Valldejuli y Pilar Muñiz, demandados y apelantes."]
+source_url: "https://static.case.law/pr-dec/73/cases/0002-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8814031
+cites_cases: ["66 D.P.R. 653"]
+---
+
+# Blanes v. Valldejuli
+
+## Majority (El Juez Asociado Señor Negrón Fernández)
+
+El Juez Asociado Señor Negrón Fernández
+emitió la opi-nión del tribunal.
+El 11 de octubre de 1951 la demandante obtuvo sentencia en pleito de desahucio contra los demandados, archivándose en autos copia de la notificación de sentencia el 17 del propio mes. El día 22 los demandados radicaron escrito de ape-lación en el tribunal inferior y dos días más tarde, el 24, solicitaron de dicho tribunal fijara la fianza para responder a la demandante de los daños y perjuicios que pudieran oca-sionarle, y de las costas en apelación, siendo fijada la misma en la suma de $1,000 y prestada por los demandados y apro-bada por el tribunal ese mismo día.
+La apelada solicita la desestimación del presente recurso por el fundamento de que la fianza que requiere la ley no se prestó dentro del término de cinco días fijado para la ape-lación. Los apelantes se oponen fundándose en que no tra-tándose — como en efecto no se trata aquí — de un desahucio por falta de pago, no venían ellos obligados a prestar la fianza dentro del término de cinco días, pudiendo, como lo hicieron, otorgarla posteriormente, siempre que lo hicieran dentro del término de que disponían para perfeccionar su apelación. Conceden los apelantes, sin embargo, que en las apelaciones en casos de desahucio por falta de pago es requisito a ser cumplido “dentro del término para apelar”, el consignar los arrendamientos adeudados o afianzar el pago de los mismos, en virtud de lo dispuesto en el artículo 631 del Código de Enjuiciamiento Civil, según quedó enmendado por la Ley núm. 170 de 9 de mayo de 1942 ((1) pág. 889).
+El artículo 630 del Código de Enjuiciamiento Civil fija un término de cinco días, contados desde la fecha en que fueren notificadas de la sentencia por el secretario de la corte correspondiente las partes perjudicadas por la misma, o sus abogados, para las apelaciones en casos de desahucio. El artículo 631 del mismo cuerpo legal, antes de la enmienda de que fué objeto por la Ley núm. 170 ya citada, disponía:
+“'No se admitirá al demandado el recurso de apelación si no consigna en secretaría el importe del precio adeudado hasta la fecha de la sentencia, cuando el desahucio se funde en falta de pago de las cantidades convenidas.
+“En cualquier otro caso será requisito indispensable para ejercitar el recurso de apelación por parte del demandado, que éste otorgue fianza, a satisfacción del tribunal, para responder de los daños y perjuicios que puedan irrogarse al demandante, y de las costas de la apelación.
+“Tanto la consignación como la fianza de que habla la pre-sente sección deberán quedar formalizadas dentro del término concedido para la apelación.”
+Y en la actualidad, luego de su enmienda, dispone:
+“No se admitirá al demandado el recurso de apelación si no otorga fianza, a satisfacción del tribunal, para responder de los daños y perjuicios que pueda ocasionar al demandante y de las costas de la apelación; pudiendo el demandado cuando el desahucio se funde en falta de pago de las cantidades convenidas, a su elección, otorgar dicha fianza o consignar en secretaría el importe del precio de la deuda hasta la fecha dé la sentencia.”
+El propósito fundamental de la enmienda fué, según diji-mos en Vivas v. Petrilli, 66 D.P.R. 653, “el de eximir al demandado en un caso de desahucio de la obligación de con-signar en secretaría, en efectivo, el importe del precio adeu-dado hasta la fecha de la sentencia, como condición previa para poder establecer el recurso de apelación, dejando a elección de dicho demandado apelante el consignar la suma adeudada en la secretaría u otorgar una fianza para garan-tizar su pago.” El párrafo tercero del artículo 631 “fue sin duda alguna eliminado por superfluo”, ya que fijando el artículo 630 el término de cinco días para apelar y dispo-niendo el 631 que “No se admitirá al demandado el recurso de apelación si no otorga fianza, a satisfacción del tribunal, para responder de los daños y perjuicios que pueda ocasionar al demandante y de las costas de la apelación”, “la prestación de fianza o la consignación de la suma adeudada deberá nece-sariamente hacerse dentro de ese mismo término de cinco días, pues de no hacerse así,.la corte carecerá de jurisdicción para admitir y conocer del-recurso.” Vivas v. Petrilli, supra.
+Aun cuando en el caso de Vivas se trataba de un desa-hucio por falta de pago, lo allí dicho en cuanto al término para otorgar la fianza es aplicable-a toda apelación en plei-tos de desahucio, no importa que no sea fundado en falta de pago. El párrafo tercero del artículo 631 que quedó elimi-nado por la enmienda de 9 de mayo de 1942 hablaba tanto de la consignación como de la fianza de que hablaban los pri-meros dos párrafos de dicho artículo antes de dicha enmienda. Dicho tercer párrafo, se refería tanto a la fianza para responder por daños y perjuicios y de las costas en apelación— que era requisito indispensable para poder ejercitar el re-curso de apelación en todos los casos de desahucio que no fueran por falta de pago — así como a la consignación, que era — sin alternativa de fianza — requisito indispensable para admitir la apelación en un caso de desahucio por falta de pago.
+Tal como quedó enmendado dicho artículo 631, el requi-sito de la fianza para responder de daños y perjuicios y de las costas en apelación es indispensable para que se admita el recurso en toda clase de pleitos de desahucio. Es únicamente cuando el desahucio se funda en falta de pago que el deman-dado tiene la elección de prestar la fianza para responder de daños y perjuicios y costas, o de consignar en secretaría el importe del precio de la deuda hasta la fecha de la sentencia. Pero todo ello, en unos y otros casos, debe hacerse dentro del término de cinco días que fija el artículo 630 para interponer la apelación.
+No habiéndose otorgado la fianza en el caso de autos den-tro de los cinco días siguientes al archivo en autos d.e la noti-ficación de la sentencia, procede la desestimación del pre-sente recurso por falta de jurisdicción.
