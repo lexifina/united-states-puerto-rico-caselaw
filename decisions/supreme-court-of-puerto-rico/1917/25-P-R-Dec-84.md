@@ -1,0 +1,31 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "1553"
+decided: "1917-03-29"
+citations: ["25 P.R. Dec. 84", "25 P.R. 80"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jueces concurrentes: Sres. Presidente Hernández y Aso-ciados del Toro, Áldrey y Hutchison."]
+parties: ["Fuentes, Demandante y Apelante, v. Martínez, Demandado y Apelado."]
+source_url: "https://static.case.law/pr-dec/25/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8755927
+cites_cases: ["19 D. P. R. 342", "19 P. R. R. 323", "24 D. P. R. 796", "24 P. R. R. 743", "64 L. R. A. 474", "96 Tex. 255", "98 U. S. 187"]
+---
+
+# Fuentes v. Martínez
+
+## Majority (El Juez Asociado Se. Wole,)
+
+Los hechos están expresados en la opinión.
+El Juez Asociado Se. Wole,
+emitió la opinión del tribunal.
+La sentencia contra la cual se ha interpuesto esta apela-ción fué dictada a virtud de una moción de non suit presen-tada por el demandado y por tanto la principal cuestión que ha sido discutida por las partes es si la prueba aducida por el demandante fué o no suficiente para establecer su caso prima facie. La acción establecida fué por persecución ma-' liciosa y opinamos, como declaró probado la corte inferior, que el demandante no probó la malicia del demandado. El demandante probó en el juicio su arresto, absolución y prueba tendente a demostrar los daños y perjuicios. Esto fué al pa-recer todo lo que el demandante creyó que era necesario pro-bar. El caso ele Parés v. Ruiz, 19 D. P. R. 342, el cual ha sido observado y citado frecuentemente, establece que ha de pro-barse la falta de causa probable y la malicia. Estamos de acuerdo con el apelado en su alegación de que la mera prueba del arresto y absolución no tiende a acreditar la falta de causa probable. En el caso de Bekkeland v. Lyons, 96 Tex. 255, 64 L. R. A. 474, la corte llamó la atención hacia el hecho de que hubo conflicto en cuanto -a este particular, pero que había mayor razón para llegar a la conclusión a que hemos llegado. De lo contrario nos parecería que una vez probado el arresto y la absolución tendría el demandado la obligación de demos-trar que hubo causa probable.
+Pero existe una dificultad en aplicar el principio en este caso. El demandante probó su arresto y absolución con el secretario de la corte municipal donde tuvo lugar el proceso criminal. En el examen de repreguntas, y sin que se hiciera objeción por el demandante, el demandado probó y presentó como prueba otros documentos que estaban en poder del se-cretario y constaban en los mismos autos o expedientes. Es-tos documentos fueron según parece algunas de las pruebas presentadas en la causa criminal. Apareció de la prueba que el apelante había recibido en 30 de julio, 1916, de un tal Carlos Cruz, la suma de $43.96 para ser entregada a Valerio Mar-tínez Vanell el día 31 de agosto de 1916. Si el dejar de entre-garse esta suma de $43.96 fué la única causa para verificar el arresto, creemos que quedó establecida la falta de causa probable. Fué a manera de un recibo y promesa de entre-gar a dicho Martínez la referida cantidad de $43.96. El hecho de no cumplirse con la promesa no era un abuso de confianza si no se acreditaba que el apelante era agente del apelado y que estaba autorizado para recibir la expresada suma y por tanto que quedaba obligado de algún modo especial para con el apelado. El apelado sostiene, sin embargo, que el apelante dejó de probar que la retención de estos $43.96 fué lo que dió lugar al arresto. Aunque esto es tal vez técnicamente cierto, habiendo sido producida la prueba a solicitud del apelado y no respondiendo a nada de lo presentado en el examen directo-, puede inferirse lógicamente que el arresto tuvo lugar por no haberse entregado la referida suma de $43.96.
+Hubo otra prueba presentada en el expediente que tendía a demostrar más o menos vagamente la existencia de cierta relación o agencia respecto a otros dineros o de otra cuenta entre dicho apelante y el apelado. La cuestión referente a la malicia es una cuestión mixta de hecho y de derecho, que la corte puede inferir de la falta de causa probable. Stewart v. Sonneborn, 98 U. S. 187, Paganacci v. Lebrón, 24 D. P. R. 796. La corte no dedujo la malicia en este caso. A la verdad que el apelante según parece creyó que había esta-blecido su caso prima facie al probar el arresto, abso-lución, y los daños y perjuicios, y fue solamente en una mo-ción para reconsiderar la sentencia que alegó que la prueba había sido suplida por el acto del apelado al presentar como prueba las demás que estaban en poder del secretario de la corte municipal. Corno el apelante estaba en la obligación de demostrar la malicia, que es una cuestión positiva, no in-tervendremos con la conclusión a que llegó la corte sentencia-dora en cuanto al particular. No vemos nada en los autos que indique dicha malicia.
+Alega el apelante que la moción de non suit fuá improce-dente puesto que ya el demandado había presentado parte de su prueba. Considerada técnicamente esta cuestión podría haber habido algún fundamento en la alegación del apelante. La prueba no correspondía al examen directo, pero el apelante permitió que fuera presentada sin formular objeción al ser repreguntado su propio testigo. Por lo general la prueba así admitida se considera como parte del caso del demandante. Cuando el demandante cierra su caso la moción de non suit se dirige a toda la prueba que está entonces ante la corte y la prueba que ha sido admitida a solicitud de cualquiera de las partes generalmente se considera como parte del caso prima facie del demandante. En este caso la corte estuvo justificada en considerar toda la prueba que le fue presentada, como parte del caso del demandante.
+Sostiene el apelado que no se tomó excepción de la reso-lución de la corte al decretar el sobreseimiento de esta causa. Generalmente fiemos considerado la sentencia como conse-cuencia directa de la moción y dicfia sentencia está excep-cionada por ministerio de la ley, de conformidad con el artículo 213 del Código de Enjuiciamiento Civil.
+La sentencia apelada debe ser confirmada.
+Confirmada la sentencia apelada.
+Jueces concurrentes: Sres. Presidente Hernández y Aso-ciados del Toro, Áldrey y Hutchison.
