@@ -1,0 +1,34 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "4702"
+decided: "1929-07-23"
+citations: ["40 P.R. Dec. 33", "40 P.R. 31"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["José V. Usera, peticionario-apelante, v. Jorge Bird Arias y Eladio J. Candal, demandados-apelados."]
+source_url: "https://static.case.law/pr-dec/40/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8787800
+---
+
+# Usera v. Bird Arias
+
+## Majority (.El Juez Asociado Senos Hutchison,)
+
+.El Juez Asociado Senos Hutchison,
+emitió la opinión del tribunal.
+José Y. Usera solicitó un mandamtbs para compeler a Eladio J. Candal como interventor (comptroller) y Jorge Bird Arias como director, vicepresidente y administrador general de la Fajardo Sugar Company of Porto Rico para que se le permitiera inspeccionar el libro de acciones y el registro de transferencias de la corporación.
+Se espidió un auto alternativo que fué posteriormente anulado por la corte de distrito.
+Durante la vista celebrada el 21 de mayo de 1928, el de-mandante introdujo en evidencia un certificado de acciones expedídole directamente el 25 de febrero de 1928. Este cer-tificado contiene las disposiciones corrientes de que sólo podrá ser transferido en los libros de la corporación, perso-nalmente o por apoderado, mediante su presentación con el debido endoso. Se liace referencia al certificado de incorpo-ración de la compañía, copia del cual se dice consta en el ar-chivo de la oficina de la corporación en la ciudad de Nueva York. El certificado de acciones está suscrito por el secre-tario-auxiliar y por el presidente de la corporación, resi-dentes ambos en Nueva York. Da a entender que fué regis-trado el 27 de febrero de 1928 por el National City Bank of New York, y aparece refrendado por el banco, actuando por medio de un cajero auxiliar encargado del registro. El de-mandante, residente en Puerto Rico, compró las acciones en Nueva York valiéndose de corredores de bolsa de allí. El anterior dueño de las mismas le era desconocido al deman-dante. El nuevo certificado expedido le fué enviado por sus corredores.
+Cuando el primero de mayo Usera compareció a la oficina principal de la corporación radicada en Fajardo, el inter-ventor Candal manifestóle que, indudablemente, la razón por la cual su nombre no aparecía en el registro de transferen-cias era que la oficina dé Fajardo no babía recibido aún de Nueva York “los records de las últimas transferencias.” Parte de la declaración de Candal durante el juicio corrobora esta manifestación.
+El demandante también aportó como prueba un cheque de dividendos. Lee como sigue:
+“No. 605. Nuera York, mayo 1, 1928. Dividendo No. 37. National City Bank of New York. Páguese a la orden de José V. Usera la cantidad de 25 y oo/ Dólares. Tbe Fajardo Sugar Company of Porto Rico. (Fdo.) Jobn B. Warnoek, Tesorero. (Fdo.) John Bass, Tesorero Auxiliar.
+“En pago del dividendo de $2.50 por acción pagadero en esta.fe-cha sobre acciones de Tbe Fajardo Sugar Company of Porto Rico, constantes a su nombre al finalizar los negocios de abril 20, 1928.”
+Warnoek y Bass son también directores de la corporación. Ambos residen en Nueva York.
+Es una inferencia lógica de lo que antecede que el deman-dante era un accionista cuyo nombre constaba en los libros de la corporación. Es concebible que la corporación pudiera haber renunciado los requisitos usuales que se exigen al ex-pedir mi nuevo certificado y al pagar los dividendos, pero no hay presunción alguna a favor de esa renuncia. Por el con-trario, la presunción es que se ha seguido el curso ordinario de los negocios. Ley de Evidencia, artículo 102, inciso 20.
+Eladio J. Candal declaró como testigo de la parte deman-dada que el nombre del demandante no aparecía como accio-nista en el libro de acciones ni en el registro de transferen-cias de la corporación en la oficina de Fajardo. Esa es la única defensa. No destruye el caso prima facie establecido por el demandante.
+Los artículos 12 y 20 de la Ley de Corporaciones se ex-ponen de lleno en el caso de Usera v. Bird et al., ante, pág. 28. El artículo 12 dice que, si los estatutos o las cláusulas de in-corporación así lo dispusieren, los directores podrán llevar los libros de la corporación,“excepto los libros de acciones y registros de transferencias, fnera de la Isla de Puerto Rico; Disponiéndose, sin embargo, qne cada una de dichas corpo-raciones mantendrá una oficina principal en la isla, a cargo de un agente, en la cual se llevarán el libro de acciones y re-gistros de transferencias, para la inspección de todos los que tuvieren derecho a verlos y para la transferencia de ac-ciones.” La porción pertinente del artículo 20 es que:
+“Toda corporación organizada bajo esta ley, llevará en su oficina principal en la Isla de Puerto Pico, registros de traspasos en que se asentarán las transferencias de acciones, y registros de acciones que contendrán los nombres y direcciones de los accionistas y número de acciones que poseen, los cuales registros podrán en todo tiempo, du-rante las horas ordinarias de oficina, ser examinados por cualquier accionista. Los citados registros constituirán la única prueba-para determinar quiénes son los accionistas con derecho a examinar dichos registros.”
+La regla de evidencia aquí sentada presupone un cumpli-miento absoluto con los anteriores requisitos de la ley. Puede admitirse que la ley no prohíbe el que se lleve un registro de certificados de acciones, o que se haga un memorándum en el talonario de las mismas, o que se lleve un libro diario o mayor, o hasta libros duplicados de acciones y transferencias en Nueva York, donde se hacen los asientos originales antes de inscribirse las transferencias en esta Isla. Sin embargo, si se puede interpretar el estatuto en forma tan liberal que san-cione el que se acuda a tales medios como materia de conve-niencia, por lo menos'la corporación debe hacer que el libro de acciones y el registro de transferencias estén al día en su oficina principal en Puerto Rico. Al celebrarse el juicio en este caso habían transcurrido poco menos de tres meses desde la fecha en que se hizo el traspaso en los libros de la corpora-ción en Nueva York. Los agentes y superiores de una cor-poración que abiertamente ha hecho caso omiso del requisito estatutorio de que se asentarán todas las transferencias de acciones y se registrarán en los libros que han de llevarse para ese fin, los nombres y direcciones de los accionistas y número de acciones qne poseen, no puede guarecerse en la regla estatutoria de que “los citados registros constituirán la única prueba para determinar quiénes son los accionistas con derecho a examinar dichos registros.”
+Debe revocarse la sentencia recurrida.
