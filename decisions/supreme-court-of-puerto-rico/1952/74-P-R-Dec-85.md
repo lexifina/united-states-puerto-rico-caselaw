@@ -1,0 +1,34 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "Número 1287"
+decided: "1952-11-12"
+citations: ["74 P.R. Dec. 85"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jesús Bosques Román y su esposa María Josefa Avilés, conocida por María José Avilés, recurrentes, v. El Registrador Interino de la Propiedad de Aguadilla, recurrido."]
+source_url: "https://static.case.law/pr-dec/74/cases/0085-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8813931
+cites_cases: ["123 A.L.R. 428", "24 D.P.R. 896", "35 D.P.R. 794", "36 D.P.R. 316", "37 D.P.R. 846", "38 D.P.R. 356", "44 D.P.R. 323", "49 D.P.R. 185", "50 D.P.R. 776", "51 D.P.R. 624", "51 D.P.R. 764", "54 D.P.R. 18", "55 D.P.R. 535", "55 D.P.R. 649", "61 D.P.R. 311"]
+---
+
+# Bosques Román v. El Registrador Interino de la Propiedad de Aguadilla
+
+## Majority (El Juez Asociado Señor Pérez Pimentel)
+
+El Juez Asociado Señor Pérez Pimentel
+emitió la opinión . del tribunal.
+Jesús Bosques Román y su esposa María Josefa Avilés otorgaron un pagaré al portador por la suma de mil qui-nientos dólares. En garantía del referido pagaré, los espo-sos Bosques Avilés constituyeron hipoteca voluntaria sobre una finca rústica en la cual enclavan dos casas. La escri-tura de hipoteca contiene una cláusula que lee como sigue:
+“F — Los deudores tienen constituido su hogar seguro en una de las casas ya que la otra la destinan a alquiler
+Presentada la referida escritura de hipoteca en el Re-gistro de la Propiedad de Aguadilla, el registrador la ins-cribió con la siguiente nota:
+“Inscrito este documento al folio 138 vuelto del tomo 57 de Moca, finca número 1263 duplicado e inscripción 12? hacién-dose la advertencia de no indicarse en cuál de las dos casas tienen su hogar seguro los deudores.- No reporta otra carga que la que comprende este documento.”
+Contra esa calificación elevaron los recurrentes el pre-sente recurso gubernativo alegando que la mencionada ad-vertencia constituye en efecto un supuesto defecto subsana-ble, el cual no está justificado, por lo que nos piden ordenemos la inscripción eliminándose la parte de la nota de inscrip-ción que dice “haciéndose la advertencia de no indicarse en cuál de las dos casas tienen su hogar seguro los deudores.”
+La hipoteca se constituyó sobre la finca en su totalidad como un solo inmueble, tal como figura inscrita en el Registro, valorándose en la suma de $1,700 como tipo para la primera subasta en caso de ejecución. En ese caso, la hipoteca se ejecutará sobre toda la finca y no sobre una casa o la otra, puesto que los edificios no son más que accesorios del suelo que es lo principal, salvo prueba en contrario. Scaévola, Código Civil, Tomo 6, págs’. 285 y 286; Manresa, Comentarios al Código Civil Español, Tomo 3, pág. 202; Longpré v. El Registrador de San Juan, 24 D.P.R. 896, 899, revocado por otros motivos en Ramírez v. Registrador, 61 D.P.R. 311. En vista de esto era, pues, innecesario espe-cificar sobre cuál de las dos casas está constituido el derecho de hogar seguro. En todo caso, dicho derecho se puede recla-mar aportando la prueba necesaria en el procedimiento de ejecución o aun después del mismo. F. Carrera & Hno. v. Registrador, 36 D.P.R. 316; Veve v. Keith, 49 D.P.R. 185; sección 5, párrafo 4 de la Ley núm. 87 de 13 de mayo de 1936 ((1) pág. 463). Ello es así, porque el derecho de hogar seguro en Puerto Rico no es el derecho a continuar poseyendo, la easa o terreno en que estaba constituido sino que es más bien un derecho a que se le entregue al deudor la suma de $500 que es la parte de la propiedad que está exenta de. ejecución. Secciones 1, 2 y 5 de la indicada Ley núm. 87. Dávila v. Martínez, 37 D.P.R. 846; F. Carrera & Hno. v. Registrador, supra; Noriega v. Registrador, 44 D.P.R. 323; Aldea v. Tomás y Piñán, 51 D.P.R. 764; Veve v. Keith, supra; Arzuaga v. Ramírez, 50 D.P.R. 776; Crédito y Ahorro Ponceño v. Beveraggi, 55 D.P.R. 649; Muñoz Morales, Lecciones de Derecho Hipotecario, Tomo 2, página 292; si bien puede el acreedor ejecutante hacer el pago asignándole al deudor un pedazo de la finca original por dicho valor. González v. Corte Municipal, 54 D.P.R. 18. Claro que si la finca resul-tase valer menos de $500 entonces no cabría la ejecución de-la misma. Batista v. Corte, 55 D.P.R. 535.
+Siendo ello así, el derecho que tiene el acreedor hipoteca-rio a ejecutar la hipoteca sobre la finca en caso de incum-plimiento de la obligación, no puede quedar afectado por el hecho de que el hogar seguro esté constituido sobre una u. otra de las dos casas enclavadas en la finca. La obligación, del acreedor se circunscribe en tal caso a pagar a los deu-dores la suma de $500, si se reclamase conforme al proce-dimiento prescrito en la sección 5 de la citada Ley núm. 87 de 1936.
+Conforme al estado actual de nuestra legislación, peculiar a la materia envuelta, no es necesario que el derecho de hogar seguro aparezca inscrito en el Registro de la Propiedad para que el mismo sea efectivo. Dávila v. Sotomayor, 35 D.P.R. 794. La inscripción que permite la Ley núm. 87 de 1936 tiene como miras el facilitar la prueba a la hora de ejecutarse la propiedad. La prueba de que el derecho de hogar seguro existía al momento de constituirse la carga o gravamen es necesaria porque si se probase que la carga o gravamen se constituyó antes que el derecho de hogar seguro, aquélla no podría quedar afectada por éste. Ortiz v. Registrador, 51 D.P.R. 624; Colón v. Giorgi, 38 D.P.R. 356; Anotación en 123 A.L.R. 428 y casos allí citados. Dicha ins-cripción concede pues una valiosa prueba, aunque no la única, ya que a falta de la inscripción, el hecho de que el derecho de hogar seguro ya estaba establecido al constituirse la carga o gravamen puede probarse por cualquier otro medio admi-sible. Sección 4 de la Ley núm. 87 de 1936, supra, esco-lio (1).
+Por los razonamientos expuestos, debe modificarse la nota del Registrador ordenándosele que elimine de la misma la frase “haciéndose la advertencia de no indicarse en cuál de las dos casas tienen su hogar seguro los deudores.”
+La sección 4 de la Ley núm. 87 de 1936 ((1) pág. 461) dispone en su último párrafo que:
+“El hecho de que una finca no esté inscrita como homestead ni que del derecho al mismo se haya tomado anotación en el registro de la pro-piedad en nada afecta al derecho de hogar seguro (homestead) que en ella tenga su propietario como tal jefe de familia.”
+Conforme al primer párrafo de la sección 4 de la Ley núm. 87 de 1936 la inscripción sólo constituye prueba prima facie del hecho de la ocupación.
+No hemos perdido de vista que la mayoría de la jurisprudencia citada es interpretativa de la Ley de 12 de marzo de 1903, pero no ha-biendo sido variada ésta sustancialmente por la Ley núm. 87 de 1936, dicha jurisprudencia es persuasiva. Véase, Muñoz Morales, Lecciones de Derecho Hipotecario, tomo 2, página 310.
