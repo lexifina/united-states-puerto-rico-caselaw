@@ -1,0 +1,39 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "Núm. 7617"
+decided: "1939-06-01"
+citations: ["55 P.R. Dec. 10"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["El Juez Asociado Sr. Travieso no intervino."]
+parties: ["Dionisio Cora, demandante y apelado, v. Josefina Belgodere de Cora, demandada y apelante."]
+source_url: "https://static.case.law/pr-dec/55/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8782579
+cites_cases: ["28 D.P.R. 177"]
+---
+
+# Cora v. Belgodere de Cora
+
+## Majority (Ec Juez Asociado Señob De Jesús)
+
+Ec Juez Asociado Señob De Jesús
+emitió la opinión del tribunal.
+Por escritura de 12 de noviembre de 1930, otorgada ante el notario Tomás Bernardini de la Huerta, los hermanos Poli-carpio y Dionisio Cora constituyeron una sociedad mercantil colectiva con domicilio en el pueblo de Arroyo, bajo la razón social de P. Cora & Hno. Consignaron en la escritura social que desde el primero de enero de 1928 venían trabajando juntos en negocio de comercio ai por mayor y al detal en el indicado pueblo, por lo que al establecer el término de duración de la sociedad lo hicieron con efecto retroactivo al primero de enero de 1928.
+Antes de otorgarse la escritura de sociedad, allá para el 27 de marzo de 1928, doña María Antonia Defendini vendió a la sociedad P. Cora & Hno. el solar y casa que motivan este pleito, inscribiéndose la finca a nombre de la compradora en el Registro de la Propiedad de Guayama, al folio 193 del tomo 14 de Arroyo, finca número 515, inscripción quinta.
+Continuó su marcha la sociedad hasta que fué disuelta por escritura de 26 de mayo de 1936 ante el mismo notario Bernardini. En esta última escritura se adjudicó a Dionisio Cora la finca antes mencionada en pago de su haber social.
+Dueño así de la finca, con fecha 5 de marzo de 1937 Dio-nisio Cora radicó la demanda de desahucio de este caso contra Josefina Belgodere, esposa de Policarpio Cora. Alegó en la demanda su título de dominio sobre el inmueble en cues-tión; que la demandada estaba poseyendo la planta alta de la ameritada casa sin título y sin pagar canon o merced alguno, y terminó suplicando una sentencia de desahucio.
+Contestó la demandada alegando que la casa en cuestión fué adquirida por Dionisio y Policarpio Cora durante el matri-monio de este último con la demandada, sin que en dicha fecha existiese entre dichos señores Cora la sociedad que cons-tituyeron algunos años después de adquirida la finca. Que la demandada hace más de diez años habita dicha casa en unión de su esposo como únicos dueños, y sin que en ningún momento con anterioridad a la demanda de este caso el demandante hubiere objetado a su posesión y disfrute del inmueble. Que la acción de desahucio es el resultado de una conspiración entre los hermanos Dionisio y Policarpio Cora para privar a la demandada de su participación en los bienes de la socie-dad conyugal con su citado esposo, pendiente de disolución a virtud del pleito de divorcio instituido por ella en los tribunales de Puerto Rico. Termina la contestación con la siguiente súplica:
+“Por ]o que se suplica .a la Hon. Corte se sirva desestimar la demanda de desahucio, declarando que los derechos de demandante y demandada deben ser discutidos y resueltos en el juicio plenario correspondiente, imponiendo al demandante el pago de costas, des-embolsos y honorarios de abogado.”
+Fué el caso a juicio y la corte, estimando que el deman-dante había probado su condición de dueño del inmueble, que la demandada lo venía ocupando sin título y sin pagar canon o merced alguno, y que la impugnación que al título del demandante hacía la demandada no era propia de ser con-siderada dentro del procedimiento de desahucio, el 29 de marzo de 1937 dictó sentencia declarando con lugar la demanda.
+Estableció la demandada este recurso en el que imputa a la corte sentenciadora la comisión de los siguientes errores:
+“Primero: Al declarar que en el juicio de desahucio no puede el demandado alegar y probar la insuficiencia o ineficacia del título del demandante, equivocando la doctrina sentada por esta Hon. Corte Suprema de Puerto Rico y anteriormente por el Tribunal Supremo de España.
+“Segundo: Al reconocer título válido y eficaz a favor del deman-dante para ejercitar esta acción de desahucio.
+“Tercero: Al no reconocer que la acción de desahucio y el título de adjudicación en que la misma se-funda son el resultado de una confabulación entre el demandante y su hermano, esposo de la de-mandada, señora Josefina Belgodere.
+“Cuarta: Al no reconocer que el título del demandante ha que-dado impugnado, en su esencia y efectos, de tal manera que es insu-ficiente para sostener la acción de desahucio.
+“Quinto: No reconocer a la sociedad de gananciales constituida por la demandada y su esposo, Policarpio Cora, un condominio en la finca objeto de desahucio, que impide ejercitar ésta contra uno de los esposos.”
+Las cuestiones levantadas por la demandada apelante en los cinco señalamientos de error que acabamos de exponer, se reducen a determinar si de sus alegaciones y prueba surge conflicto de título que impida dictar sentencia decretando el desahucio.
+Ya hemos visto que la casa en cuestión fué comprada por la sociedad P. Cora & Hno. y que se inscribió a su nombre en el Registro de la Propiedad. También resulta de la e\ddencia documental ofrecida por el demandante que esa sociedad, cuya constitución no constaba originalmente en escritura, quedó formalizada por la de 12 de noviembre de 1930 cuyos efectos se retrotrajeron al primero de enero de 1928. Finalmente, consta también en documento auténtico que al disolverse la sociedad la finca fué adjudicada al demandante en pago de su haber social. Así pues, la prueba del demandante tiende a probar que es dueño del inmueble y por consiguiente tiene personalidad para establecer el pleito de desahucio. Insiste la demandada en que en el presente caso existe un conflicto y que por consiguiente debe desestimarse la acción de desahucio. Repetidas veces ha dicho este tribunal que para que surja conflicto de título que impida la acción de desahucio, es preciso que de las alegaciones y de la prueba de la parte demandada surjan hechos suficientes para demostrar que sus pretensiones de título no están desprovistas de fundamento; en otras palabras, que tiene un color de título. En el presente caso las alegaciones y prueba de la demandada en relación con el título que ella reclama, están tan desprovistas de fundamento legal que en realidad no suscitan conflicto alguno de título. El hecho de que el contrato de sociedad de P. Cora & Hno. no constase en escritura pública al tiempo de adquirir la finca motivo del desahucio, no impide que la sociedad tuviera personalidad para adquirir inmuebles. Silva Hno. & Co. v. Registrador, 28 D.P.R. 177, 179. Tampoco existe la más ligera sos-pecha de la combinación fraudulenta que la demandada imputa a los hermanos Cora, pues desde que se adquirió la finca el 27 de marzo de 1928 se consignó en la escritura de compraventa que el inmueble lo compraba la sociedad P. Cora & Hno., y desde aquella fecha, según la demandada, ella y su esposo ocuparon la planta alta de la casa y continuaron allí viviendo por "espacio de diez años. De manera pues, que esa circunstancia elimina toda sospecha de que el título del inmueble se transmitiese a la sociedad con miras a una acción de divorcio que se presentó muchos años más tarde.
+No existiendo conflicto de título y resultando de la prueba un título de dominio a favor del demandante y que la deman-dada ocupa el inmueble sin derecho alguno y sin pagar canon o merced al demandante, procede desestimar el recurso y confirmar la sentencia apelada.
+El Juez Asociado Sr. Travieso no intervino.
