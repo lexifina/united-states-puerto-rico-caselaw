@@ -1,0 +1,39 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "Núm. 7898"
+decided: "1940-01-31"
+citations: ["56 P.R. Dec. 1"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thorkil Fog, demandante y apelado, v. Francisco Vázquez Escobar, demandado y apelante."]
+source_url: "https://static.case.law/pr-dec/56/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8782680
+---
+
+# Fog v. Vázquez Escobar
+
+## Majority (El Juez Presidente Señor Del Tobo)
+
+El Juez Presidente Señor Del Tobo
+emitió la opinión del tribunal.
+Thorkil Fog demandó en la Corte de Distrito „de Areeibo a Francisco Vázquez Escobar reclamándole mil cincuenta dó-lares por daños y perjuicios.
+Alegó en su demanda que allá por los meses de julio y agosto, 1937, tenía arrendada y estaba en posesión de una finca rústica de diez y siete cuerdas y media que describe, habiendo sembrado en ella y siendo dueño de doce cuerdas de piñas.
+Que en julio de 1937 convino en vender y entregar antes de agosto siguiente todas las semillas e bijos que produjera la plantación a un precio de diez dólares por.cada mil “slips” y siete por cada mil “suckers” estimando en mil cincuenta dólares el valor de lo que podría recolectar y vender.
+Que a fines de la primera semana de agosto, 1937, mien-tras se disponía a la recolección, se personó en la finca Francisco Vázquez, el demandado, y alegando ser su dueño y de lo que en ella estaba sembrado, prohibió al demandante y a sus empleados que procedieran a la misma, acudiendo a él personalmente el demandante el diez de agosto de 1937 y negándose el demandado de nuevo a permitirle la recolección a no ser que aceptara las condiciones onerosas que le impuso para ello, volviendo ese mismo día el demandado a la finca en compañía del Márshal de la Corte de Distrito de Arecibo que lo puso en posesión de la propiedad, impidiéndole de tal modo que recogiera sus semillas e hijos de piñas, teniendo que rescindir el contrato de venta de los mismos, privándolo así de su valor razonable ascendente a mil cincuenta dólares.
+Que el derecho de arrendamiento del demandante está inscrito en el Registro de la Propiedad y no expira hasta octubre de 1937 habiendo el demandante pagado los cánones por adelantado hasta esa fecha.
+Contestó finalmente el demandado negando que prohi-biera al demandante la recolección de semillas de piña, siendo el demandante el que voluntariamente dejó de hacerlo. Admi-tió que el márshal del distrito lo puso en posesión de la finca pero alegó que dicha posesión no fue material sino simbólica.
+Fué el pleito a juicio y la corte lo decidió por su sentencia de abril diez y nueve de 1938 condenando al demandado al pago de parte de la reclamación. Basó su sentencia en la siguiente declaración de hechos probados:
+“El demandado remató la propiedad y obtuvo posesión de ella por conducto del Marshal de esta Corte. De la evidencia se concluye que al tiempo de tomar posesión, había en la finca semillas e hijos de piñas (slips and stickers) propiedad del demandante, y que éste in-sistió en que se le permitiera recolectarlos basándose en su contrato inscrito que aún no había expirado. Se desprende del conjunto de la prueba, que el demandado creyó que una vez adquirida la posesión judicial de la finca, el demandante no tenía más derecho que arrancar las plantaciones e irse. El cortar las plantaciones implicaba un gasto adicional al trabajo de sacar las semillas, a cuyo gasto el demandante no estaba obligado. El demandado declaró que él estaba dispuesto a pagar ese gasto, pero no hemos quedado convencidos de ese punto de su declaración. De todos modos, si el demandante se negó a cortar las plantaciones el demandado debió permitirle que extrajera las sé-millas, con mucha más razón, cuando el arrendatario estaba allí a virtud de un contrato inscrito que le permitía disponer de' la finca hasta su terminación, si no realizaba un daño malicioso.
+“Aún cuando se desprende que el demandante no fué todo lo diplomático que pudo serlo en la discusión del asunto, estamos con-vencidos que hubo pérdidas innecesarias por cierta ignorancia del demandado en cuanto a los derechos del primero.
+“Del conjunto de la evidencia y de algún conocimiento que tene-mos en cuanto a producción de esas clases de plantaciones, entende-mos que la cantidad de semillas e hijos que dice el demandante había en la finca es exagerada; de la misma carta que presentó como prueba sobre la entrega futura de esas semillas a John MI Kohn, se des-prende que él esperaba recolectar mucho menos de las semillas que declaró había en la finca. Además, hay que tener en cuenta que el extraer las semillas implica un gasto y que no todas las plantaciones producen semillas. Creemos también que el precio de las semillas e hijos contenido en la carta firmada por John Kohn fué más bien tentativo para semillas de calidad superior, porque generalmente no es el precio en el mercado para una cosecha general. El testigo que presentó el demandante con cierto carácter pericial, no fué todo lo explícito que es de esperarse para justificar daños exactos, aunque reconocemos que quiso ser veraz como corresponde a una persona que declara bajo juramento. Además, estando para entregar la finca, por el vencimiento del contrato, el demandante no había de hacer los mismos gastos para una buena producción, que en los primeros años. Hay que suponer una cantidad de semillas reducidas, la que quedó en la finca.
+“Apreciando la prueba en conjunto y tomando en consideración todas las circunstancias del caso, la Corte entiende que hace justicia declarando la demanda con lugar y condenando al demandado a pa-gar al demandante la suma de trescientos cincuenta dólares y las costas, excluyendo honorarios de abogado.”
+Apeló el demandado señalando como errores los cometi-dos a su juicio por la corte de distrito “al considerar, de acuerdo con la prueba presentada, que había causado al de-mandante los daños que se alegan en la demanda,” y “al no tomar como base para los daños las declaraciones prestadas por los testigos del demandante.”
+Hemos examinado la prueba y los alegatos y a nuestro juicio la primera sostiene la sentencia.
+La parte apelante no asistió a la vista del recurso y la parte apelada pidió que dada su temeridad y la frivolidad de su apelación, debían imponérsele las costas de ésta, incluyendo úna cantidad razonable por concepto de honorarios de abo-gado.
+Si bien acabamos de decir que la prueba sostiene la sen-tencia, no podemos concluir de igual modo que se trate de una apelación frívola y de una actuación temeraria por parte del demandado.
+El caso está en la línea. La propia corte sentenciadora dijo: “Aún cuando se desprende que el demandante no fue todo lo diplomático que pudo serlo en la discusión del asunto, estamos convencidos que hubo pérdidas innecesarias por cierta ignorancia del demandado en cuanto a los derechos del pri-mero.” Y así es en efecto.
+Quizá lo mejor que pudo haber hecho el demandado ái en-terarse del fallo del pleito y de sus fundamentos, hubiera sido acatar la sentencia aunque en su interior no creyera que había causado intencionalmente los perjuicios que se le ordenaba resarcir, ya que la tramitación del recurso debe haberle cos-tado más que el montante de la sentencia, pero no cabe afir-mar que no estuviera en su derecho al invocar la jurisdicción de esta corte para que dijera la última palabra.
+No es éste un caso de frivolidad ni de temeridad. Es un caso dudoso en que esta corte defiere a la apreciación de la prueba hecha por la corte de jurisdicción original que estaba en mejores condiciones que ella para juzgarla. Y sobre esa base se resuelve.
+Por virtud de todo lo expuesto debe declararse sin lugar el recurso y confirmarse la sentencia apelada sin que haya lugar a imponer las costas de la apelación al apelante.
