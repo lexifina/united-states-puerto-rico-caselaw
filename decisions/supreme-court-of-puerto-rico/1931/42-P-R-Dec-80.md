@@ -1,0 +1,39 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "4129"
+decided: "1931-03-31"
+citations: ["42 P.R. Dec. 80"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["El Pueblo de Puerto Rico, demandante y apelado, v. Enrique Ramírez Brau, acusado y apelante."]
+source_url: "https://static.case.law/pr-dec/42/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8789456
+cites_cases: ["144 U. S. 677", "41 D.P.R. 266"]
+---
+
+# Pueblo v. Ramírez Brau
+
+## Majority (El Juez Asociado Señob Wole,)
+
+El Juez Asociado Señob Wole,
+emitió la opinión del tribunal. Enrique Ramírez Bran fné convicto, en efecto, de haber infringido la sección primera de la resolución adoptada por la Junta Insular de Elecciones en octubre 29, 1928, y apeló.
+La sección 12 de la ley electoral vigente, la No. 79 de ■junio 25, 1919 (Leyes'de ese año, página 531), según fué enmendada por la Ley No. 74 de 1923, página 561, dispone:
+“La Junta Insular de Elecciones tendrá a su cargo la inspección y dirección de las elecciones en Puerto Rico; podrá aprobar reglas y reglamentos para Uevar a efecto las disposiciones de esta Ley, que no estuvieren en contradicción o conflicto con la misma, los cuales, para tener fuerza de ley, deberán ser aprobados por el Gobernador de Puerto Rico. .
+La sección 97 (a) de la misma ley, agregada por la No. 15 de marzo 12, 1920, reza así:
+“Toda persona que infringiere cualquier disposición de esta Ley, para la cual infracción no hubiere prescrito otra pena en esta Ley o en el Código Penal de Puerto Rico, y toda persona que infringiere cualquier regla o reglamento de la Junta Insular de Elecciones le-galmente adoptado y proclamado según se autoriza en virtud de la Sección 12 de esta Ley, será culpable de delito menos grave (misdemeanor) y convicta que fuere ante una Corte de jurisdicción compe-tente, será castigada con multa no menor de cien ni mayor de qui-nientos dólares, o reducida a prisión por no menos de uno ni más de seis meses, o con ambas penas, multa y prisión, a discreción de la Corte. ’ ’
+La Junta Insular de Elecciones, el 29 de octubre de 1928, redactó y aprobó la siguiente resolución, que también fué aprobada por el Gobernador:
+Que al momento de entregar sus papeletas el elector al inspector de colegio, y antes de éste depositar dichas papeletas en la urna, el elector deberá entintarse la punta del dedo pulgar, de su mano de-recha, con una solución química inofensiva, difícil de borrarse, la que será suplida a cada colegio electoral por el Superintendente General de Elecciones, y usada de acuerdo con instrucciones que apruebe la Junta Insular de Elecciones; Disponiéndose, que los electores que tuvieren mutilado el dedo pulgar derecho deberán entintarse cual-quier otro dedo de cualquier mano, preferentemente, a ser posible, de la derecha.”
+El delito imputado fue, en síntesis, así:
+. . . el referido denunciado Enrique Ramírez Brau el 6 de noviembre de 1928, día que se celebraban las últimas elecciones gene-rales en Puerto Rico, en la ciudad de Ponce, Puerto.Rico, que a la vez forma parte del Distrito Judicial del mismo nombre, ilegal y vo-luntariamente, siendo elector capacitado, en el momento de votar y al entregar su papeleta de elector al inspector de colegio del colegio número 16 del Precinto Primero de Ponce, Puerto Rico, y antes de éste depositar dicha papeleta en la urna, el acusado no se entintó y se negó a entintarse la punta del dedo pulgar de su mano derecha con la solución química suplida para ese fin a dicho colegio' por el Superintendente General de Elecciones conforme a la regla de la Junta Insular de Elecciones legalmente aprobada y adoptada en se-sión celebrada el día 30 de octubre del mismo año por el Hon. Gober-nador de Puerto Rico, H. M. Towner, según la sección 12 de la Ley de Inscripciones y Elecciones de Puerto Rico.”
+Los dos primeros señalamientos de error pueden ser tratados conjuntamente. Leen así:
+“1. La Corte de Distrito de Ponee erró al estimar que la Junta Insular de Elecciones y el Gobernador tenían facultad para aprobar la resolución que exigía de los electores el entintarse el dedo pulgar de la mano derecha antes de depositar su papeleta en la urna.
+“2. La Corte de Distrito erró al estimar que la Legislatura de Puerto Rico podía delegar en la Junta Insular de Elecciones la fa-cultad de declarar que ciertos hechos son delictivos e imponer pena-lidades por la omisión o comisión de tales hechos.”
+En el orden lógico-, debemos decir que la Legislatura de Puerto Rico no tiene facultad para exigir de un ciudadano que se entinte un dedo bajo ninguna circunstancia. Entre otras cosas, según indicó el apelante, no creemos que la Legislatura tenga derecho a imponer ese estigma a un ciudadano, de suerte que aparezca ante la comunidad como un ente sospechoso/- El apelante también llama. la atención hacia el hecho de que bajo la misma ley electoral hay otras formas de impedir fraudes. Probablemente no sea un argumento de mucho peso, pero el apelante también llama nuestra atención al hecho- de que en ciertas ocasiones, políticos ladinos de un partido contrario podrían inducir a los votantes a entintarse sus dedos pulgares, haciéndoles así difícil, si no imposible, votar. Sin embargo, el punto principal es que el derecho de todo hombre a conservar su cuerpo intacto de cualquiera des-_ figuración o mancha es absoluto. Por lo menos, ni siquiera sabemos de ningún derecho a marcar el cuerpo aun de los presos. Una ley de esta índole aprobada por la Legislatura no estaría dentro de sus facultades, y sería inconstitucional y nula, si no por cualquier otro motivo, por no ser un debido procedimiento de ley.
+Por tanto, del mismo modo que la corriente de un río no puede subir a mayor altura que su nacimiento, la Legislatura no puede delegar tal facultad en la Junta Insular de Elecciones.
+Empero, suponiendo, a virtud de una interpretación de la ley, que la Legislatura tuviera tal facultad, no podría delegarla en la Junta Insular de Elecciones. Crea un nuevo •delito. En el caso de El Pueblo v. Carril, 41 D.P.R. 266, revisamos las autoridades, especialmente el caso de United States v. Eaton, 144 U. S. 677, 688, y resolvimos lo contrario.
+La Legislatura, al conceder poderes a la Junta Insular de Elecciones para dictar reglas y reglamentos razonables, no delegó en ella la facultad de hacer que un ciudadano se entinte uno de sus dedos al votar.
+Pasando a consideraciones más generales, algunas de las cuales tal vez han sido suscitadas por el apelante, podría decirse que si la aludida resolución constara en una ley de la Legislatura, ella sería nula por vaga o indefinida. La sanción de la ley no es que se castigue a un ciudadano por ■dejar de entintarse uno de sus dedos, sino que meramente le exige que se entinte el dedo en el momento de votar. Non constat que él pueda presentarse al colegio electoral, obtenga una papeleta, y entonces se niegue a votar por no querer entintarse uno de sus dedos. No podría haber delito posible sí un ciudadano se negara a votar, especialmente bajo estas condiciones. A mayor abundamiento, él corre el riesgo de que se le excluya en las próximas elecciones, pero ésa es-cuestión distinta. No se confiere a nadie la facultad de impedir que un hombre vote por el hecho de tener su dedo entintado.
+El derecho a votar está constitucionalmente garantido en Puerto Rico, y cualquier disposición vaga de la ley, supo-niendo que en este caso sea tal, es nula por incierta e inde-finida.
+El apelante señaló otros errores, entre ellos el de que Ios-peritos en el caso dejaron de probar que la tinta no podía borrarse siquiera temporalmente, pero la corte llegó a una conclusión adversa a él, y creemos innecesario discutir este extremo, toda vez que la sentencia debe ser revocada por otros fundamentos.
