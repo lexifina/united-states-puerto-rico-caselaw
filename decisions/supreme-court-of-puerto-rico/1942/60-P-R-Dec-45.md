@@ -1,0 +1,46 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "Núm. 9082"
+decided: "1942-02-27"
+citations: ["60 P.R. Dec. 45"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["El Pueblo de Puerto Rico, demandante y apelado, v. Eduardo Alvarado, acusado y apelante."]
+source_url: "https://static.case.law/pr-dec/60/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8781714
+cites_cases: ["23 D.P.R. 524", "36 D.P.R. 116", "37 D.P.R. 455", "40 D.P.R. 754", "50 D.P.R. 723"]
+---
+
+# Pueblo v. Alvarado
+
+## Majority (El Juez PeesideNte Señor Del Toro)
+
+El Juez PeesideNte Señor Del Toro
+emitió la opinión del tribunal.
+El Fiscal del Distrito de.Ponce formuló acusación contra Eduardo Alvarado porque “allá por el día 27 de febrero de 1941, en Juana Díaz, P. R., . . . ilegal y voluntariamente portaba ... un revólver, arma mortífera, siendo dicho revólver, un instrumento, con el cual puede causarse daño corporal.’ ’
+Por convenio de las partes la causa se vió conjuntamente con otra seguida contra el mismo acusado por infracción a la Ley sobre Registro ■ de Armas, el 25 de junio último. Ambas partes presentaron ¿videncia y terminado el juicio la corte declaró culpable al acusado y dictó sentencia impo-niéndole un mes de cárcel por el delito de portar armas. Ley prohibiendo Portar Armas de junio 25, 1924, art. 1, pág. 115.
+No conforme el acusado, apeló. Imputa en su alegato dos errores como cometidos por la corte al condenarlo sin prueba de que portara ‘ ‘ por la vía pública un arma de fuego ’ ’ y no obstante haberse demostrado que la portación lo fué 4"en un camino privado,” y al dictar una sentencia “con-iraria a los hechos y a la ley.”
+La evidencia del Pueblo consistió en las declara-ciones del Jefe Guillermo' Soldevila, P. I., y del policía Manuel Maura. También de una declaración jurada del propio acusado prestada en la investigación preliminar, que, en lo pertinente dice:
+“Que como a las nueve o diez de la noche del día 27 de febrero de 1941, al salir yo con dirección hacia casa de Lucila Camacho y al pasar por el medio de dos piezas de caña que hay en las orillas del camino me salió Julio Cruz a mano armada y primeramente me dió un palo en la rodilla de la pierna izquierda y al darme el palo jm me le fui encima y entonces le cogí la mano que me tiraba y seguidamente le di un tiro y al darle dicho tiro noté que él se esmongaba y al esmongarse le encontré el cuchillo en la mano. Acto seguido eché a correr... al llegar a la casa de Lucila le informé de lo ocurrido y entonces seguí carrera hacia el río y allí se me perdió el revólver, el cual hoy, como a las siete de la tarde mi jefe el Sr. Juan de Dios Colón y el Hon. Juez Municipal lo encontraron metido en una zanja bastante honda, donde yo me metí y lo saqué.”
+El jefe Soldevila declaró:
+“En el barrio Cintrona Primera, de Juana Díaz hubo una muerte, y a consecuencia de ella nos personamos, el Juez Municipal y el declarante en el sitio de los sucesos. Después de investigar fuimos al establecimiento de la central, a cargo del acusado, y allí arrestamos al acusado. Después de negar los hechos, aceptó que él había tenido que disparar contra el individuo ése, no recuerdo el nombre, el muerto, con un revólver. Que había corrido, y el revólver lo había botado en una zanja. Después, más tarde-, fué el acusado con el Juez Municipal y con don Juan de Dios Colón, a buscar el revólver al sitio donde lo había tirado. Era un revólver calibre treinta y ocho, pabón blanco, y aceptó que ése era el revólver que él había usado, y que no lo tenía inscrito.”
+La declaración del policía Maura corrobora los anteriores testimonios.
+A virtud de esa evidencia quedó comprobada la portación del arma por el acusado.
+Pero éste sostiene que si bien ello es así, como el Pueblo no demostró que la portara en algún sitio público y él demostró que cuando la portó se encontraba dentro de la finca en que estaba la tienda perteneciente al dueño de la misma, de que era encargado, no cometió delito alguno, de acuerdo con la jurisprudencia establecida por esta propia Corte Suprema en el caso del Pueblo v. Díaz, 37 D.P.R. 455.
+En efecto, de la evidencia aportada por El Pueblo no surge que la portación del arma lo fuera en camino público alguno y completada esa evidencia sobre ese extremo por la del acusado resulta que la portación lo fué en Juana Díaz, dentro de la finca Cintrona Primera, colonia de la Central de la Sucesión Serrallés, en la plaza de la colonia y por cerca de un canal de riego de sus cañas.
+¿Bajo esas circunstancias está comprendido el caso del acusado dentro de la jurisprudencia que invoca? Veamos primero cómo fué establecida esa jurisprudencia. En el citado caso del Pueblo v. Díaz, dijo esta corte:
+“La prueba indisputable presentada tanto por el Pueblo como por la defensa demostraba que el supuesto delito tuvo lugar dentro de la finca ‘Australia’, propiedad de los Sucesores de José María Ortiz, y que el acusado vivía en dicha finca; igualmente que el mayordomo de la citada finca había nombrado al acusado celador de la misma durante parte del día en que el supuesto delito fué cometido.
+<¡ * * # # * ⅝ ⅜
+“De la prueba aducida por las partes no quedaba lugar a dudas de que el acirsado estaba empleado como celador de la finca. Si él estaba empleado como celador tenía derecho a portar armas de acuerdo con otras excepciones de la ley. No haría diferencia alguna al hecho de que él usara el arma ilegalmente. El Pueblo v. Segarra, 36 D.P.R. 116. No obstante, no es necesario que basemos nuestra decisión en esta defensa.
+“La prueba era clara de que el supuesto uso ilegal ocurrió dentro de la finca ‘Australia.’ Por tanto, era el deber del fiscal probar claramente qué parte de esa finca o algún camino dentro de la misma eran de uso público. Uno de los testigos dijo que era un camino-pú-blico porque los trabajadores pasaban por él. Ésta era una conclu-sión de derecho o una mera opinión del testigo. No tendía a de-mostrar que Sucesores de José María Ortiz se hubiesen desprendido de parte de su dominio sobre la finca ‘Australia.’ En lo que a un dueño privado se refiere el público o cualquiera persona deben pro-bar un uso adverso.
+“Non oonstant que sucesores de José María Ortiz pudieran cerrar el camino en cualquier momento.
+‘ ‘ Gomo esta finca pertenecía a dichos Sucesores, cualquiera de sus agentes o empleados también estaba dentro de su propia finca, según indica el apelante en el memoránlum de autoridades.” 37 D.P.R. 455-457.
+La jurisprudencia en verdad se expuso en términos tan amplios que parece abarcar el caso de autos. Sin embargo, éste tiene circunstancias especiales que lo colocan a nuestro juicio fuera de ella.
+En primer lugar debe descartarse la condición de celador por parte del acusado. A lo sumo lo que demostró la evi-dencia fué'que estaba encargado de una tienda dentro de la colonia perteneciente al dueño de la misma. Y en segundo lugar, la propia evidencia del acusado se encargó de destruir su teoría de que estaba autorizado para portar armas por el dueño de la propiedad para la defensa de ésta.
+Según la propia declaración del acusado el arma no era* del dueño de la colonia y de la tienda ni la portaba en defensa de propiedad alguna. Lo que él dijo fué que cierto día llegó un desconocido a la tienda y le entregó un paquete para que se lo guardara y como ese servicio se prestaba a menudo no tuvo inconveniente en acceder. Poco después, revisando el paquete notó que contenía un revólver y dió cuenta de ello al encargado general de la colonia quien le aconsejó, que lo llevara al cuartel de la policía. Y a llevarlo salió la noche de autos cuando fuera ya de la tienda aunque dentro aún de la colonia lo acometió una persona y él le disparó con el revólver que portaba.
+Con esa narración parece .que el acusado, con poca fe en su primera teoría, tendió a presentar otra, la de la porta-ción incidental del arma que, como hemos resuelto en algunos casos, no constituye delito. Pueblo v. Pérez, 40 D.P.R. 754; Pueblo v. Borges, 23 D.P.R. 524.
+A esa narración no dió crédito la corte sentenciadora y como quedó demostrado que el revólver no pertenecía a la colonia, el hecho último es el de su portación por el acusado fuera de la tienda y dentro de los terrenos de la colonia, independientemente de sus deberes para con ésta, y ese hecho, si bien pudiera considerarse más o menos comprendido den-tro de los términos en que aparece redactada nuestra deci-sión en el caso del Pueblo v. Diaz, supra, no lo está dentro de su espíritu. Sería muy peligroso en verdad llevar tan lejos la jurisprudencia establecida. Aquí, además, no se demostró que el acusado viviera en la colonia en el sentido de residir en ella. Allí trabajaba y tomaba sus alimentos y dormía durante la semana, pero su residencia estaba en Ponce.
+Lo mismo que dijimos en el caso del Pueblo v. Sánchez. 50 D.P.R. 723, a saber: “la portación de un revólver consti-tuye de por sí un delito, a menos que caiga dentro de alguna de las excepciones de ley, entre las cuales no está el caso de autos,” puede y debe decirse y resolverse en éste.
+Bebe declararse sin lugar el recurso y confirmarse la sentencia apelada.
