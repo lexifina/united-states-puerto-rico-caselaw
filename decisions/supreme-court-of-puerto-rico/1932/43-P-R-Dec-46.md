@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "4555"
+decided: "1932-01-22"
+citations: ["43 P.R. Dec. 46"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["El Pueblo de Pueblo Rico, demandante y apelado, v. Faustino Márquez Rivera, acusado y apelante."]
+source_url: "https://static.case.law/pr-dec/43/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8793376
+cites_cases: ["35 D.P.R. 244"]
+---
+
+# Pueblo v. Márquez Rivera
+
+## Majority (El Juez Presidente Señor del Toro,)
+
+El Juez Presidente Señor del Toro,
+emitió la opinión del tribunal.
+El presente es un caso de violación de una niña menor de catorce años. Formulada acusación por el fiscal y celebrado el juicio ante un jurado, éste rindió veredicto de culpabilidad y la corte dictó sentencia imponiendo al convicto seis años de presidio con trabajos forzados.
+El acusado apeló y señala en su alegato la comisión de seis errores que el fiscal impugna en el suyo. Después de un examen cuidadoso de los autos, opinamos que debe revocarse la sentencia apelada y ordenarse la celebración de nn nuevo juicio, por haberse cometido el segundo de los errores seña-lados.
+Como dijimos, se trata de un caso de violación técnica. La edad de la ofendida era un factor esencial que alegó el fiscal en su acusación y que intentó probar en el juicio. ¿ Cómo ?
+Declaró primero el Dr. Antonio Muñiz sobre el reconoci-miento que practicara en el cuerpo de la perjudicada Mar-celina Soto y sobre la conclusión a que llegara a virtud del mismo sobre la desfloración. La Defensa le preguntó si la niña no estaba desarrollada completamente, o no era lo que vulgarmente se designa por “una mujer”, y el doctor con-testó' que era una niña desarrollada, pero por la edad que demostraba no era lo que podía llamarse vulgarmente una mujer. Eso fué todo lo que dijo el testigo en relación con la edad.
+Siguió la declaración de la propia perjudicada. Nadaj se le preguntó ni expuso con referencia a su edad. Cuando terminó de declarar, el fiscal dijo:
+“Voy a presentar como prueba una certificación del Encargado del Registro Civil de San Sebastián creditiva del nacimiento de la perju-dicada en este caso Marcelina Soto y Soto.”
+T la Defensa manifestó:
+“Me opongo a la admisión de este documento, que es una certifi-cación librada por el Secretario Auditor del Municipio de San Sebas-tián Sr. J. Crespo Ríos en 14 de julio de 1930 del acta de nacimiento de una tal Marcelina Soto y Soto, hija legítima de Francisco Soto, de estado casado, de profesión jornalero y de María Soto, por los si-guientes fundamentos: primero, porque la perjudicada dice que sus padres no son casados y en la certificación se expone que son casados; segundo, porque la certificación es sobre el acta de nacimiento de una tal Marcelina Soto y Soto y no de Angelita Soto y Soto; tercero, porque esta certificación no es una copia fiel y exacta de la inscrip-ción del nacimiento de dicha Marcelina Soto, pues no aparece de ella quién hizo la inscripción ni qué testigos la suscribieron; cuarto, por-que no corresponde dicha certificación con la acusación de El Pueblo de Puerto Rico, y por último, porque este documento es un docu-mento inexistente, que no tiene fuerza legal de ninguna clase por los motivos que se han expuesto.”
+El fiscal solicitó que se dejara en suspenso la admisión del documento hasta tanto que declararan los padres de la per-judicada. Declararon en efecto y el documento fue admi-tido con la objeción de la defensa. Dice así:
+“Exhibit A de El Pueblo. — Municipio de San Sebastián, Pto. Rico. — Oficina del Registro Civil. — Certificado para actas de naci-miento. — Yo, José Crespo Ríos, Secretario Auditor- Municipal y En-cargado del Registro Civil de San Sebastián, P. R. — -Certifica: Que al folio ciento setentinueve del libro treintiséis, y bajo el número quinientos cuarenta, se encuentra el acta de nacimiento de Marcelina Soto Soto, hija legítima de Francisco Soto, de estado casado, de pro-fesión jornalero, natural de San Sebastián, avecindado en la casa número ... . de la calle de barrio Pozas de San Sebastián, y de Ma-ría Soto, natural de San Sebastián, de estado casada, de profesión doméstica y domiciliada en el de su marido. — Que dicha niña nació el día tres de agosto del año 1916, a las nueve de la noche y es de la raza blanca. — Que los abuelos por línea paterna son: Jacinto Soto y Engracia Malavé, blancos, naturales de San Sebastián, y los mater-nos son: José Soto, blanco, natural de San Sebastián, e ignora el nombre de la abuela. — Y para entregar al Licdo. Angel Emilio Franco,. Juez Mpal., que la solicita, expido la presente en San Sebastián, P. R., a catorce de julio de 1930.— (firmado) J. Crespo Ríos, Secreta-rio Auditor y Encargado del Registro Civil. — Hay un sello que dice: Gobierno Municipal de San Sebastián, Registro Civil.”
+Creemos que los motivos primero y segundo y parte del cuarto de la objeción de la defensa quedaron destruidos a virtud de las declaraciones de los padres de la perjudicada,, mas no así el tercero y la parte correspondiente del cuarto. A nuestro juicio la certificación no era admisible por no ser copia fiel y exacta de la inscripción, como sostuvo la defensa,, y por tanto carecía de fuerza legal. En una palabra, que-no podía considerarse a virtud <de su presentación corno-introducida en evidencia la inscripción del nacimiento de-Marcelina Soto, la perjudicada.
+La Ley de Evidencia es terminante. Todo funcionario público bajo cuya custodia obrare algún documento público, está en la obligación de facilitar, al requerírsele, copia certi-ficada del mismo, dice su artículo 48. Y al determinar el 69 cómo podrán probarse otros documentos oficiales, prescribe en sus números 5 y 6:
+“5. Los actos de una corporación municipal de Puerto Rico, o de una junta o departamento de la misma, mediante copia, certificada por el correspondiente archivero, o mediante un libro impreso, pu-blicado por autoridad de dicha corporación. 6. Los documentos de cualquiera otra clase en Puerto Rico, mediante el original o una copia, certificada por el guardador legal de aquél.”
+En el caso de Silva v. Carbonell, 35 D.P.R. 244, esta corte resolvió que “una certificación de matrimonio que no repre-senta ser un extracto del asiento de inscripción verificado en el registro civil sino una copia íntegra de dicho asiento es admisible en evidencia.”
+Lo que introdujo aquí el fiscal no fué el original ni la copia del acta de inscripción. Eso es claro. Si no se hubiera impugnado el documento, lo consignado en él por el Secretario Auditor y Encargado del Registro Civil del muni-cipio de San Sebastián, tomado sin duda del acta de inscrip-ción original, hubiera servido como prueba, pero reclamado por la parte contraria el cumplimiento estricto de la ley, debió reconocerse su derecho. Y como el documento cons-tituía la única prueba de la fecha del nacimiento de la per-judicada, ya que lo declarado por el médico era, como hemos visto, insuficiente, y a los padres nada directamente se le preguntó sobre el particular por el Pueblo que, al contrario, se opuso, cuando la defensa trató de hacerlo, precisa concluir que no queda en los autos prueba suficiente de la edad.
+Debe revocarse la sentencia apelada y, atendidas todas las circunstancias concurrentes, ordenarse la celebración de un nuevo juicio.
