@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "1129"
+decided: "1914-06-23"
+citations: ["21 P.R. Dec. 49", "21 P.R. 45"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jueces concurrentes: Sres. Presidente Hernández y Aso-ciados del Toro, Aldrey y Hutchison."]
+parties: ["Rodríguez, Demandante y Apelante, v. Reyes et al., Demandados y Apelados."]
+source_url: "https://static.case.law/pr-dec/21/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8755512
+---
+
+# Rodríguez v. Reyes
+
+## Majority (El Juez Asociado Sr. Wolf,)
+
+El Juez Asociado Sr. Wolf,
+emitió la opinión del tribunal.
+En la demanda qne ba sido presentada en este caso se alega sustanciabnente qne Branlio Rodrígnez Pérez demanda a Vitalina Reyes Peña y a la Sucesión de Plácido y Francisco Rodríguez; que el demandante es el dueño del siguiente solar y la qne sigue es una descripción suficiente para los fines de este caso, a saber: una casa que mide diez metros, quince centímetros de frente, por trece metros, ochenta centí-metros de fondo, con una prolongación o martillo' á la izquierda entrando de trece metros, treinta y tres centímetros de largo, por cinco metros cuarenta centímetros de ancho. El solar •es propiedad del municipio de Humacao y mide once metros de frente, diez por su fondo, y veinte y seis metros, veinte y cinco centímetros por cada costado. Colinda todo, casa y solar por su derecha entrando, con casa de Doña Vitalina Beyes y sucesión de Francisco Rodríguez; por la izquierda, con casa de los esposos Don Alfonso Faura y Ríos y Doña Orosia de Lema a la que se encuentra unida en su cuerpo principal, y con un solar vacante que antes ocupaba una casa de Doña Juana Font; por su fondo con patio de la casa de Doña Vitalina Reyes; y por su frente, con la citada calle de Santa Rosa. Que en el caso No. 2923, continúa expresando el demandante, que fue seguido ante la Corte de Distrito de Humacao por Vitalina Reyes Peña contra la Sucesión Plá-cido y Francisco Rodríguez, el marshal de dicha corte, para asegurar la efectividad de la sentencia, trabó embargo sobre la siguiente finca: Casa de madera situada en la calle de “La Cruz,” de la ciudad de Humacao, en lindes por su frente con la citada calle o sea el Este, por su derecha entrando que es el norte con casa de Doña Monserrate Peña, antes, hoy Doña Pilar Ruiz, por su izquierda, o sea el sur, con otra casa de la propiedad de Doña Pilar Ruiz, antes de la citada Doña Monserrate Peña, y por su fondo, que es el oeste, con fondos de Don Ulises Martínez y Don Ramón Granado, antes, hoy Don Alfonso Faura. Que en el embargo a que se ha hecho referencia se comprende indebidamente la prolongación o martillo de la casa del demandante, en una extensión de diez metros cuarenta centímetros de largo y se alega además que -la casa embargada no colinda con Alfonso Faura ni colin-daba anteriormente con Ulises Martínez y Ramón Granado. Y el demandante suplicó a la corte que el martillo- de la casa del demandante en una extensión de 10 metros 40 centíme-tros de largo, quede excluido del embargo.
+La acción establecida fué ciertamente una de tercería de bienes inmuebles. Los demandados formularon una excep-ción previa fundada en que la demanda no aducía hechos suficientes para constituir una causa de acción, cuya excep-ción fué declarada con lugar por la corte, basándose en que la acción de tercería de bienes inmuebles tiene por objeto librar determinada propiedad inmueble perteneciente a ter-ceras personas, de embargos erróneamente trabados, y que es fundamento. para el ejercicio de la acción, alegar que se tiene la propiedad de los bienes embargados; que en el pre-sente caso se trabó un embargo sobre determinada finca que por su naturaleza es indivisible, y si las colindancias de la finca embargada eran distintas o habían sido alteradas, y como resultado de dicha alteración se comprendía-indebida-mente parte del martillo de otra casa, la acción procedente sería una sobre reivindicación de propiedad o deslinde.
+En la demanda se alega que la finca descrita comprende parte del martillo de la casa del demandante, pero según hemos podido ver de los hechos contenidos en la descripción que se hace de las dos propiedades, esta afirmación es una conclusión del demandante y no una deducción de los referi-dos hechos o descripción. Entendemos que la demanda es defectuosa por esta razón solamente puesto que según los términos con que se describen estas dos propiedades fellas no coinciden o está comprendida una dentro de la otra.
+Además, estamos de acuerdo con la corte inferior y los apelados en que en una demanda sobre tercería de bienes inmuebles debe el demandante alegar que tiene la propiedad de los bienes que reclama, así como la devolución de los que han sido embargados o una parte determinada de los mismos.
+Una de las dificultades que presenta este caso es que no sabemos con exactitud las medidas que fueron tomadas por el márshal. Expresa el demandante que el márshal embargó cierta propiedad que se describe, pero no tenemos conoci-miento alguno de si dicho márshal hizo algún diligenciamiento o si remitió alguna descripción a la corte o al registro de la propiedad o si realmente tomó posesión del martillo que se alega estar comprendido en el embargo. Hasta tanto no sepamos categóricamente que determinada propiedad del de-mandante fné embargada n' ocupada por el mársbal no pode-mos declarar que dicho demandante haya sufrido algún per-juicio. Puede suceder que nunca haya de ser perturbado en su posesión o en su derecho sobre la misma.
+De la demanda no aparece de modo alguno el derecho del demandante y debe confirmarse la sentencia.
+Confirmada la sentencia apelada.
+Jueces concurrentes: Sres. Presidente Hernández y Aso-ciados del Toro, Aldrey y Hutchison.
