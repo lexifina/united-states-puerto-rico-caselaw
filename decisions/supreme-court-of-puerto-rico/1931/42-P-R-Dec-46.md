@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "4874"
+decided: "1931-03-27"
+citations: ["42 P.R. Dec. 46"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["La Sucesión de Harry A. McCormick, representada por sus albaceas testamentarios Dolores Alcaide Baiz, Antonio S. Alcaide Baiz, Carlos J. Torres y William A. McKinley, demandantes y apelantes, v. José Carrión, demandado y apelado."]
+source_url: "https://static.case.law/pr-dec/42/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8788812
+cites_cases: ["25 D.P.R. 334", "35 D.P.R. 329", "36 D.P.R. 795", "38 D.P.R. 372", "41 D.P.R. 852"]
+---
+
+# Sucesión de McCormick v. Carrión
+
+## Majority (JEl Juez Asociado Señor Wole,)
+
+JEl Juez Asociado Señor Wole,
+emitió la opinión del tribunal.
+Harry A. McCormick falleció bajo testamento en San •Juan, el 17 de octubre de 1927. El testamento se fecbó el 12 de abril, 1927. El testador designó como herederos •algunos de sus parientes más cercanas; reconoció el usu-fructo de su esposa; hizo varios legados, y nombró a ciertas personas como albaceas suyos, los que tomaron debida pose-sión de sus cargos. La cláusula XVI del testamento disponía lo siguiente:
+“Los albaceas podrán acordar y pagar a otras personas los gastos y retribuciones que crean convenientes en la administración y cus-todia de los bienes y tendrán la representación exclusiva del caudal en los litigios de cualquier clase que contra el mismo se promovieren, eon facultades amplias para defenderlos, transarlos o contratar los -servicios de letrados, caso necesario, e igualmente procederán cuando el litigio fuere promovido por el caudal.”
+Entre los bienes relictos estaba una finca en Yabucoa, compuesta de sesenta cuerdas. Alegando haber sido pertur-bados en la posesión de dicha propiedad por José Carrión, los albaceas incoaron pleito contra él. El litigio se intituló “Sucesión de Harry A. McCormick, representada por sus albaceas testamentarios’’ (designándolos). La demanda, ade-más de alegar algunos de los hechos que anteceden, adujo ■que los albaceas habían disfrutado la pacífica posesión material de esa finca hasta el 26 de marzo, cuando el demandado penetró en ella violentamente, etc. En la demanda también ■se alegó que Harry A. McCormick estuvo en posesión de la finca hasta el momento de su muerte, y que entonces la cus-todia y administración de sus bienes pasó a los albaceas. ISe radicó una contestación en la que se alegaron varias de-fensas, y la Corte de Distrito de Humacao dictó sentencia •en favor del demandado. De ahí esta apelación.
+La Corte de Distrito de Humacao resolvió, siguiendo una defensa especial, que el demandante (sic) no tenía persona-lidad para demandar. La teoría fué que como se designó en el testamento a un número de herederos voluntarios, éstos eran los únicos con capacidad para demandar; que si bien el tes-tador había nombrado albaceas con facultades especiales,, también había designado herederos, y que él no podía violar los derechos de estos últimos. Se citó el caso de Domínguez v. Sucesión Nadal, 38 D.P.R. 372, el que a su vez citó el de Pérez v. Zeda, 35 D.P.R. 329, que es un caso de administra-ción, j no de albaceazgo. La corte entonces resolvió que los albaceas carecían de personalidad para demandar.
+Los apelantes llaman nuestra atención, entre otras cosas, hacia la alegación contenida en su demanda al efecto de que instaron este pleito en beneficio de la sucesión; que el testa-dor no dejó herederos forzosos, sino completamente volun-tarios; que la herencia de McCormick era enteramente de libre disposición; ellos mantienen que los herederos volun-tarios heredan, por tanto, a la voluntad del testador; que bajo estas circunstancias, los albaceas son mandatarios del testador (78 J. C. 26; Sucesión Criado v. Martínez, 25 D.P.R. 334); que los albaceas quedan obligados por todo aquello que esté especialmente regulado (100 J. C. 391; Vilella v. El Registrador, 36 D.P.R. 795). Entonces los apelantes hacen referencia al artículo 53 del Código de Enjuiciamiento Civil, así:
+“Un albacea, administrador o comisario (trustee) por comisión expresa, o una persona especialmente autorizada por la ley puede demandar sin el concurso de las personas en cuyo beneficio se ejercita la acción. Una persona con la cual, o en cuyo nombre se celebra un contrato en beneficio de otra, es tenido por comisario (trustee) de una comisión expresa dentro del significado de este artículo.”
+Bajo el artículo 369 del Código de Enjuiciamiento Civil de California, la jurisprudencia tiende a demostrar que los albaceas pueden actuar en un caso como el presente, de ser aplicable el artículo 53. Creemos que lo es, y nada de lo que dijimos en el caso de Pérez v. Pérez 41 D.P.R. 852 milita contra su aplicación. Convenimos con los apelantes en que los casos de Domínguez v. Nadal, y Pérez v. Zeda, son entera-mente distintos, y nos inclinamos a favor de algunos de sus otros razonamientos, todos los cuales no hemos transcrito. No se presentó ningún caso de tal testamento específico en que los herederos fueran enteramente voluntarios. Los al-baeeas quedaron investidos de la posesión de la finca desde la fecha del fallecimiento del testador.
+Además, en la demanda se alega la posesión material en los albaceas, y la prueba prima facie tendió a justificarla. No son los herederos voluntarios quienes han comparecido a la corte a oponerse, sino un alegado poseedor torticero. Si los apelantes tenían o no derecho a mantener la posesión, es cuestión distinta, pero no puede haber duda alguna de que si ellos tenían efectivamente la posesión material, según la prueba tendió a demostrar, les asistía, al amparo de las leyes de 1913 y 1917, el derecho de recuperarla. Debe revocarse la sentencia apelada y devolverse el caso para ulteriores pro-cedimientos no mcom.patibles con esta opinión.
