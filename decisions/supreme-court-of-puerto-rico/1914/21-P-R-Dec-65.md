@@ -1,0 +1,45 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "672"
+decided: "1914-06-23"
+citations: ["21 P.R. Dec. 65"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jueces concurrentes: Sres. Presidente Hernández y Aso-ciados Wolf, Aldrey y Hutchison."]
+parties: ["El Pueblo, Demandante y Apelado, v. Cerecedo, Acusado y Apelante."]
+source_url: "https://static.case.law/pr-dec/21/cases/0065-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8755608
+cites_cases: ["19 D. P. R., 1045"]
+---
+
+# Pueblo v. Cerecedo
+
+## Majority (El Juez Asociado Sr. del Toro,)
+
+El Juez Asociado Sr. del Toro,
+emitió la opinión del tribunal.
+La acusación en este caso, copiada en lo pertinente, dice así:
+“El citado Manuel Cerecedo allá en uno de los días del mes de agosto de 1913', en San Juan que forma parte del distrito judicial del mismo nombre, vendió a Francisco Castañeda determinado número de billetes de la lotería de Santo Domingo por determinada cantidad de dinero. Este hecho es contrario a la ley para tal caso prevista y a la paz y dignidad de El Pueblo de Puerto Rico.”
+El acusado alegó su inocencia y celebrada la vista, la Corte de Distrito de San Juan, Sección 2a., dictó sentencia decla-rándolo culpable de un delito de lotería e imponiéndole la pena de un mes de cárcel y el pago de las costas. Contra ,1a anterior sentencia se interpuso el presente recurso de ape-lación.
+El apelante especifica y argumenta en su alegato tres errores, a saber:
+1. Que la corte de distrito incurrió en error al admitir como prueba la declaración de Francisco Castañeda, sin que fuera corroborada por otra prueba, independiente y bastante a demostrar la relación del acusado con la comisión del hecho delictivo.
+2. Que la corte erró al. admitir como prueba un libro de cuentas, y en él una de las cuentas que la parte que lo ofreció, El Pueblo, llama la cuenta de Castañeda.
+3. Que la corte erró al admitir como prueba los dos libros, el de cuentas y el copiador, presentados por El Pueblo como tomados en el registro becbo por el policía St. Ebno en la ■casa de Cerecedo, en virtud de orden de allanamiento expe-dida por el Juez Municipal de San Juan.
+Examinemos el primer error. La prueba en este caso consistió: (a) en la declaración del testigo Francisco Cas-tañeda. Este manifestó que fué a casa de Cerecedo en agosto a tratar sobre un negocio de un caballo y
+“* * * cuando se iba a retirar, Cerecedo, le propuso que le colocará unos billetes en Río Piedras, y le vendiera cincuenta o cien, y él entonces le dijo que los mandara a ver si se colocaban y le exigió firmar un documento, que decía: ‘Recibí del Sr. Cerecedo veinte y cinco pañuelos de seda a $2.25 ’ y así lo firmó el testigo; y presentado por el Sr. Fiscal un papel, dice que ese es el documento, que firmó el mismo día que vino a tratar de lo del caballo; que los veinte y cinco 'pañuelos de seda son veinte y cinco billetes de la Lotería del Padre Billini de Santo Domingo. * * ■ *.
+“Que después recibió veinte y cinco billetes de lotería de Santo .Domingo, del Padre Billini, que le fueron enviados al apartado 131 ■del correo, y cuyo importe no ha pagado, porque los dió a vender a Caguas, y en eso vino el registro; y que a los cinco o seis díasi recibió por correo, en el apartado 131 un sobr-e con un papel dentro, que decía: ‘Francisco Castañeda. Sírvase remitirme dinero en giro para enviarlo a su destino. Si quiere mercancía, venga pronto pues quedan pocos días.’ * * “• Que los billetes eran veinte y cinco del sorteo de 7 de septiembre a $2.25; y que su apartado en Río Piedras es el 131. A la defensa contesta: Que él había comprado un caballo a Bernabé Martínez de Humaeao, y como no lo pagó de contado le ■exigió una garantía, y él ofreció la firma de Virella, y Martínez la .aceptó siempre que Cerecedo la aceptara porque Martínez tenía nego-cios con Cerecedo y le tenía que remesar dinero todos los meses; que fué a ver a Cerecedo, y esa fué su primera y última entrevista, y ■entonces le ofreció Cerecedo el negocio de billetes y él tomó los billetes para venderlos en Río Piedras, y colocarlos, buscando uno que se ganara la diferencia entre $2.25 en que los compraban, y $3.00 en •que se vendían. # # ■
+(b) en la declaración de- Fernando J. Gréigel, Juez Municipal dq San Juan que expidió la orden de allanamiento “por ■ virtud de declaraciones que se le Rabian presentado asegu-rando que Cerecedo se dedicaba a la venta de billetes de lotería” y que presenció el registro. El testigo reconoció dos libros ocupados én casa de Cerecedo, uno en un escritorio pequeño de uso particular de Cerecedo, según éste le mani-festó, y otro en un escritorio grande que babía en la misma oficina de Cerecedo.
+(c) en la declaración de Walter M. St. Elmo, Jefe del Bureau de Información del Gobierno, que practicó el registro bailando entre otras cosas “mil y más billetes de lotería y un contrato firmado por Cerecedo para traer todos los meses diez mil billetes de Santo Domingo, unos libros, documentos y listas de lotería.” El testigo reconoció los dos libros que le presentó el Fiscal.
+(d) ■ en una cuenta que figura en uno de los libros ocu-pados y reconocidos, que dice:
+(e)en un libro copiador de cartas, que fué el otro ocu-pado y reconocido, en cuyo folio 2 aparece una cuenta a nom-bre de Francisco Castañeda idéntica a la ya presentada.
+Esa prueba examinada en conjunto deja en el ánimo del juzgador la impresión clara y convincente de que el acusado se dedicaba al negocio de billetes de lotería. Sobre ésto, a nuestro juicio, no bay duda alguna. Veamos si el becbo específico imputado al acusado se comprobó debidamente.
+Dicho becbo específico consistió en la venta de billetes por el acusado a Castañeda. Estudiada la declaración de Castañeda ño se puede concluir que la llevada a efecto fuera una venta de contado, pero sí se puede deducir que al tras-mitir Cerecedo a Castañeda los billetes, éste se hizo respon-sable de su precio paira con Cereeedo. De becbo fné una' venta, quedando el precio aplazado. Castañeda a sn vez iba a vender a otras personas los billetes adquiridos, pero no iba a hacerlo como agente de Cereeedo sino por su propia cuenta y riesgo. Cuando Cereeedo se dirigió a Castañeda por escrito después del contrato, no lo bizo para pedirle que le rindiera cuenta de la venta de los billetes, sino para que le pagara la totalidad del precio de los mismos. Siendo ello así,.puede concluirse que el hecho específico imputado en la acusación al acusado quedó también comprobado en el juicio.
+En cuanto al valor probatorio de la declaración de Cas-tañeda, diremos que si se considera a dicho Castañeda como un simple comprador, entonces no es cómplice y su declara-ción no necesita corroborarse. Véase el caso de El Pueblo v. Vázquez, 19 D. P. R., 1045, y el recurso No. 671 El Pueblo v. Cerecedo que acabamos de decidir. T si se le considera ■como cómplice, es indudable que no ya los documentos pre-sentados por él mismo, sino los ocupados en la casa de Cere-cedo, a presencia de éste, corroboran su declaración en la forma que la ley exige.
+Examinemos el segundo error. Argumentándolo el ape-' lante sostiene que los libros admitidos como prueba no se identificaron suficientemente. A nuestro juicio, no tiene ra-zón el apelante. Los libros fueron ocupados en el registro practicado en la casa de Cereeedo por orden del Juez Municipal de San Juan, expedida a virtud de declaraciones que se' le habían presentado asegurando que Cereeedo se dedi-caba a la venta de billetes de lotería, y fueron encontrados, hallándose presente el acusado, en un escritorio particular de éste y en otro escritorio grande que había en la misma oficina. Y la parte de dichos libros ofrecida como prueba examinada en relación con lo declarado por el testigo Cas-tañeda, se refiere claramente al delito investigado.
+Examinemos el tercero y último de los errores alegados. Por él sostiene el apelante que la corte erró al admitir como prueba unos libros que fueron ocupados por virtud de nna orden de allanamiento expedida en violación del “ precepto de la enmienda Y de la Constitución de los Estados Unidos que protege a toda persona contra cualquier tentativa a ha-cerla declarar contra sí misma en un proceso criminal.”
+El apelante suscitó tal cuestión por vez primera en el acto mismo de la vista de la causa, y ya hemos decidido en el recurso No. 671 interpuesto por el mismo apelante, de acuerdo con la jurisprudencia constante de los tribunales americanos, que cuando una corte está celebrando un juicio criminal, no tomará en consideración la forma en que se hayan obtenido los documentos que se presenten debidamente como prueba y qué sean esenciales a la causa que se está investigando.
+Por virtud de todo lo expuesto, no apareciendo que se haya cmetido error fundamental alguno en contra del acusado, procede declarar sin lugar el recurso y confirmar la sentencia apelada.
+Confirmada la sentencia apelada.
+Jueces concurrentes: Sres. Presidente Hernández y Aso-ciados Wolf, Aldrey y Hutchison.
