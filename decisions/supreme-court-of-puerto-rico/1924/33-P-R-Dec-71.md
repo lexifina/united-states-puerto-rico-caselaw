@@ -1,0 +1,36 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "2988"
+decided: "1924-04-24"
+citations: ["33 P.R. Dec. 71"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Villar, Demandante y Apelante, v. Portalatín, Demandado y Apelado."]
+source_url: "https://static.case.law/pr-dec/33/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8799122
+cites_cases: ["26 L.R.A. (N.S.) 323", "46 N. Y. 349", "7 A. R. 352", "8 L.R.A. (N.S.) 327", "9 L.R.A. (N.S.) 960"]
+---
+
+# Villar v. Portalatín
+
+## Majority (El Juez Asociado Señok Wole,)
+
+El Juez Asociado Señok Wole,
+emitió la opinión del tribunal.
+El demandante es dueño de una casa y solar en Cataño y el demandado, un menor de edad bajo la patria potestad de su madre, posee una casa y solar contiguos. Ambos de es-tos solares pertenecieron al causante del demandado. La demanda alegaba que dicho causante construyó o utilizaba una cisterna para uso de las dos casas, y se pedía a la corte que dictara sentencia condenando al demandado a recono-cer la existencia de una servidumbre de toma de aguas.
+La corte inferior declaró probado, y la prueba sostiene la conclusión, de que en vida del causante no había más que una sola bomba para la extracción del agua; que la cisterna y bomba están' exclusivamente dentro del solar del deman-dado; que no había signos visibles al exterior de tal toma de agua de la casa del demandante; que ese servicio siem-pre se verificaba ya alumbrando el agua por medio de cu-bos, o por una sola bomba y ello dentro del solar de la casa del demandado. La corte consideró también la teoría del demandante. Esta fue que las canales y bajantes conducían el agua del techo de ambas casas y este modo de conducción, unido al uso continuo, era el signo aparente de' una servi-dumbre de toma de agua. La corte resolvió que estas ba-jantes meramente indicaban que el antiguo propietario quiso que las aguas del techo de la casa fueran recogidas en bene-ficio de la cisterna situada ahora en el solar del demandado. La corte continuó entonces diciendo:
+“Invoca el demandante en su favor los preceptos del Artículo 548 del Código Civil de Puerto Rico, que dice así:
+“ ‘La existencia de un signo aparente de servidumbre entre dos ñncas establecido por el propietario de ambas, se considerará, si se enajenare una, como título para que la servidumbre continúe activa y pasivamente, a no ser que, al tiempo de separarse la propiedad' de las dos fincas, se exprese lo contrario en el título de enajenación de cualquiera de ellas, o se haga desaparecer aquel signo antes del otor-gamiento de la escritura/
+“Acerca de este artículo, dice Manresa en su conocida Obra de Comentarios al Código Civil, Tomo 4to, páginas 615 y 616:
+“ ‘No cabe duda que la disposición es sólo aplicable a las servi-dumbres-aparentes, sean o no continuas, porque el artículo parte del supuesto de que existe un signo externo permanente y visible que revele un uso y aprovechamiento determinado a la forma especial de disfrute por el único propietario; la ley quiere precisamente el signo como prueba clara y no controvertible de la servidumbre y solo así se concibe que el artículo expresa después que ese signo se conside-rare como el título de la servidumbre. ”
+“Se demostró en el juicio que existía la costumbre de utilizar los vecinos de dichas casas, cuando eran del mismo propietario (el cau-sante del demandado), las aguas de la cisterna, alumbrándolas por el brocal, por medio de latas o cubos y por la bomba. La existencia de esa costumbre no justifica la pretensión del demandante de que se' reconozca una servidumbre a beneficio de su finca, desobedeciendo los términos precisos del artículo 548 del Código Civil antes citado. Permitir o tolerar la extracción de aguas, ya por latas o cubos por el brocal de la cisterna, o por una bomba en una casa, es cosa bien distinta de la existencia de un signo aparente y constante de 'servi-dumbre entre las dos fincas. Ni el brocal, ni la bomba, por sí solos y sin conexión con la finca del pretendiente, pueden ser estimados como signos aparentes del gravamen que se pretende a favor de tal finca. No deben confundirse actos de mera tolerancia con los signos aparentes de que la ley trata.”
+Sostiene el apelante que no hubo ninguna prueba de existir una costumbre general de tomar agua, pero este es un hecho sostenido por la declaración de la madre del de-mandado. Evidentemente que la corte creyó su declara-ción y encontramos que esta creencia no era injustificada.
+Ella también declaró tendente a probar que nunca se ha-bía opuesto a la toma de agua en la forma acostumbrada; que el demandante había insistido en que se le permitiera llevar agua de la cisterna por tubería y ella se había negado. En los preliminares de este” procedimiento .obtuvo el deman-dante una orden de injunction y luego procedió a colocar tubos de la cisterna, e instaló una bomba en su misma finca.
+Sin ninguna consideración de los hechos referidos en el párrafo que precede inmediatamente, la corte claramente tuvo razón al sostener que no existían signos visibles de una servidumbre de toma de agua. Tales signos como los que había, según dijo la corte, eran aquellos que indicaban una introducción dentro de la cisterna más que una toma exterior.
+La ley en lo que respecta a la necesidad de signos apa-rentes de una servidumbre, cuando la finca está separada o dividida como en este caso, es igual en los Estados Unidos que en Puerto Eico. Ninguna servidumbre o cuasi servi-dumbre de la especie alegada puede surgir sin algunos sig-nos aparentes o visibles. Aunque a la palabra “aparente” se le ha dado el alcance de incluir conexiones subterráneas u otras semejantes, que pueden descubrirse por un perito, las decisiones muestran que debe existir algo así como tu-bería, o signos indicativos de una toma externa. Miller v. Hoeschler, 8 L.R.A. (N.S.) 327 y notas; Rollo v. Nelson, 26 L.R.A. (N.S.) 323; Jobling v. Tuttle, 9 L.R.A. (N.S.) 960; Butterworth v. Crawford, 46 N. Y. 349, 7 A. R. 352.
+En los Estados Unidos cuando dos propiedades están separadas, debe existir alguna necesidad para la alegada servidumbre o cuasi servidumbre. Tal necesidad no podría surgir en este caso, pues la prueba tiende a demostrar que si bien el espacio no es grande, el demandante tiene amplia sitio para construir una cisterna en su misma finca y condu-cir allí el agua del techo de su misma casa, o instalar un tanque.
+El demandante tuvo dificultad en conservar a los arren-datarios y concibió la idea de que podía instalar tubería y una bomba a su gusto. Para evitar esto el demandado pre-sentó una contrademanda y obtuvo sentencia en rebeldía. Insiste ahora el apelante en que esta contrademanda sólo se notificó a sn abogado y no a él como prescribe el Código de Enjuiciamiento Civil.
+Quizás tiene razón el demandante, pero los poderes de equidad de una corte son amplios y cuando los hechos como se han revelado demuestran una usurpación creemos que la corte podía ordenar al demandante que quitara la tubería y bomba, sin necesidad de una contrademanda. El deman-dante está obligado a respetar los derechos del demandado.
+Debe confirmarse la sentencia.
