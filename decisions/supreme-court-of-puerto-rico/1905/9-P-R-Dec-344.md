@@ -1,0 +1,34 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "39"
+decided: "1905-11-06"
+citations: ["9 P.R. Dec. 344"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jueces concurrentes: Sres. Presidente Quiñones y Aso-ciados, Hernández, Figueras y Wolf."]
+parties: ["El Pueblo v. Córdova."]
+source_url: "https://static.case.law/pr-dec/9/cases/0344-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8848226
+---
+
+# Pueblo v. Córdova
+
+## Majority (El Juez Asociado Se. MacLeaby,)
+
+El Juez Asociado Se. MacLeaby,
+emitió la opinión del tribunal.
+No se, encuentran en los autos ningún- pliego de excep-ciones ni exposición de hechos. Por consiguiente, pueden reducirse él examen y la consideración de la presente causa.
+En la acusación se alega que el acusado sedujo á la jo-ven expresando el nombre de ésta. La ley define la persona cuya seducción está prohibida, como una mujer sol-tera. Código Penal, sección 261. El abogado del acusa-do, en su discusión de la causa y en la vista de la misma ante este Tribunal, alega éste como un motivo para la re-vocación de la sentencia.
+No se llamó la atención del Tribunal sobre este punto mediante una objeción presentada contra la acusación, si-no que dicho punto fué mencionado por primera vez en el informe oral pronunciado ante este Tribunal. En la acu-sación, se han llenado todos los requisitos expresados en la sección 82 del Código de Enjuiciamiento Criminal, que constituyen todos aquellos que ordinariamente son necesa-rios para la' validez de la acusación; y según la sección 83, no puede tenerse por insuficiente tal acusación, á menos que el “defecto ó imperfección de formas• tienda en lo esencial á perjudicar los derechos del acusado.” Las pa-labras “una joven” y “una mujer soltera” son sinónimas para los fines del presente caso. La perjudicada es una joven y soltera. Si hubiese sido casada, el acusado hubie-.ra podido probar tal hecho, y esto hubiese sido una perfecta defensa. La inexactitud de la acusación no le priva-ba de ningún derecho esencial. Es dudoso que una obje-ción presentada por el motivo indicado, hubiera sido sos-tenida, aún cuando hubiera sido presentada á su debido tiempo; pero, ciertamente, semejante objeción viene de-masiado tarde después de una declaración de culpabili-dad pronunciada por un tribunal sentenciador, y una aj)elación interpuesta ante este Tribunal'.
+Se pretende, además, que la prueba presentada por el fiscal en el juicio, es insuficiente para justificar una decla-ración de culpabilidad. No conteniendo los autos ningún pliego de excepciones ni exposición de hechos, no es posi-ble que este Tribunal conozca, ó esté enterado en debida forma, dé la prueba, en que fué basada la declaración de culpabilidad. Siendo esto así, hay que presumir que el Tribunal sentenciador tuvo á la vista pruebas legales su-ficientes para justificar el veredicto de culpable, dado por el jurado, y el fallo declarando convicto al acusado, pronunciado por el tribunal. Pero si examinamos los autos más detenidamente, encontraremos que la objeción del abogado á la insuficiencia de las pruebas está basada en la idea de que el testimonio de la perjudicada, conside-rado en sí, sin corroboración, no es suficiente para justi-ficar una declaración de culpabilidad; y en apoyo de esta proposición, se hace referencia á la sección 250 del Código de Enjuiciamiento Criminal de Puerto Pico, que exige en ciertos casos que el testimonio de la testigo' denunciante sea corroborado. Esta sección del Código de Enjuicia-miento Criminal á que se ha hecho referencia anterior-mente, es idéntica á la sección 3108 del Código Penal de California, y ninguna de ellas se refiere al delito de seducción; éste se define en la sección 261 del Códi-go Penal de Puerto Rico, y la 268 del Código Penal de California, cuyas secciones son idénticas.
+El testimonio'no corroborado de la mujer perjudicada en un proceso por seducción, es suficiente para declarar culpable al acusado, si el jurado cree que dicho testimonio es cierto. Así se ha declarado en la causa de The People v. Wade. 118 California 672. Precisamente esta misma'cues-tíón fue presentada- ante este Tribunal, en la causa de El Pueblo de Puerto Rico contra Angel Santos y Santos, que fue fallada por nosotros en 23 de abril último. Dicha cau-sa fué discutida detenidamente, y se citaron amplia y de-bidamente las autoridades. Si los abogados hubiesen exa-minado esta última causa, el fallo pronunciado en la mis-ma, ciertamente hubiese resuelto la cuestión presentada ante este Tribunal.
+El letrado defensor del reo, también pretende en su ale-gato é informe oral, que el Tribunal sentenciador incurrió en error en las instrucciones que dió al jurado. Las pala-bras de que se queja son las siguientes
+“Es el deber de la Corte, manifestaros que ningún acto posterior absolutamente puede tomarse en cuenta, para la resolución de este caso. Nada importa la conducta seguida después por la perjudicada.”
+Sin duda, el tribunal sentenciador, al dar estas instruc-ciones al jurado, hizo referencia á la reputación de mujer casta que había gozado anteriormente la perjudicada; y se ha declarado en California, que es propio limitar la con-sideración de la reputación de mujer casta gozada ante-riormente por la testigo denunciante, al tiempo anterior á su seducción. Parados fines del proceso por seducción, la reputación de la mujer después de la fecha de su seduc-ción no es esencial para el caso.' Este ha sido claramente resuelto por el Tribunal Supremo de California, en la cau-sa de The People v. Wade, mencionada anteriormente, y también en la de The People v. Kehoe, 123 California 224.
+Las instrucciones pudieran haber sido más claras con respecto á este punto; pero no cabe duda alguna de que, al considerarlas en relación con las pruebas que tenían á la vista el tribunal y el jurado, eran suficientemente cla-ras para todos los fines prácticos, y que no dieron al jura-do una idea errónea en ningún respecto.
+Pero como estas instrucciones se refieren á la prueba practicada en el acto del juicio y no bay nada que demues-tre á este tribunal cuál fue esa prueba, no podemos decir que dichas instrucciones eran erróneas, aún cuando.así se dedujera de ellas mismas. Según todo aquello que consta en los autos, eran por cierto perfectamente propias y co-rrectas. La^ presunción está á favor de la corrección de las instrucciones dadas por el tribunal, en un caso como el presente; y el acusado que alegue su incorrección, está en el deber de exponerla claramente á este Tribunal de Apelación.. '
+No habiendo en los autos nada que justifique la revoca-ción de la sentencia dictada en esta causa, debe confirmar- se dicha sentencia.
+Confirmada.
+Jueces concurrentes: Sres. Presidente Quiñones y Aso-ciados, Hernández, Figueras y Wolf.
