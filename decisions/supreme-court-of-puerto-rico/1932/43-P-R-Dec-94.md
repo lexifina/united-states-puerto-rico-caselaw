@@ -1,0 +1,31 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "853"
+decided: "1932-02-10"
+citations: ["43 P.R. Dec. 94"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Antonia Fortis Estrella, Ermelindo, Tomás, Isabel, Adelina, María Josefa y Juan María Escalera Santiago y Edelmiro Martínez Rivera, recurrentes v. El Registrador de la Propiedad de Ponce, recurrido."]
+source_url: "https://static.case.law/pr-dec/43/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8794242
+cites_cases: ["25 D.P.R. 69", "41 D.P.R. 756"]
+---
+
+# Fortis Estrella v. Registrador de la Propiedad de Ponce
+
+## Majority (El Juez Presidente Señor del Toro,)
+
+El Juez Presidente Señor del Toro,
+emitió la opinión del tribunal.
+Cuarenta y cuatro personas, hijos, nietos y biznietos de doña Josefa Estrella y Torres, tramitaron un expediente de dominio y en él obtuvieron que se les declarara dueños a tí-tulo de herencia intestada de una finca sita en el término municipal de Orocovis que fué de doña Josefa.
+Presentada la declaratoria para su inscripción en el re-gistro de la propiedad correspondiente, el registrador la ve-rificó, pero con el defecto subsanable de no expresarse en la misma ni en la de herederos que se acompañó, la fecha del fallecimiento de los ascendientes a quienes representaban en la sucesión de la Señora Estrella sus nietos y biznietos, cuyo defecto sería insubsanable si resultare que dichos ascendien-tes fallecieron después de Doña Josefa, porque en tal caso no existiría el derecho de representación, y porque tendría que acreditarse entonces el pago del impuesto o la exención de pago del impuesto sobre las respectivas herencias o sucesio-nes.
+No conformes con la nota, los promoventes recurrieron para ante este tribunal que la revocó por entender que el registrador no tenía facultades para calificar la justicia o el error de la resolución judicial cuya inscripción se le pedía, y la declaratoria de dominio quedó inscrita sin defecto al-guno en el registro. Sucesión Estrella v. Registrador de Ponce, 41 D.P.R. 756.
+Así las cosas, las cuarenta y cuatro personas de referen-cia procedieron a dividir materialmente la finca de que se les declaró dueños, titulando la división “partición de los bienes dejados a su óbito por Josefa Estrella”, y presen-tándola para su inscripción en el registro. El registrador negó la inscripción solicitada en cuanto a las fincas 11, 1, 7 y 12, por no haber consentido en la división el partícipe Arturo Santiago Fortis; por no constar que estuvieran debi-damente representados varios menores de edad, y porque ex-cediendo de $200 varias participaciones, no se acreditaba el pago o la exención del pago de la contribución sobre heren-cia que fija la ley.
+Los interesados acudieron de nuevo al registro presen-tando la declaratoria de herederos de Arturo Santiago For-tis, una certificación del Secretario de la Corte de Distrito de Ponce relativa a la representación de los menores que concurrieron a la partición y una certificación del Tesorero de Puerto Rico de la cual resulta que la notificación de de-función de Doña Josefa Estrella hecha el Io de febrero de 1931 fué devuelta por dicho funcionario sin haberse tomado en consideración, por la razón de que dicha causante falleció en el año 1894 y la ley sobre contribución de herencia em-pezó a regir en enero de 1901. El registrador se negó a con-vertir la anotación preventiva en definitiva “porque a pesar de los documentos relacionados . . . subsiste el tercer mo-tivo que impidió la inscripción, porque la supradicha certifi-cación del Sub-Tesorero de Puerto Rico, no acredita el pago ni la exención de pago del impuesto sobre la herencia de María Socorro Fortis, María Camila Fortis, y Francisca For-tis y Estrella, y María del Carmen Fortis Rivera; y sub-siste también lo expresado en la negativa respecto a la cuota del viudo de dicha María Socorro Fortis; y del de María Camila Fortis; del de Severiana Fortis, y del de María del Carmen Fortis Rivera.”
+Los interesados entonces interpusieron el presente recurso gubernativo. Sostienen en su alegato que este caso quedó resuelto por el de la Sucesión de Josefa Estrella v. Registrador de Ponce, supra. Contesta el registrador que él no está calificando ahora una resolución judicial, sino el informe del contador partidor.
+Un estudio detenido de todos los hechos envueltos y de la ley aplicable nos lleva a concluir que en estricto derecho, quizá es el verdadero el criterio que sustenta el registrador. Pero habiendo quedado como quedó inscrita la finca de que se trata en común y pro indiviso a favor de los herederos de doña Josefa sin defecto alguno a virtud de la resolución de esta Corte en el repetido caso de Sucesión Estrella v. Registrador de Ponce, supra, esos herederos tienen perfecto de-recho a dividirla materialmente entre sí, y no otra cosa hi-cieron en la partición cuya inscripción negó en parte el re-gistrador.
+La diferencia de criterio entre los recurrentes y el regis-trador consiste en que los primeros sostienen que aquí se trata únicamente de la herencia de' doña Josefa fallecida en 1894, declarada directamente a favor de sus hijos, nietos y biznietos, por la Corte de Distrito de Ponce en 1929, y el úl-timo insiste en que eso no pudo hacerse porque entre los de-clarados herederos hay algunos que no pueden serlo por de-recho de representación. Pero el hecho cierto es que bien o mal, lo fueron, y que la resolución judicial que así lo declaró sirvió de base al expediente de dominio que con ella adjunta quedó inscrito definitivamente en el registro sin los defectos que había apuntado el registrador. Y hace aun más fuerte el caso de los recurrentes la actitud adoptada por el propio Tesorero de Puerto Rico al aceptar que se trata de la tras-misión de una herencia de fecha 4 de noviembre de 1894.
+Parece oportuno agregar, examinado el caso de Fortis v. Fortis, 25 D.P.R. 69, citado por el propio registrador, que tal vez la realidad en este caso sea que los inmediatos ante-cesores de los recurrentes no disfrutaron de la herencia de la Sra. Estrella que pasó a los mismos de hecho directamente.
+Por virtud de todo lo expuesto, debe revocarse la nota recurrida y ordenarse la inscripción solicitada.
