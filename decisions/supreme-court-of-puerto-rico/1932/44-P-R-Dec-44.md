@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "5807"
+decided: "1932-11-22"
+citations: ["44 P.R. Dec. 44"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["María Dueño Vda. de García, demandante y apelada, v. Eva, Elíseo y Rafael Angel Mangual Santana, demandados y apelantes."]
+source_url: "https://static.case.law/pr-dec/44/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8796917
+---
+
+# Dueño Vda. de García v. Mangual Santana
+
+## Majority (El Juez Asociado Señor Aldrey,)
+
+El Juez Asociado Señor Aldrey,
+emitió la opinión del tribunal.
+Da. Aurelia Santana viuda de Mangual reconoció en un pagaré ser deudora a la demandante de cierta cantidad de dinero y pocos meses después de ocurrir su fallecimiento fueron demandados sus tres hijos y únicos herederos, me-nores de edad, para que pagasen esa deuda. Los deman-dados alegaron como defensa que la herencia de su madre fuá aceptada a beneficio de inventario por su tutor. En el juicio se probó que el tutor de dichos menores hizo un inven-tario de los bienes relictos por la causante de ellos y no se presentó evidencia de que obtuviera autorización judicial para aceptar esa herencia sin beneficio de inventario. La sentencia dictada en el pleito se limitó a condenar a los demandados al pago de la cantidad reclamada y contra ella interpusieron los demandados este recurso de apelación porque no declara qne sólo son responsables de esa denda con los bienes que heredaron-de la madre, citando como infringidos los artículos 959 en relación con el 282 apartado décimo y 989, todos del Código Civil Bevisado.
+El artículo 959 dispone que la herencia dejada a los menores de edad podrá ser aceptada a tenor de lo dispuesto en el apartado décimo del artículo 282 y que si la aceptara por sí el tutor, la aceptación se entenderá hecha a beneficio de inventario. El artículo 282 y su párrafo 10 declara que el tutor necesitá autorización judicial de la corte de distrito competente para aceptar sin beneficio de inventario cualquiera herencia; y el 989 que el beneficio de inventario produce en favor del heredero los siguientes efectos: que no queda obligado a pagar las deudas y demás cargas de la herencia sino hasta donde alcancen los bienes de la misma: que conserva contra el caudal hereditario todos los derechos y acciones que tuviera contra el difunto; y que no se confundan para ningún efecto, en daño del heredero, sus bienes particulares con los que pertenezcan a la herencia.
+Como no hubo prueba de que al tutor de los menores apelantes se le concediera autorización judicial para aceptar sin beneficio de inventario en nombre de sus pupilos la herencia que lés dejó su madre Da. Aurelia Santana viuda de Mangual, la conclusión necesaria de acuerdo con los preceptos legales citados es que la aceptación de la herencia por el tutor se entiende hecha a beneficio de inventario y, por consiguiente, que los apelantes sólo están obligados a pagar la deuda reclamada hasta donde alcancen los bienes que heredaron de su madre. Así debió declararlo la corte inferior al dictar su sentencia condenatoria, sosteniendo la defensa que alegaron y probaron los demandados, y al no hacerlo infringió los mencionados preceptos del Código Civil.
+No sabemos los motivos que tuvo la corte sentencia-dora para pronunciar su sentencia en la forma que lo hizo pero la demandante apelada dice que no debe ser modificada porque cuando se embarguen bienes para cumplirla es que mediante tercería de dominio surgirá la cuestión de si los demandados sólo son responsables con los bienes heredados de la madre; fundándose en la sentencia del Tribunal Supremo de España, tomo 81 de la Jurisprudencia Civil, página 1007.
+No estamos conformes con la proposición de la apelada, pues al reclamar la demandante el pago de la deuda contraída por la causante de los demandados surgió propiamente la cuestión de que sus herederos sólo responden de ella con los bienes heredados de su madre por haber sido aceptada su herencia a beneficio de inventario. En cuanto a la sentencia citada declara que “si por una deuda hereditaria se embar-garan bienes privativos del heredero, puede éste impugnar el embargo utilizando la tercería de dominio, que es el recurso adecuado para mantener su derecho, igual en tal caso al de todo tercerista, por consistir en que los bienes propios no responden al pago de las deudas ajenas”; pero esa sentencia no es aplicable al caso presente porque fué dictada en un I procedimiento permitido por la ley de enjuiciamiento espa-ñola, en el que sin demanda y por la sola petición de los procuradores que representaron a sus deudores se embar-garon bienes de los herederos, no teniendo éstos, por tanto, otro recurso para mantener sus derechos en defensa de los bienes embargados que la tercería de dominio, mientras que en el caso que resolvemos existe una demanda y su contesta-ción alegando la expresada defensa.
+La sentencia apelada debe ser modificada en el sentido de declarar que los demandados son responsables de la deuda de su madre Da. Aurelia Santana viuda de Mangual hasta donde alcancen los bienes que heredaron de ella. Así modi-ficada debe ser confirmada.
