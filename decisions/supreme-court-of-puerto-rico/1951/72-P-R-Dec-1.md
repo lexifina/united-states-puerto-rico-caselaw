@@ -1,0 +1,31 @@
+---
+court: "Supreme Court of Puerto Rico"
+docket: "Núm. 10095"
+decided: "1951-01-08"
+citations: ["72 P.R. Dec. 1"]
+reporter: "pr-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["El Juez Asociado Sr. Snyder no intervino."]
+parties: ["Fernando Sierra Berdecía, Comisionado del Trabajo, en representación y para beneficio de Amelia Soto, Etc., demandante y apelado, v. L. Rodríguez & Cía., demandada y apelante."]
+source_url: "https://static.case.law/pr-dec/72/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8784266
+---
+
+# Sierra Berdecía v. Rodríguez
+
+## Majority (El Juez Asociado Señor Todd, Jr.,)
+
+El Juez Asociado Señor Todd, Jr.,
+emitió la opinión del tribunal.
+. El Decreto Mandatorio núm. 8 fijando salarios mínimos, horas máximas de labor y condiciones de trabajo en el Nego-cio de Ventas al Por Menor, aprobado por la Junta de Sala-rio Mínimo de Puerto Rico y vigente desde junio 5 de 1945, en su artículo A-l define dicho negocio en esta forma:
+“El Negocio de Ventas al por Menor comprende, sin que ello se entienda en modo alguno como limitación, todo acto, proceso, operación, trabajo o servicio necesarios, incidentales o relacio-nados con las ventas al por menor, o traspasos directos a los consumidores, de cualquier clase de mercaderías o artículos a cambio de dinero, prestación o cosa de valor, cuando tales ven-tas o traspasos se originen, concierten o consumen en algún esta-blecimiento o en sitio cualquiera destinado total o parcialmente a esos fines, o cuando se hagan fuera de dicho establecimiento o sitio a su nombre o para su beneficio. Quedan excluidos, sin embargo, los negocios, industrias, ocupaciones o ramo de los mismos que en el Decreto núm. 6 de esta Junta aplicable a hoteles, restaurantes, cantinas y fuentes de soda (el cual no quedará menoscabado en forma alguna), son objeto de regla-mentación o están exceptuados de su alcance.”
+Alegando que la querellada, L. Rodríguez & Cía.; había dejado de satisfacer a ciertos de sus empleados la compen-sación mínima fijada en dicho Decreto, el Comisionado del Trabajo de Puerto Rico inició la presente reclamación de salarios en representación y para beneficio de dichos em-pleados. Se alegó en la querella que dichos empleados pres-taron sus servicios en un negocio de ventas al por menor que explotaba la querellada en San Juan bajo el nombre de “El Corte Inglés”. El día de la vista la querellada aceptó que los empleados trabajaron el número de horas y percibieron el salario que se alega en la querella, pero manifestó que el Decreto Mandatorio núm. 8 no era aplicable a ellos ya que éstos trabajaban en un taller de sastrería que tenía “El Corte Inglés”, que no formaba parte de su negocio de ventas al por menor. En esta forma quedó limitada la controversia.
+El tribunal inferior declaró con lugar la querella y con-denó a la querellada a pagar a los querellantes la suma de $1,409.97 en concepto de salarios no satisfechos y además, una suma igual por concepto de penalidad, o sea un total de $2,819.94. No conforme con la sentencia la querellada apeló y en este recurso alega que el tribunal inferior erró al aplicar el Decreto Mandatorio núm. 8 a las actividades desempeñadas por los querellantes en el negocio de sastrería de la querellada.
+La prueba presentada por las partes demostró que la apelante tenía establecido en San Juan un establecimiento comercial al detall para efectos de caballeros bajo el nom-bre de “El Corte Inglés” en el cual se vendían trajes, cami-sas, ropa interior, etc.; que en la” segunda planta del mismo tenía un taller de sastrería en el cual trabajaban los que-rellantes; que en dicho taller se confeccionaban los trajes a la medida que eran ordenados individualmente por los clien-tes de la tienda y además, que en dicho taller se arreglaban, para ajustarlos a las medidas de dichos clientes, los trajes importados que se vendían en la tienda. También se probó que en el taller de sastrería se hacían uniformes para los miembros de la Policía Insular y para empleados de bancos y otras instituciones. Se probó además que en el taller no se hacían trajes para ser vendidos en la tienda a menos que fueran expresamente ordenados por los clientes.
+De acuerdo con esta prueba el tribunal inferior llegó a la siguiente conclusión:
+“Que el taller de sastrería de la querellada, por la natura-leza del trabajo que realizaba, así como por el carácter del negocio que efectuaba con clientes individuales, constituía, con la tienda de la querellada, un solo negocio cuyas transacciones eran completamente efectuadas al por menor.”
+Admite la apelante que la definición de lo que constituye un negocio de ventas al por menor contenida en el artículo A-l del Decreto Mandatorio núm. 8, supra, es sumamente amplia, pero sostiene que no puede extenderse para incluir en ella el proceso de manufactura de trajes a que se dedi-caba el taller de sastrería, el cual funcionaba independiente-mente de su tienda. Aceptando, sin resolverlo, que la ape-lante tuviera razón si la prueba hubiera demostrado que en ■efecto, la sastrería era un negocio separado e independiente de la tienda, el hecho es que la evidencia en este caso demostró lo contrario. El negocio de la apelante era uno sólo: una tienda al detall bajo el nombre de “El Corte Inglés”, en la cual, además de los efectos para caballeros ya confecciona-dos, se vendían trajes hechos a la medida para aquellos clien-tes que así lo deseaban y los cuales eran confeccionados en el taller de sastrería adscrito al negocio, en el cual además se arreglaban todos los trajes importados, ya hechos, para ajustarlos a las medidas de los clientes. Estas actividades realizadas en el taller de sastrería caen, a nuestro juicio, dentro del alcance de la definición de un negocio al por menor cuando en ella se dice que comprende . . todo acto, pro-ceso, operación, trabajo o servicio necesarios, incidentales o relacionados con las ventas al por menor, o traspasos direc-tos a los consumidores, de cualquier clase de mercaderías o artículos a cambio de dinero, . . .
+No erró el tribunal inferior al así resolverlo y en su con-secuencia procede se confirme la sentencia apelada.
+El Juez Asociado Sr. Snyder no intervino.
